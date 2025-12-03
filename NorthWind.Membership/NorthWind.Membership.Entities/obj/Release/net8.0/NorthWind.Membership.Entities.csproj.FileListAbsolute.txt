@@ -1,0 +1,61 @@
+C:\Users\BAR KARAOKE\Desktop\5to Semestre\Tecnologias y Desarrollo Web\NorthWind.Membership\NorthWind.Membership\NorthWind.Membership.Entities\bin\Release\net8.0\NorthWind.Membership.Entities.deps.json
+C:\Users\BAR KARAOKE\Desktop\5to Semestre\Tecnologias y Desarrollo Web\NorthWind.Membership\NorthWind.Membership\NorthWind.Membership.Entities\bin\Release\net8.0\NorthWind.Membership.Entities.dll
+C:\Users\BAR KARAOKE\Desktop\5to Semestre\Tecnologias y Desarrollo Web\NorthWind.Membership\NorthWind.Membership\NorthWind.Membership.Entities\bin\Release\net8.0\NorthWind.Membership.Entities.pdb
+C:\Users\BAR KARAOKE\Desktop\5to Semestre\Tecnologias y Desarrollo Web\NorthWind.Membership\NorthWind.Membership\NorthWind.Membership.Entities\obj\Release\net8.0\NorthWind.Membership.Entities.csproj.AssemblyReference.cache
+C:\Users\BAR KARAOKE\Desktop\5to Semestre\Tecnologias y Desarrollo Web\NorthWind.Membership\NorthWind.Membership\NorthWind.Membership.Entities\obj\Release\net8.0\NorthWind.Membership.Entities.Resources.UserRegistrationMessages.resources
+C:\Users\BAR KARAOKE\Desktop\5to Semestre\Tecnologias y Desarrollo Web\NorthWind.Membership\NorthWind.Membership\NorthWind.Membership.Entities\obj\Release\net8.0\NorthWind.Membership.Entities.csproj.GenerateResource.cache
+C:\Users\BAR KARAOKE\Desktop\5to Semestre\Tecnologias y Desarrollo Web\NorthWind.Membership\NorthWind.Membership\NorthWind.Membership.Entities\obj\Release\net8.0\NorthWind.Membership.Entities.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\BAR KARAOKE\Desktop\5to Semestre\Tecnologias y Desarrollo Web\NorthWind.Membership\NorthWind.Membership\NorthWind.Membership.Entities\obj\Release\net8.0\NorthWind.Membership.Entities.AssemblyInfoInputs.cache
+C:\Users\BAR KARAOKE\Desktop\5to Semestre\Tecnologias y Desarrollo Web\NorthWind.Membership\NorthWind.Membership\NorthWind.Membership.Entities\obj\Release\net8.0\NorthWind.Membership.Entities.AssemblyInfo.cs
+C:\Users\BAR KARAOKE\Desktop\5to Semestre\Tecnologias y Desarrollo Web\NorthWind.Membership\NorthWind.Membership\NorthWind.Membership.Entities\obj\Release\net8.0\NorthWind.Membership.Entities.csproj.CoreCompileInputs.cache
+C:\Users\BAR KARAOKE\Desktop\5to Semestre\Tecnologias y Desarrollo Web\NorthWind.Membership\NorthWind.Membership\NorthWind.Membership.Entities\obj\Release\net8.0\NorthWind.Membership.Entities.dll
+C:\Users\BAR KARAOKE\Desktop\5to Semestre\Tecnologias y Desarrollo Web\NorthWind.Membership\NorthWind.Membership\NorthWind.Membership.Entities\obj\Release\net8.0\refint\NorthWind.Membership.Entities.dll
+C:\Users\BAR KARAOKE\Desktop\5to Semestre\Tecnologias y Desarrollo Web\NorthWind.Membership\NorthWind.Membership\NorthWind.Membership.Entities\obj\Release\net8.0\NorthWind.Membership.Entities.pdb
+C:\Users\BAR KARAOKE\Desktop\5to Semestre\Tecnologias y Desarrollo Web\NorthWind.Membership\NorthWind.Membership\NorthWind.Membership.Entities\obj\Release\net8.0\ref\NorthWind.Membership.Entities.dll
+C:\aplicacionesmoviles\NorthWind.Membership\NorthWind.Membership\NorthWind.Membership.Entities\bin\Release\net8.0\NorthWind.Membership.Entities.deps.json
+C:\aplicacionesmoviles\NorthWind.Membership\NorthWind.Membership\NorthWind.Membership.Entities\bin\Release\net8.0\NorthWind.Membership.Entities.dll
+C:\aplicacionesmoviles\NorthWind.Membership\NorthWind.Membership\NorthWind.Membership.Entities\bin\Release\net8.0\NorthWind.Membership.Entities.pdb
+C:\aplicacionesmoviles\NorthWind.Membership\NorthWind.Membership\NorthWind.Membership.Entities\obj\Release\net8.0\NorthWind.Membership.Entities.csproj.AssemblyReference.cache
+C:\aplicacionesmoviles\NorthWind.Membership\NorthWind.Membership\NorthWind.Membership.Entities\obj\Release\net8.0\NorthWind.Membership.Entities.Resources.UserLoginMessages.resources
+C:\aplicacionesmoviles\NorthWind.Membership\NorthWind.Membership\NorthWind.Membership.Entities\obj\Release\net8.0\NorthWind.Membership.Entities.Resources.UserRegistrationMessages.resources
+C:\aplicacionesmoviles\NorthWind.Membership\NorthWind.Membership\NorthWind.Membership.Entities\obj\Release\net8.0\NorthWind.Membership.Entities.csproj.GenerateResource.cache
+C:\aplicacionesmoviles\NorthWind.Membership\NorthWind.Membership\NorthWind.Membership.Entities\obj\Release\net8.0\NorthWind.Membership.Entities.GeneratedMSBuildEditorConfig.editorconfig
+C:\aplicacionesmoviles\NorthWind.Membership\NorthWind.Membership\NorthWind.Membership.Entities\obj\Release\net8.0\NorthWind.Membership.Entities.AssemblyInfoInputs.cache
+C:\aplicacionesmoviles\NorthWind.Membership\NorthWind.Membership\NorthWind.Membership.Entities\obj\Release\net8.0\NorthWind.Membership.Entities.AssemblyInfo.cs
+C:\aplicacionesmoviles\NorthWind.Membership\NorthWind.Membership\NorthWind.Membership.Entities\obj\Release\net8.0\NorthWind.Membership.Entities.csproj.CoreCompileInputs.cache
+C:\aplicacionesmoviles\NorthWind.Membership\NorthWind.Membership\NorthWind.Membership.Entities\obj\Release\net8.0\NorthWind.Membership.Entities.dll
+C:\aplicacionesmoviles\NorthWind.Membership\NorthWind.Membership\NorthWind.Membership.Entities\obj\Release\net8.0\refint\NorthWind.Membership.Entities.dll
+C:\aplicacionesmoviles\NorthWind.Membership\NorthWind.Membership\NorthWind.Membership.Entities\obj\Release\net8.0\NorthWind.Membership.Entities.pdb
+C:\aplicacionesmoviles\NorthWind.Membership\NorthWind.Membership\NorthWind.Membership.Entities\obj\Release\net8.0\ref\NorthWind.Membership.Entities.dll
+D:\PROYECTOS_ESCRITORIO\ProyectoMoviles\Northwind\NorthWind.Membership\NorthWind.Membership.Entities\bin\Release\net8.0\NorthWind.Membership.Entities.deps.json
+D:\PROYECTOS_ESCRITORIO\ProyectoMoviles\Northwind\NorthWind.Membership\NorthWind.Membership.Entities\bin\Release\net8.0\NorthWind.Membership.Entities.dll
+D:\PROYECTOS_ESCRITORIO\ProyectoMoviles\Northwind\NorthWind.Membership\NorthWind.Membership.Entities\bin\Release\net8.0\NorthWind.Membership.Entities.pdb
+D:\PROYECTOS_ESCRITORIO\ProyectoMoviles\Northwind\NorthWind.Membership\NorthWind.Membership.Entities\obj\Release\net8.0\NorthWind.Membership.Entities.csproj.AssemblyReference.cache
+D:\PROYECTOS_ESCRITORIO\ProyectoMoviles\Northwind\NorthWind.Membership\NorthWind.Membership.Entities\obj\Release\net8.0\NorthWind.Membership.Entities.Resources.UserLoginMessages.resources
+D:\PROYECTOS_ESCRITORIO\ProyectoMoviles\Northwind\NorthWind.Membership\NorthWind.Membership.Entities\obj\Release\net8.0\NorthWind.Membership.Entities.Resources.UserRegistrationMessages.resources
+D:\PROYECTOS_ESCRITORIO\ProyectoMoviles\Northwind\NorthWind.Membership\NorthWind.Membership.Entities\obj\Release\net8.0\NorthWind.Membership.Entities.csproj.GenerateResource.cache
+D:\PROYECTOS_ESCRITORIO\ProyectoMoviles\Northwind\NorthWind.Membership\NorthWind.Membership.Entities\obj\Release\net8.0\NorthWind.Membership.Entities.GeneratedMSBuildEditorConfig.editorconfig
+D:\PROYECTOS_ESCRITORIO\ProyectoMoviles\Northwind\NorthWind.Membership\NorthWind.Membership.Entities\obj\Release\net8.0\NorthWind.Membership.Entities.AssemblyInfoInputs.cache
+D:\PROYECTOS_ESCRITORIO\ProyectoMoviles\Northwind\NorthWind.Membership\NorthWind.Membership.Entities\obj\Release\net8.0\NorthWind.Membership.Entities.AssemblyInfo.cs
+D:\PROYECTOS_ESCRITORIO\ProyectoMoviles\Northwind\NorthWind.Membership\NorthWind.Membership.Entities\obj\Release\net8.0\NorthWind.Membership.Entities.csproj.CoreCompileInputs.cache
+D:\PROYECTOS_ESCRITORIO\ProyectoMoviles\Northwind\NorthWind.Membership\NorthWind.Membership.Entities\obj\Release\net8.0\NorthWind.Membership.Entities.sourcelink.json
+D:\PROYECTOS_ESCRITORIO\ProyectoMoviles\Northwind\NorthWind.Membership\NorthWind.Membership.Entities\obj\Release\net8.0\NorthWind.Membership.Entities.dll
+D:\PROYECTOS_ESCRITORIO\ProyectoMoviles\Northwind\NorthWind.Membership\NorthWind.Membership.Entities\obj\Release\net8.0\refint\NorthWind.Membership.Entities.dll
+D:\PROYECTOS_ESCRITORIO\ProyectoMoviles\Northwind\NorthWind.Membership\NorthWind.Membership.Entities\obj\Release\net8.0\NorthWind.Membership.Entities.pdb
+D:\PROYECTOS_ESCRITORIO\ProyectoMoviles\Northwind\NorthWind.Membership\NorthWind.Membership.Entities\obj\Release\net8.0\ref\NorthWind.Membership.Entities.dll
+D:\PROYECTOS_ESCRITORIO\ProyectoMoviles\Web\Northwind\NorthWind.Membership\NorthWind.Membership.Entities\bin\Release\net8.0\NorthWind.Membership.Entities.deps.json
+D:\PROYECTOS_ESCRITORIO\ProyectoMoviles\Web\Northwind\NorthWind.Membership\NorthWind.Membership.Entities\bin\Release\net8.0\NorthWind.Membership.Entities.dll
+D:\PROYECTOS_ESCRITORIO\ProyectoMoviles\Web\Northwind\NorthWind.Membership\NorthWind.Membership.Entities\bin\Release\net8.0\NorthWind.Membership.Entities.pdb
+D:\PROYECTOS_ESCRITORIO\ProyectoMoviles\Web\Northwind\NorthWind.Membership\NorthWind.Membership.Entities\obj\Release\net8.0\NorthWind.Membership.Entities.csproj.AssemblyReference.cache
+D:\PROYECTOS_ESCRITORIO\ProyectoMoviles\Web\Northwind\NorthWind.Membership\NorthWind.Membership.Entities\obj\Release\net8.0\NorthWind.Membership.Entities.Resources.UserLoginMessages.resources
+D:\PROYECTOS_ESCRITORIO\ProyectoMoviles\Web\Northwind\NorthWind.Membership\NorthWind.Membership.Entities\obj\Release\net8.0\NorthWind.Membership.Entities.Resources.UserRegistrationMessages.resources
+D:\PROYECTOS_ESCRITORIO\ProyectoMoviles\Web\Northwind\NorthWind.Membership\NorthWind.Membership.Entities\obj\Release\net8.0\NorthWind.Membership.Entities.csproj.GenerateResource.cache
+D:\PROYECTOS_ESCRITORIO\ProyectoMoviles\Web\Northwind\NorthWind.Membership\NorthWind.Membership.Entities\obj\Release\net8.0\NorthWind.Membership.Entities.GeneratedMSBuildEditorConfig.editorconfig
+D:\PROYECTOS_ESCRITORIO\ProyectoMoviles\Web\Northwind\NorthWind.Membership\NorthWind.Membership.Entities\obj\Release\net8.0\NorthWind.Membership.Entities.AssemblyInfoInputs.cache
+D:\PROYECTOS_ESCRITORIO\ProyectoMoviles\Web\Northwind\NorthWind.Membership\NorthWind.Membership.Entities\obj\Release\net8.0\NorthWind.Membership.Entities.AssemblyInfo.cs
+D:\PROYECTOS_ESCRITORIO\ProyectoMoviles\Web\Northwind\NorthWind.Membership\NorthWind.Membership.Entities\obj\Release\net8.0\NorthWind.Membership.Entities.csproj.CoreCompileInputs.cache
+D:\PROYECTOS_ESCRITORIO\ProyectoMoviles\Web\Northwind\NorthWind.Membership\NorthWind.Membership.Entities\obj\Release\net8.0\NorthWind.Membership.Entities.sourcelink.json
+D:\PROYECTOS_ESCRITORIO\ProyectoMoviles\Web\Northwind\NorthWind.Membership\NorthWind.Membership.Entities\obj\Release\net8.0\NorthWind.Membership.Entities.dll
+D:\PROYECTOS_ESCRITORIO\ProyectoMoviles\Web\Northwind\NorthWind.Membership\NorthWind.Membership.Entities\obj\Release\net8.0\refint\NorthWind.Membership.Entities.dll
+D:\PROYECTOS_ESCRITORIO\ProyectoMoviles\Web\Northwind\NorthWind.Membership\NorthWind.Membership.Entities\obj\Release\net8.0\NorthWind.Membership.Entities.pdb
+D:\PROYECTOS_ESCRITORIO\ProyectoMoviles\Web\Northwind\NorthWind.Membership\NorthWind.Membership.Entities\obj\Release\net8.0\ref\NorthWind.Membership.Entities.dll

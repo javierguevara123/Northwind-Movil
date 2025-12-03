@@ -1,0 +1,1796 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\PROYECTOS_ESCRITORIO\\ProyectoMoviles\\Web\\Northwind\\NorthWind.Membership\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{182D16F4-EB2B-4179-AFD7-BC50CF255B55}|NorthWind.Membership.Entities\\NorthWind.Membership.Entities.csproj|d:\\proyectos_escritorio\\proyectomoviles\\web\\northwind\\northwind.membership\\northwind.membership.entities\\resources\\userloginmessages.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}",
+      "RelativeMoniker": "D:0:0:{182D16F4-EB2B-4179-AFD7-BC50CF255B55}|NorthWind.Membership.Entities\\NorthWind.Membership.Entities.csproj|solutionrelative:northwind.membership.entities\\resources\\userloginmessages.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12F63AD4-E5EF-4747-98D5-7D870E5DC9ED}|NorthWind.Membership.Backend.Core\\NorthWind.Membership.Backend.Core.csproj|d:\\proyectos_escritorio\\proyectomoviles\\web\\northwind\\northwind.membership\\northwind.membership.backend.core\\endpointscontainer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{12F63AD4-E5EF-4747-98D5-7D870E5DC9ED}|NorthWind.Membership.Backend.Core\\NorthWind.Membership.Backend.Core.csproj|solutionrelative:northwind.membership.backend.core\\endpointscontainer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12F63AD4-E5EF-4747-98D5-7D870E5DC9ED}|NorthWind.Membership.Backend.Core\\NorthWind.Membership.Backend.Core.csproj|d:\\proyectos_escritorio\\proyectomoviles\\web\\northwind\\northwind.membership\\northwind.membership.backend.core\\dependencycontainer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{12F63AD4-E5EF-4747-98D5-7D870E5DC9ED}|NorthWind.Membership.Backend.Core\\NorthWind.Membership.Backend.Core.csproj|solutionrelative:northwind.membership.backend.core\\dependencycontainer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12F63AD4-E5EF-4747-98D5-7D870E5DC9ED}|NorthWind.Membership.Backend.Core\\NorthWind.Membership.Backend.Core.csproj|d:\\proyectos_escritorio\\proyectomoviles\\web\\northwind\\northwind.membership\\northwind.membership.backend.core\\resources\\userloginmessages.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}",
+      "RelativeMoniker": "D:0:0:{12F63AD4-E5EF-4747-98D5-7D870E5DC9ED}|NorthWind.Membership.Backend.Core\\NorthWind.Membership.Backend.Core.csproj|solutionrelative:northwind.membership.backend.core\\resources\\userloginmessages.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12F63AD4-E5EF-4747-98D5-7D870E5DC9ED}|NorthWind.Membership.Backend.Core\\NorthWind.Membership.Backend.Core.csproj|d:\\proyectos_escritorio\\proyectomoviles\\web\\northwind\\northwind.membership\\northwind.membership.backend.core\\resources\\userregistrationmessages.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}",
+      "RelativeMoniker": "D:0:0:{12F63AD4-E5EF-4747-98D5-7D870E5DC9ED}|NorthWind.Membership.Backend.Core\\NorthWind.Membership.Backend.Core.csproj|solutionrelative:northwind.membership.backend.core\\resources\\userregistrationmessages.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12F63AD4-E5EF-4747-98D5-7D870E5DC9ED}|NorthWind.Membership.Backend.Core\\NorthWind.Membership.Backend.Core.csproj|d:\\proyectos_escritorio\\proyectomoviles\\web\\northwind\\northwind.membership\\northwind.membership.backend.core\\presenters\\userlogin\\userloginpresenter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{12F63AD4-E5EF-4747-98D5-7D870E5DC9ED}|NorthWind.Membership.Backend.Core\\NorthWind.Membership.Backend.Core.csproj|solutionrelative:northwind.membership.backend.core\\presenters\\userlogin\\userloginpresenter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12F63AD4-E5EF-4747-98D5-7D870E5DC9ED}|NorthWind.Membership.Backend.Core\\NorthWind.Membership.Backend.Core.csproj|d:\\proyectos_escritorio\\proyectomoviles\\web\\northwind\\northwind.membership\\northwind.membership.backend.core\\interfaces\\common\\imembershipservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{12F63AD4-E5EF-4747-98D5-7D870E5DC9ED}|NorthWind.Membership.Backend.Core\\NorthWind.Membership.Backend.Core.csproj|solutionrelative:northwind.membership.backend.core\\interfaces\\common\\imembershipservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AFCF83BF-079C-4897-9FB5-40F6181D198C}|NorthWind.Membership.Backend.AspNetIdentity\\NorthWind.Membership.Backend.AspNetIdentity.csproj|d:\\proyectos_escritorio\\proyectomoviles\\web\\northwind\\northwind.membership\\northwind.membership.backend.aspnetidentity\\services\\roleseeder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AFCF83BF-079C-4897-9FB5-40F6181D198C}|NorthWind.Membership.Backend.AspNetIdentity\\NorthWind.Membership.Backend.AspNetIdentity.csproj|solutionrelative:northwind.membership.backend.aspnetidentity\\services\\roleseeder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AFCF83BF-079C-4897-9FB5-40F6181D198C}|NorthWind.Membership.Backend.AspNetIdentity\\NorthWind.Membership.Backend.AspNetIdentity.csproj|d:\\proyectos_escritorio\\proyectomoviles\\web\\northwind\\northwind.membership\\northwind.membership.backend.aspnetidentity\\services\\membershipservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AFCF83BF-079C-4897-9FB5-40F6181D198C}|NorthWind.Membership.Backend.AspNetIdentity\\NorthWind.Membership.Backend.AspNetIdentity.csproj|solutionrelative:northwind.membership.backend.aspnetidentity\\services\\membershipservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12F63AD4-E5EF-4747-98D5-7D870E5DC9ED}|NorthWind.Membership.Backend.Core\\NorthWind.Membership.Backend.Core.csproj|d:\\proyectos_escritorio\\proyectomoviles\\web\\northwind\\northwind.membership\\northwind.membership.backend.core\\controllers\\userlogin\\userlogincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{12F63AD4-E5EF-4747-98D5-7D870E5DC9ED}|NorthWind.Membership.Backend.Core\\NorthWind.Membership.Backend.Core.csproj|solutionrelative:northwind.membership.backend.core\\controllers\\userlogin\\userlogincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12F63AD4-E5EF-4747-98D5-7D870E5DC9ED}|NorthWind.Membership.Backend.Core\\NorthWind.Membership.Backend.Core.csproj|d:\\proyectos_escritorio\\proyectomoviles\\web\\northwind\\northwind.membership\\northwind.membership.backend.core\\usecases\\userlogin\\userlogininteractor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{12F63AD4-E5EF-4747-98D5-7D870E5DC9ED}|NorthWind.Membership.Backend.Core\\NorthWind.Membership.Backend.Core.csproj|solutionrelative:northwind.membership.backend.core\\usecases\\userlogin\\userlogininteractor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12F63AD4-E5EF-4747-98D5-7D870E5DC9ED}|NorthWind.Membership.Backend.Core\\NorthWind.Membership.Backend.Core.csproj|d:\\proyectos_escritorio\\proyectomoviles\\web\\northwind\\northwind.membership\\northwind.membership.backend.core\\northwind.membership.backend.core.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{12F63AD4-E5EF-4747-98D5-7D870E5DC9ED}|NorthWind.Membership.Backend.Core\\NorthWind.Membership.Backend.Core.csproj|solutionrelative:northwind.membership.backend.core\\northwind.membership.backend.core.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AFCF83BF-079C-4897-9FB5-40F6181D198C}|NorthWind.Membership.Backend.AspNetIdentity\\NorthWind.Membership.Backend.AspNetIdentity.csproj|d:\\proyectos_escritorio\\proyectomoviles\\web\\northwind\\northwind.membership\\northwind.membership.backend.aspnetidentity\\dependencycontainer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AFCF83BF-079C-4897-9FB5-40F6181D198C}|NorthWind.Membership.Backend.AspNetIdentity\\NorthWind.Membership.Backend.AspNetIdentity.csproj|solutionrelative:northwind.membership.backend.aspnetidentity\\dependencycontainer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{182D16F4-EB2B-4179-AFD7-BC50CF255B55}|NorthWind.Membership.Entities\\NorthWind.Membership.Entities.csproj|d:\\proyectos_escritorio\\proyectomoviles\\web\\northwind\\northwind.membership\\northwind.membership.entities\\userlogin\\tokensdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{182D16F4-EB2B-4179-AFD7-BC50CF255B55}|NorthWind.Membership.Entities\\NorthWind.Membership.Entities.csproj|solutionrelative:northwind.membership.entities\\userlogin\\tokensdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{182D16F4-EB2B-4179-AFD7-BC50CF255B55}|NorthWind.Membership.Entities\\NorthWind.Membership.Entities.csproj|d:\\proyectos_escritorio\\proyectomoviles\\web\\northwind\\northwind.membership\\northwind.membership.entities\\userlogin\\userlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{182D16F4-EB2B-4179-AFD7-BC50CF255B55}|NorthWind.Membership.Entities\\NorthWind.Membership.Entities.csproj|solutionrelative:northwind.membership.entities\\userlogin\\userlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12F63AD4-E5EF-4747-98D5-7D870E5DC9ED}|NorthWind.Membership.Backend.Core\\NorthWind.Membership.Backend.Core.csproj|d:\\proyectos_escritorio\\proyectomoviles\\web\\northwind\\northwind.membership\\northwind.membership.backend.core\\usecases\\usermanagement\\updateuserinteractor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{12F63AD4-E5EF-4747-98D5-7D870E5DC9ED}|NorthWind.Membership.Backend.Core\\NorthWind.Membership.Backend.Core.csproj|solutionrelative:northwind.membership.backend.core\\usecases\\usermanagement\\updateuserinteractor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12F63AD4-E5EF-4747-98D5-7D870E5DC9ED}|NorthWind.Membership.Backend.Core\\NorthWind.Membership.Backend.Core.csproj|d:\\proyectos_escritorio\\proyectomoviles\\web\\northwind\\northwind.membership\\northwind.membership.backend.core\\usecases\\usermanagement\\unlockuserinteractor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{12F63AD4-E5EF-4747-98D5-7D870E5DC9ED}|NorthWind.Membership.Backend.Core\\NorthWind.Membership.Backend.Core.csproj|solutionrelative:northwind.membership.backend.core\\usecases\\usermanagement\\unlockuserinteractor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{182D16F4-EB2B-4179-AFD7-BC50CF255B55}|NorthWind.Membership.Entities\\NorthWind.Membership.Entities.csproj|d:\\proyectos_escritorio\\proyectomoviles\\web\\northwind\\northwind.membership\\northwind.membership.entities\\validators\\userregistration\\userregistrationdtovalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{182D16F4-EB2B-4179-AFD7-BC50CF255B55}|NorthWind.Membership.Entities\\NorthWind.Membership.Entities.csproj|solutionrelative:northwind.membership.entities\\validators\\userregistration\\userregistrationdtovalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{182D16F4-EB2B-4179-AFD7-BC50CF255B55}|NorthWind.Membership.Entities\\NorthWind.Membership.Entities.csproj|d:\\proyectos_escritorio\\proyectomoviles\\web\\northwind\\northwind.membership\\northwind.membership.entities\\validators\\usermanagement\\updateuserdtovalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{182D16F4-EB2B-4179-AFD7-BC50CF255B55}|NorthWind.Membership.Entities\\NorthWind.Membership.Entities.csproj|solutionrelative:northwind.membership.entities\\validators\\usermanagement\\updateuserdtovalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12F63AD4-E5EF-4747-98D5-7D870E5DC9ED}|NorthWind.Membership.Backend.Core\\NorthWind.Membership.Backend.Core.csproj|d:\\proyectos_escritorio\\proyectomoviles\\web\\northwind\\northwind.membership\\northwind.membership.backend.core\\controllers\\usermanagement\\usermanagementcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{12F63AD4-E5EF-4747-98D5-7D870E5DC9ED}|NorthWind.Membership.Backend.Core\\NorthWind.Membership.Backend.Core.csproj|solutionrelative:northwind.membership.backend.core\\controllers\\usermanagement\\usermanagementcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12F63AD4-E5EF-4747-98D5-7D870E5DC9ED}|NorthWind.Membership.Backend.Core\\NorthWind.Membership.Backend.Core.csproj|d:\\proyectos_escritorio\\proyectomoviles\\web\\northwind\\northwind.membership\\northwind.membership.backend.core\\usecases\\usermanagement\\getlockedoutusersinteractor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{12F63AD4-E5EF-4747-98D5-7D870E5DC9ED}|NorthWind.Membership.Backend.Core\\NorthWind.Membership.Backend.Core.csproj|solutionrelative:northwind.membership.backend.core\\usecases\\usermanagement\\getlockedoutusersinteractor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12F63AD4-E5EF-4747-98D5-7D870E5DC9ED}|NorthWind.Membership.Backend.Core\\NorthWind.Membership.Backend.Core.csproj|d:\\proyectos_escritorio\\proyectomoviles\\web\\northwind\\northwind.membership\\northwind.membership.backend.core\\interfaces\\usermanagement\\igetlockedoutusersoutputport.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{12F63AD4-E5EF-4747-98D5-7D870E5DC9ED}|NorthWind.Membership.Backend.Core\\NorthWind.Membership.Backend.Core.csproj|solutionrelative:northwind.membership.backend.core\\interfaces\\usermanagement\\igetlockedoutusersoutputport.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12F63AD4-E5EF-4747-98D5-7D870E5DC9ED}|NorthWind.Membership.Backend.Core\\NorthWind.Membership.Backend.Core.csproj|d:\\proyectos_escritorio\\proyectomoviles\\web\\northwind\\northwind.membership\\northwind.membership.backend.core\\interfaces\\usermanagement\\igetlockedoutusersinputport.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{12F63AD4-E5EF-4747-98D5-7D870E5DC9ED}|NorthWind.Membership.Backend.Core\\NorthWind.Membership.Backend.Core.csproj|solutionrelative:northwind.membership.backend.core\\interfaces\\usermanagement\\igetlockedoutusersinputport.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12F63AD4-E5EF-4747-98D5-7D870E5DC9ED}|NorthWind.Membership.Backend.Core\\NorthWind.Membership.Backend.Core.csproj|d:\\proyectos_escritorio\\proyectomoviles\\web\\northwind\\northwind.membership\\northwind.membership.backend.core\\presenters\\usermanagement\\getlockedoutuserspresenter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{12F63AD4-E5EF-4747-98D5-7D870E5DC9ED}|NorthWind.Membership.Backend.Core\\NorthWind.Membership.Backend.Core.csproj|solutionrelative:northwind.membership.backend.core\\presenters\\usermanagement\\getlockedoutuserspresenter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12F63AD4-E5EF-4747-98D5-7D870E5DC9ED}|NorthWind.Membership.Backend.Core\\NorthWind.Membership.Backend.Core.csproj|d:\\proyectos_escritorio\\proyectomoviles\\web\\northwind\\northwind.membership\\northwind.membership.backend.core\\usecases\\usermanagement\\getallusersinteractor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{12F63AD4-E5EF-4747-98D5-7D870E5DC9ED}|NorthWind.Membership.Backend.Core\\NorthWind.Membership.Backend.Core.csproj|solutionrelative:northwind.membership.backend.core\\usecases\\usermanagement\\getallusersinteractor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12F63AD4-E5EF-4747-98D5-7D870E5DC9ED}|NorthWind.Membership.Backend.Core\\NorthWind.Membership.Backend.Core.csproj|d:\\proyectos_escritorio\\proyectomoviles\\web\\northwind\\northwind.membership\\northwind.membership.backend.core\\interfaces\\usermanagement\\igetallusersoutputport.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{12F63AD4-E5EF-4747-98D5-7D870E5DC9ED}|NorthWind.Membership.Backend.Core\\NorthWind.Membership.Backend.Core.csproj|solutionrelative:northwind.membership.backend.core\\interfaces\\usermanagement\\igetallusersoutputport.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12F63AD4-E5EF-4747-98D5-7D870E5DC9ED}|NorthWind.Membership.Backend.Core\\NorthWind.Membership.Backend.Core.csproj|d:\\proyectos_escritorio\\proyectomoviles\\web\\northwind\\northwind.membership\\northwind.membership.backend.core\\interfaces\\usermanagement\\igetallusersinputport.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{12F63AD4-E5EF-4747-98D5-7D870E5DC9ED}|NorthWind.Membership.Backend.Core\\NorthWind.Membership.Backend.Core.csproj|solutionrelative:northwind.membership.backend.core\\interfaces\\usermanagement\\igetallusersinputport.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12F63AD4-E5EF-4747-98D5-7D870E5DC9ED}|NorthWind.Membership.Backend.Core\\NorthWind.Membership.Backend.Core.csproj|d:\\proyectos_escritorio\\proyectomoviles\\web\\northwind\\northwind.membership\\northwind.membership.backend.core\\usecases\\usermanagement\\getuserbyidinteractor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{12F63AD4-E5EF-4747-98D5-7D870E5DC9ED}|NorthWind.Membership.Backend.Core\\NorthWind.Membership.Backend.Core.csproj|solutionrelative:northwind.membership.backend.core\\usecases\\usermanagement\\getuserbyidinteractor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12F63AD4-E5EF-4747-98D5-7D870E5DC9ED}|NorthWind.Membership.Backend.Core\\NorthWind.Membership.Backend.Core.csproj|d:\\proyectos_escritorio\\proyectomoviles\\web\\northwind\\northwind.membership\\northwind.membership.backend.core\\presenters\\usermanagement\\getalluserspresenter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{12F63AD4-E5EF-4747-98D5-7D870E5DC9ED}|NorthWind.Membership.Backend.Core\\NorthWind.Membership.Backend.Core.csproj|solutionrelative:northwind.membership.backend.core\\presenters\\usermanagement\\getalluserspresenter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{182D16F4-EB2B-4179-AFD7-BC50CF255B55}|NorthWind.Membership.Entities\\NorthWind.Membership.Entities.csproj|d:\\proyectos_escritorio\\proyectomoviles\\web\\northwind\\northwind.membership\\northwind.membership.entities\\dtos\\common\\pagedresultdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{182D16F4-EB2B-4179-AFD7-BC50CF255B55}|NorthWind.Membership.Entities\\NorthWind.Membership.Entities.csproj|solutionrelative:northwind.membership.entities\\dtos\\common\\pagedresultdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{182D16F4-EB2B-4179-AFD7-BC50CF255B55}|NorthWind.Membership.Entities\\NorthWind.Membership.Entities.csproj|d:\\proyectos_escritorio\\proyectomoviles\\web\\northwind\\northwind.membership\\northwind.membership.entities\\dtos\\common\\paginationdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{182D16F4-EB2B-4179-AFD7-BC50CF255B55}|NorthWind.Membership.Entities\\NorthWind.Membership.Entities.csproj|solutionrelative:northwind.membership.entities\\dtos\\common\\paginationdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12F63AD4-E5EF-4747-98D5-7D870E5DC9ED}|NorthWind.Membership.Backend.Core\\NorthWind.Membership.Backend.Core.csproj|d:\\proyectos_escritorio\\proyectomoviles\\web\\northwind\\northwind.membership\\northwind.membership.backend.core\\usecases\\usermanagement\\deleteuserinteractor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{12F63AD4-E5EF-4747-98D5-7D870E5DC9ED}|NorthWind.Membership.Backend.Core\\NorthWind.Membership.Backend.Core.csproj|solutionrelative:northwind.membership.backend.core\\usecases\\usermanagement\\deleteuserinteractor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12F63AD4-E5EF-4747-98D5-7D870E5DC9ED}|NorthWind.Membership.Backend.Core\\NorthWind.Membership.Backend.Core.csproj|d:\\proyectos_escritorio\\proyectomoviles\\web\\northwind\\northwind.membership\\northwind.membership.backend.core\\services\\jwtservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{12F63AD4-E5EF-4747-98D5-7D870E5DC9ED}|NorthWind.Membership.Backend.Core\\NorthWind.Membership.Backend.Core.csproj|solutionrelative:northwind.membership.backend.core\\services\\jwtservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12F63AD4-E5EF-4747-98D5-7D870E5DC9ED}|NorthWind.Membership.Backend.Core\\NorthWind.Membership.Backend.Core.csproj|d:\\proyectos_escritorio\\proyectomoviles\\web\\northwind\\northwind.membership\\northwind.membership.backend.core\\interfaces\\userlogin\\iuserlogininputport.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{12F63AD4-E5EF-4747-98D5-7D870E5DC9ED}|NorthWind.Membership.Backend.Core\\NorthWind.Membership.Backend.Core.csproj|solutionrelative:northwind.membership.backend.core\\interfaces\\userlogin\\iuserlogininputport.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12F63AD4-E5EF-4747-98D5-7D870E5DC9ED}|NorthWind.Membership.Backend.Core\\NorthWind.Membership.Backend.Core.csproj|d:\\proyectos_escritorio\\proyectomoviles\\web\\northwind\\northwind.membership\\northwind.membership.backend.core\\interfaces\\userlogin\\iuserloginoutputport.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{12F63AD4-E5EF-4747-98D5-7D870E5DC9ED}|NorthWind.Membership.Backend.Core\\NorthWind.Membership.Backend.Core.csproj|solutionrelative:northwind.membership.backend.core\\interfaces\\userlogin\\iuserloginoutputport.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12F63AD4-E5EF-4747-98D5-7D870E5DC9ED}|NorthWind.Membership.Backend.Core\\NorthWind.Membership.Backend.Core.csproj|d:\\proyectos_escritorio\\proyectomoviles\\web\\northwind\\northwind.membership\\northwind.membership.backend.core\\controllers\\userregistration\\userregistrationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{12F63AD4-E5EF-4747-98D5-7D870E5DC9ED}|NorthWind.Membership.Backend.Core\\NorthWind.Membership.Backend.Core.csproj|solutionrelative:northwind.membership.backend.core\\controllers\\userregistration\\userregistrationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{182D16F4-EB2B-4179-AFD7-BC50CF255B55}|NorthWind.Membership.Entities\\NorthWind.Membership.Entities.csproj|d:\\proyectos_escritorio\\proyectomoviles\\web\\northwind\\northwind.membership\\northwind.membership.entities\\dependencycontainer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{182D16F4-EB2B-4179-AFD7-BC50CF255B55}|NorthWind.Membership.Entities\\NorthWind.Membership.Entities.csproj|solutionrelative:northwind.membership.entities\\dependencycontainer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{182D16F4-EB2B-4179-AFD7-BC50CF255B55}|NorthWind.Membership.Entities\\NorthWind.Membership.Entities.csproj|d:\\proyectos_escritorio\\proyectomoviles\\web\\northwind\\northwind.membership\\northwind.membership.entities\\valueobjects\\endpoints.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{182D16F4-EB2B-4179-AFD7-BC50CF255B55}|NorthWind.Membership.Entities\\NorthWind.Membership.Entities.csproj|solutionrelative:northwind.membership.entities\\valueobjects\\endpoints.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{182D16F4-EB2B-4179-AFD7-BC50CF255B55}|NorthWind.Membership.Entities\\NorthWind.Membership.Entities.csproj|d:\\proyectos_escritorio\\proyectomoviles\\web\\northwind\\northwind.membership\\northwind.membership.entities\\responses\\logoutresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{182D16F4-EB2B-4179-AFD7-BC50CF255B55}|NorthWind.Membership.Entities\\NorthWind.Membership.Entities.csproj|solutionrelative:northwind.membership.entities\\responses\\logoutresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{182D16F4-EB2B-4179-AFD7-BC50CF255B55}|NorthWind.Membership.Entities\\NorthWind.Membership.Entities.csproj|d:\\proyectos_escritorio\\proyectomoviles\\web\\northwind\\northwind.membership\\northwind.membership.entities\\dtos\\usermanagement\\logoutdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{182D16F4-EB2B-4179-AFD7-BC50CF255B55}|NorthWind.Membership.Entities\\NorthWind.Membership.Entities.csproj|solutionrelative:northwind.membership.entities\\dtos\\usermanagement\\logoutdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{182D16F4-EB2B-4179-AFD7-BC50CF255B55}|NorthWind.Membership.Entities\\NorthWind.Membership.Entities.csproj|d:\\proyectos_escritorio\\proyectomoviles\\web\\northwind\\northwind.membership\\northwind.membership.entities\\dtos\\usermanagement\\unlockuserdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{182D16F4-EB2B-4179-AFD7-BC50CF255B55}|NorthWind.Membership.Entities\\NorthWind.Membership.Entities.csproj|solutionrelative:northwind.membership.entities\\dtos\\usermanagement\\unlockuserdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{182D16F4-EB2B-4179-AFD7-BC50CF255B55}|NorthWind.Membership.Entities\\NorthWind.Membership.Entities.csproj|d:\\proyectos_escritorio\\proyectomoviles\\web\\northwind\\northwind.membership\\northwind.membership.entities\\dtos\\usermanagement\\updateuserdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{182D16F4-EB2B-4179-AFD7-BC50CF255B55}|NorthWind.Membership.Entities\\NorthWind.Membership.Entities.csproj|solutionrelative:northwind.membership.entities\\dtos\\usermanagement\\updateuserdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{182D16F4-EB2B-4179-AFD7-BC50CF255B55}|NorthWind.Membership.Entities\\NorthWind.Membership.Entities.csproj|d:\\proyectos_escritorio\\proyectomoviles\\web\\northwind\\northwind.membership\\northwind.membership.entities\\dtos\\usermanagement\\userinfodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{182D16F4-EB2B-4179-AFD7-BC50CF255B55}|NorthWind.Membership.Entities\\NorthWind.Membership.Entities.csproj|solutionrelative:northwind.membership.entities\\dtos\\usermanagement\\userinfodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{182D16F4-EB2B-4179-AFD7-BC50CF255B55}|NorthWind.Membership.Entities\\NorthWind.Membership.Entities.csproj|d:\\proyectos_escritorio\\proyectomoviles\\web\\northwind\\northwind.membership\\northwind.membership.entities\\dtos\\userregistration\\userregistrationdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{182D16F4-EB2B-4179-AFD7-BC50CF255B55}|NorthWind.Membership.Entities\\NorthWind.Membership.Entities.csproj|solutionrelative:northwind.membership.entities\\dtos\\userregistration\\userregistrationdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12F63AD4-E5EF-4747-98D5-7D870E5DC9ED}|NorthWind.Membership.Backend.Core\\NorthWind.Membership.Backend.Core.csproj|d:\\proyectos_escritorio\\proyectomoviles\\web\\northwind\\northwind.membership\\northwind.membership.backend.core\\usecases\\usermanagement\\logoutinteractor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{12F63AD4-E5EF-4747-98D5-7D870E5DC9ED}|NorthWind.Membership.Backend.Core\\NorthWind.Membership.Backend.Core.csproj|solutionrelative:northwind.membership.backend.core\\usecases\\usermanagement\\logoutinteractor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12F63AD4-E5EF-4747-98D5-7D870E5DC9ED}|NorthWind.Membership.Backend.Core\\NorthWind.Membership.Backend.Core.csproj|d:\\proyectos_escritorio\\proyectomoviles\\web\\northwind\\northwind.membership\\northwind.membership.backend.core\\middleware\\tokenblacklistmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{12F63AD4-E5EF-4747-98D5-7D870E5DC9ED}|NorthWind.Membership.Backend.Core\\NorthWind.Membership.Backend.Core.csproj|solutionrelative:northwind.membership.backend.core\\middleware\\tokenblacklistmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12F63AD4-E5EF-4747-98D5-7D870E5DC9ED}|NorthWind.Membership.Backend.Core\\NorthWind.Membership.Backend.Core.csproj|d:\\proyectos_escritorio\\proyectomoviles\\web\\northwind\\northwind.membership\\northwind.membership.backend.core\\presenters\\usermanagement\\getuserbyidpresenter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{12F63AD4-E5EF-4747-98D5-7D870E5DC9ED}|NorthWind.Membership.Backend.Core\\NorthWind.Membership.Backend.Core.csproj|solutionrelative:northwind.membership.backend.core\\presenters\\usermanagement\\getuserbyidpresenter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12F63AD4-E5EF-4747-98D5-7D870E5DC9ED}|NorthWind.Membership.Backend.Core\\NorthWind.Membership.Backend.Core.csproj|d:\\proyectos_escritorio\\proyectomoviles\\web\\northwind\\northwind.membership\\northwind.membership.backend.core\\interfaces\\usermanagement\\igetuserbyidoutputport.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{12F63AD4-E5EF-4747-98D5-7D870E5DC9ED}|NorthWind.Membership.Backend.Core\\NorthWind.Membership.Backend.Core.csproj|solutionrelative:northwind.membership.backend.core\\interfaces\\usermanagement\\igetuserbyidoutputport.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12F63AD4-E5EF-4747-98D5-7D870E5DC9ED}|NorthWind.Membership.Backend.Core\\NorthWind.Membership.Backend.Core.csproj|d:\\proyectos_escritorio\\proyectomoviles\\web\\northwind\\northwind.membership\\northwind.membership.backend.core\\presenters\\usermanagement\\logoutpresenter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{12F63AD4-E5EF-4747-98D5-7D870E5DC9ED}|NorthWind.Membership.Backend.Core\\NorthWind.Membership.Backend.Core.csproj|solutionrelative:northwind.membership.backend.core\\presenters\\usermanagement\\logoutpresenter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12F63AD4-E5EF-4747-98D5-7D870E5DC9ED}|NorthWind.Membership.Backend.Core\\NorthWind.Membership.Backend.Core.csproj|d:\\proyectos_escritorio\\proyectomoviles\\web\\northwind\\northwind.membership\\northwind.membership.backend.core\\presenters\\usermanagement\\updateuserpresenter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{12F63AD4-E5EF-4747-98D5-7D870E5DC9ED}|NorthWind.Membership.Backend.Core\\NorthWind.Membership.Backend.Core.csproj|solutionrelative:northwind.membership.backend.core\\presenters\\usermanagement\\updateuserpresenter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12F63AD4-E5EF-4747-98D5-7D870E5DC9ED}|NorthWind.Membership.Backend.Core\\NorthWind.Membership.Backend.Core.csproj|d:\\proyectos_escritorio\\proyectomoviles\\web\\northwind\\northwind.membership\\northwind.membership.backend.core\\presenters\\usermanagement\\unlockuserpresenter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{12F63AD4-E5EF-4747-98D5-7D870E5DC9ED}|NorthWind.Membership.Backend.Core\\NorthWind.Membership.Backend.Core.csproj|solutionrelative:northwind.membership.backend.core\\presenters\\usermanagement\\unlockuserpresenter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12F63AD4-E5EF-4747-98D5-7D870E5DC9ED}|NorthWind.Membership.Backend.Core\\NorthWind.Membership.Backend.Core.csproj|d:\\proyectos_escritorio\\proyectomoviles\\web\\northwind\\northwind.membership\\northwind.membership.backend.core\\services\\tokenblacklistservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{12F63AD4-E5EF-4747-98D5-7D870E5DC9ED}|NorthWind.Membership.Backend.Core\\NorthWind.Membership.Backend.Core.csproj|solutionrelative:northwind.membership.backend.core\\services\\tokenblacklistservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12F63AD4-E5EF-4747-98D5-7D870E5DC9ED}|NorthWind.Membership.Backend.Core\\NorthWind.Membership.Backend.Core.csproj|d:\\proyectos_escritorio\\proyectomoviles\\web\\northwind\\northwind.membership\\northwind.membership.backend.core\\interfaces\\usermanagement\\ilogoutoutputport.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{12F63AD4-E5EF-4747-98D5-7D870E5DC9ED}|NorthWind.Membership.Backend.Core\\NorthWind.Membership.Backend.Core.csproj|solutionrelative:northwind.membership.backend.core\\interfaces\\usermanagement\\ilogoutoutputport.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12F63AD4-E5EF-4747-98D5-7D870E5DC9ED}|NorthWind.Membership.Backend.Core\\NorthWind.Membership.Backend.Core.csproj|d:\\proyectos_escritorio\\proyectomoviles\\web\\northwind\\northwind.membership\\northwind.membership.backend.core\\interfaces\\usermanagement\\ilogoutinputport.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{12F63AD4-E5EF-4747-98D5-7D870E5DC9ED}|NorthWind.Membership.Backend.Core\\NorthWind.Membership.Backend.Core.csproj|solutionrelative:northwind.membership.backend.core\\interfaces\\usermanagement\\ilogoutinputport.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12F63AD4-E5EF-4747-98D5-7D870E5DC9ED}|NorthWind.Membership.Backend.Core\\NorthWind.Membership.Backend.Core.csproj|d:\\proyectos_escritorio\\proyectomoviles\\web\\northwind\\northwind.membership\\northwind.membership.backend.core\\interfaces\\usermanagement\\iunlockuseroutputport.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{12F63AD4-E5EF-4747-98D5-7D870E5DC9ED}|NorthWind.Membership.Backend.Core\\NorthWind.Membership.Backend.Core.csproj|solutionrelative:northwind.membership.backend.core\\interfaces\\usermanagement\\iunlockuseroutputport.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12F63AD4-E5EF-4747-98D5-7D870E5DC9ED}|NorthWind.Membership.Backend.Core\\NorthWind.Membership.Backend.Core.csproj|d:\\proyectos_escritorio\\proyectomoviles\\web\\northwind\\northwind.membership\\northwind.membership.backend.core\\interfaces\\usermanagement\\igetuserbyidinputport.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{12F63AD4-E5EF-4747-98D5-7D870E5DC9ED}|NorthWind.Membership.Backend.Core\\NorthWind.Membership.Backend.Core.csproj|solutionrelative:northwind.membership.backend.core\\interfaces\\usermanagement\\igetuserbyidinputport.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12F63AD4-E5EF-4747-98D5-7D870E5DC9ED}|NorthWind.Membership.Backend.Core\\NorthWind.Membership.Backend.Core.csproj|d:\\proyectos_escritorio\\proyectomoviles\\web\\northwind\\northwind.membership\\northwind.membership.backend.core\\usecases\\usermanagement\\changeuserroleinteractor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{12F63AD4-E5EF-4747-98D5-7D870E5DC9ED}|NorthWind.Membership.Backend.Core\\NorthWind.Membership.Backend.Core.csproj|solutionrelative:northwind.membership.backend.core\\usecases\\usermanagement\\changeuserroleinteractor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{182D16F4-EB2B-4179-AFD7-BC50CF255B55}|NorthWind.Membership.Entities\\NorthWind.Membership.Entities.csproj|d:\\proyectos_escritorio\\proyectomoviles\\web\\northwind\\northwind.membership\\northwind.membership.entities\\dtos\\usermanagement\\getuserbyiddto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{182D16F4-EB2B-4179-AFD7-BC50CF255B55}|NorthWind.Membership.Entities\\NorthWind.Membership.Entities.csproj|solutionrelative:northwind.membership.entities\\dtos\\usermanagement\\getuserbyiddto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12F63AD4-E5EF-4747-98D5-7D870E5DC9ED}|NorthWind.Membership.Backend.Core\\NorthWind.Membership.Backend.Core.csproj|d:\\proyectos_escritorio\\proyectomoviles\\web\\northwind\\northwind.membership\\northwind.membership.backend.core\\dtos\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{12F63AD4-E5EF-4747-98D5-7D870E5DC9ED}|NorthWind.Membership.Backend.Core\\NorthWind.Membership.Backend.Core.csproj|solutionrelative:northwind.membership.backend.core\\dtos\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AFCF83BF-079C-4897-9FB5-40F6181D198C}|NorthWind.Membership.Backend.AspNetIdentity\\NorthWind.Membership.Backend.AspNetIdentity.csproj|d:\\proyectos_escritorio\\proyectomoviles\\web\\northwind\\northwind.membership\\northwind.membership.backend.aspnetidentity\\entities\\northwinduser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AFCF83BF-079C-4897-9FB5-40F6181D198C}|NorthWind.Membership.Backend.AspNetIdentity\\NorthWind.Membership.Backend.AspNetIdentity.csproj|solutionrelative:northwind.membership.backend.aspnetidentity\\entities\\northwinduser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{182D16F4-EB2B-4179-AFD7-BC50CF255B55}|NorthWind.Membership.Entities\\NorthWind.Membership.Entities.csproj|d:\\proyectos_escritorio\\proyectomoviles\\web\\northwind\\northwind.membership\\northwind.membership.entities\\resources\\userregistrationmessages.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}",
+      "RelativeMoniker": "D:0:0:{182D16F4-EB2B-4179-AFD7-BC50CF255B55}|NorthWind.Membership.Entities\\NorthWind.Membership.Entities.csproj|solutionrelative:northwind.membership.entities\\resources\\userregistrationmessages.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12F63AD4-E5EF-4747-98D5-7D870E5DC9ED}|NorthWind.Membership.Backend.Core\\NorthWind.Membership.Backend.Core.csproj|d:\\proyectos_escritorio\\proyectomoviles\\web\\northwind\\northwind.membership\\northwind.membership.backend.core\\interfaces\\usermanagement\\iupdateuserinputport.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{12F63AD4-E5EF-4747-98D5-7D870E5DC9ED}|NorthWind.Membership.Backend.Core\\NorthWind.Membership.Backend.Core.csproj|solutionrelative:northwind.membership.backend.core\\interfaces\\usermanagement\\iupdateuserinputport.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12F63AD4-E5EF-4747-98D5-7D870E5DC9ED}|NorthWind.Membership.Backend.Core\\NorthWind.Membership.Backend.Core.csproj|d:\\proyectos_escritorio\\proyectomoviles\\web\\northwind\\northwind.membership\\northwind.membership.backend.core\\interfaces\\usermanagement\\ideleteuseroutputport.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{12F63AD4-E5EF-4747-98D5-7D870E5DC9ED}|NorthWind.Membership.Backend.Core\\NorthWind.Membership.Backend.Core.csproj|solutionrelative:northwind.membership.backend.core\\interfaces\\usermanagement\\ideleteuseroutputport.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12F63AD4-E5EF-4747-98D5-7D870E5DC9ED}|NorthWind.Membership.Backend.Core\\NorthWind.Membership.Backend.Core.csproj|d:\\proyectos_escritorio\\proyectomoviles\\web\\northwind\\northwind.membership\\northwind.membership.backend.core\\interfaces\\usermanagement\\ideleteuserinputport.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{12F63AD4-E5EF-4747-98D5-7D870E5DC9ED}|NorthWind.Membership.Backend.Core\\NorthWind.Membership.Backend.Core.csproj|solutionrelative:northwind.membership.backend.core\\interfaces\\usermanagement\\ideleteuserinputport.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{182D16F4-EB2B-4179-AFD7-BC50CF255B55}|NorthWind.Membership.Entities\\NorthWind.Membership.Entities.csproj|d:\\proyectos_escritorio\\proyectomoviles\\web\\northwind\\northwind.membership\\northwind.membership.entities\\validators\\userlogin\\usercredentialsdtovalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{182D16F4-EB2B-4179-AFD7-BC50CF255B55}|NorthWind.Membership.Entities\\NorthWind.Membership.Entities.csproj|solutionrelative:northwind.membership.entities\\validators\\userlogin\\usercredentialsdtovalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{182D16F4-EB2B-4179-AFD7-BC50CF255B55}|NorthWind.Membership.Entities\\NorthWind.Membership.Entities.csproj|d:\\proyectos_escritorio\\proyectomoviles\\web\\northwind\\northwind.membership\\northwind.membership.entities\\dtos\\usermanagement\\changeuserroledto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{182D16F4-EB2B-4179-AFD7-BC50CF255B55}|NorthWind.Membership.Entities\\NorthWind.Membership.Entities.csproj|solutionrelative:northwind.membership.entities\\dtos\\usermanagement\\changeuserroledto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12F63AD4-E5EF-4747-98D5-7D870E5DC9ED}|NorthWind.Membership.Backend.Core\\NorthWind.Membership.Backend.Core.csproj|d:\\proyectos_escritorio\\proyectomoviles\\web\\northwind\\northwind.membership\\northwind.membership.backend.core\\presenters\\userregistration\\userregistrationpresenter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{12F63AD4-E5EF-4747-98D5-7D870E5DC9ED}|NorthWind.Membership.Backend.Core\\NorthWind.Membership.Backend.Core.csproj|solutionrelative:northwind.membership.backend.core\\presenters\\userregistration\\userregistrationpresenter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12F63AD4-E5EF-4747-98D5-7D870E5DC9ED}|NorthWind.Membership.Backend.Core\\NorthWind.Membership.Backend.Core.csproj|d:\\proyectos_escritorio\\proyectomoviles\\web\\northwind\\northwind.membership\\northwind.membership.backend.core\\presenters\\usermanagement\\deleteuserpresenter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{12F63AD4-E5EF-4747-98D5-7D870E5DC9ED}|NorthWind.Membership.Backend.Core\\NorthWind.Membership.Backend.Core.csproj|solutionrelative:northwind.membership.backend.core\\presenters\\usermanagement\\deleteuserpresenter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12F63AD4-E5EF-4747-98D5-7D870E5DC9ED}|NorthWind.Membership.Backend.Core\\NorthWind.Membership.Backend.Core.csproj|d:\\proyectos_escritorio\\proyectomoviles\\web\\northwind\\northwind.membership\\northwind.membership.backend.core\\interfaces\\usermanagement\\iupdateuseroutputport.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{12F63AD4-E5EF-4747-98D5-7D870E5DC9ED}|NorthWind.Membership.Backend.Core\\NorthWind.Membership.Backend.Core.csproj|solutionrelative:northwind.membership.backend.core\\interfaces\\usermanagement\\iupdateuseroutputport.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{182D16F4-EB2B-4179-AFD7-BC50CF255B55}|NorthWind.Membership.Entities\\NorthWind.Membership.Entities.csproj|d:\\proyectos_escritorio\\proyectomoviles\\web\\northwind\\northwind.membership\\northwind.membership.entities\\dtos\\usermanagement\\deleteuserdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{182D16F4-EB2B-4179-AFD7-BC50CF255B55}|NorthWind.Membership.Entities\\NorthWind.Membership.Entities.csproj|solutionrelative:northwind.membership.entities\\dtos\\usermanagement\\deleteuserdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AFCF83BF-079C-4897-9FB5-40F6181D198C}|NorthWind.Membership.Backend.AspNetIdentity\\NorthWind.Membership.Backend.AspNetIdentity.csproj|d:\\proyectos_escritorio\\proyectomoviles\\web\\northwind\\northwind.membership\\northwind.membership.backend.aspnetidentity\\options\\membershipdboptions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AFCF83BF-079C-4897-9FB5-40F6181D198C}|NorthWind.Membership.Backend.AspNetIdentity\\NorthWind.Membership.Backend.AspNetIdentity.csproj|solutionrelative:northwind.membership.backend.aspnetidentity\\options\\membershipdboptions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AFCF83BF-079C-4897-9FB5-40F6181D198C}|NorthWind.Membership.Backend.AspNetIdentity\\NorthWind.Membership.Backend.AspNetIdentity.csproj|d:\\proyectos_escritorio\\proyectomoviles\\web\\northwind\\northwind.membership\\northwind.membership.backend.aspnetidentity\\extensions\\identityerrorextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AFCF83BF-079C-4897-9FB5-40F6181D198C}|NorthWind.Membership.Backend.AspNetIdentity\\NorthWind.Membership.Backend.AspNetIdentity.csproj|solutionrelative:northwind.membership.backend.aspnetidentity\\extensions\\identityerrorextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AFCF83BF-079C-4897-9FB5-40F6181D198C}|NorthWind.Membership.Backend.AspNetIdentity\\NorthWind.Membership.Backend.AspNetIdentity.csproj|d:\\proyectos_escritorio\\proyectomoviles\\web\\northwind\\northwind.membership\\northwind.membership.backend.aspnetidentity\\datacontexts\\northwindmembershipcontextfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AFCF83BF-079C-4897-9FB5-40F6181D198C}|NorthWind.Membership.Backend.AspNetIdentity\\NorthWind.Membership.Backend.AspNetIdentity.csproj|solutionrelative:northwind.membership.backend.aspnetidentity\\datacontexts\\northwindmembershipcontextfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AFCF83BF-079C-4897-9FB5-40F6181D198C}|NorthWind.Membership.Backend.AspNetIdentity\\NorthWind.Membership.Backend.AspNetIdentity.csproj|d:\\proyectos_escritorio\\proyectomoviles\\web\\northwind\\northwind.membership\\northwind.membership.backend.aspnetidentity\\datacontexts\\northwindmembershipcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AFCF83BF-079C-4897-9FB5-40F6181D198C}|NorthWind.Membership.Backend.AspNetIdentity\\NorthWind.Membership.Backend.AspNetIdentity.csproj|solutionrelative:northwind.membership.backend.aspnetidentity\\datacontexts\\northwindmembershipcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12F63AD4-E5EF-4747-98D5-7D870E5DC9ED}|NorthWind.Membership.Backend.Core\\NorthWind.Membership.Backend.Core.csproj|d:\\proyectos_escritorio\\proyectomoviles\\web\\northwind\\northwind.membership\\northwind.membership.backend.core\\presenters\\usermanagement\\changeuserrolepresenter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{12F63AD4-E5EF-4747-98D5-7D870E5DC9ED}|NorthWind.Membership.Backend.Core\\NorthWind.Membership.Backend.Core.csproj|solutionrelative:northwind.membership.backend.core\\presenters\\usermanagement\\changeuserrolepresenter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12F63AD4-E5EF-4747-98D5-7D870E5DC9ED}|NorthWind.Membership.Backend.Core\\NorthWind.Membership.Backend.Core.csproj|d:\\proyectos_escritorio\\proyectomoviles\\web\\northwind\\northwind.membership\\northwind.membership.backend.core\\interfaces\\usermanagement\\ichangeuserroleoutputport.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{12F63AD4-E5EF-4747-98D5-7D870E5DC9ED}|NorthWind.Membership.Backend.Core\\NorthWind.Membership.Backend.Core.csproj|solutionrelative:northwind.membership.backend.core\\interfaces\\usermanagement\\ichangeuserroleoutputport.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12F63AD4-E5EF-4747-98D5-7D870E5DC9ED}|NorthWind.Membership.Backend.Core\\NorthWind.Membership.Backend.Core.csproj|d:\\proyectos_escritorio\\proyectomoviles\\web\\northwind\\northwind.membership\\northwind.membership.backend.core\\interfaces\\usermanagement\\ichangeuserroleinputport.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{12F63AD4-E5EF-4747-98D5-7D870E5DC9ED}|NorthWind.Membership.Backend.Core\\NorthWind.Membership.Backend.Core.csproj|solutionrelative:northwind.membership.backend.core\\interfaces\\usermanagement\\ichangeuserroleinputport.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12F63AD4-E5EF-4747-98D5-7D870E5DC9ED}|NorthWind.Membership.Backend.Core\\NorthWind.Membership.Backend.Core.csproj|d:\\proyectos_escritorio\\proyectomoviles\\web\\northwind\\northwind.membership\\northwind.membership.backend.core\\interfaces\\usermanagement\\iunlockuserinputport.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{12F63AD4-E5EF-4747-98D5-7D870E5DC9ED}|NorthWind.Membership.Backend.Core\\NorthWind.Membership.Backend.Core.csproj|solutionrelative:northwind.membership.backend.core\\interfaces\\usermanagement\\iunlockuserinputport.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12F63AD4-E5EF-4747-98D5-7D870E5DC9ED}|NorthWind.Membership.Backend.Core\\NorthWind.Membership.Backend.Core.csproj|d:\\proyectos_escritorio\\proyectomoviles\\web\\northwind\\northwind.membership\\northwind.membership.backend.core\\options\\jwtoptions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{12F63AD4-E5EF-4747-98D5-7D870E5DC9ED}|NorthWind.Membership.Backend.Core\\NorthWind.Membership.Backend.Core.csproj|solutionrelative:northwind.membership.backend.core\\options\\jwtoptions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12F63AD4-E5EF-4747-98D5-7D870E5DC9ED}|NorthWind.Membership.Backend.Core\\NorthWind.Membership.Backend.Core.csproj|d:\\proyectos_escritorio\\proyectomoviles\\web\\northwind\\northwind.membership\\northwind.membership.backend.core\\interfaces\\userregistration\\iuserregistrationoutputport.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{12F63AD4-E5EF-4747-98D5-7D870E5DC9ED}|NorthWind.Membership.Backend.Core\\NorthWind.Membership.Backend.Core.csproj|solutionrelative:northwind.membership.backend.core\\interfaces\\userregistration\\iuserregistrationoutputport.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12F63AD4-E5EF-4747-98D5-7D870E5DC9ED}|NorthWind.Membership.Backend.Core\\NorthWind.Membership.Backend.Core.csproj|d:\\proyectos_escritorio\\proyectomoviles\\web\\northwind\\northwind.membership\\northwind.membership.backend.core\\interfaces\\userregistration\\iuserregistrationinputport.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{12F63AD4-E5EF-4747-98D5-7D870E5DC9ED}|NorthWind.Membership.Backend.Core\\NorthWind.Membership.Backend.Core.csproj|solutionrelative:northwind.membership.backend.core\\interfaces\\userregistration\\iuserregistrationinputport.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{74FA3518-FD67-485E-BA82-397C61C417B7}|NorthWind.Membership.Frontend.RazorViews\\NorthWind.Membership.Frontend.RazorViews.csproj|d:\\proyectos_escritorio\\proyectomoviles\\web\\northwind\\northwind.membership\\northwind.membership.frontend.razorviews\\dependencycontainer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{74FA3518-FD67-485E-BA82-397C61C417B7}|NorthWind.Membership.Frontend.RazorViews\\NorthWind.Membership.Frontend.RazorViews.csproj|solutionrelative:northwind.membership.frontend.razorviews\\dependencycontainer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{74FA3518-FD67-485E-BA82-397C61C417B7}|NorthWind.Membership.Frontend.RazorViews\\NorthWind.Membership.Frontend.RazorViews.csproj|d:\\proyectos_escritorio\\proyectomoviles\\web\\northwind\\northwind.membership\\northwind.membership.frontend.razorviews\\httpmessagehandlers\\membershipbearertokenhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{74FA3518-FD67-485E-BA82-397C61C417B7}|NorthWind.Membership.Frontend.RazorViews\\NorthWind.Membership.Frontend.RazorViews.csproj|solutionrelative:northwind.membership.frontend.razorviews\\httpmessagehandlers\\membershipbearertokenhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{74FA3518-FD67-485E-BA82-397C61C417B7}|NorthWind.Membership.Frontend.RazorViews\\NorthWind.Membership.Frontend.RazorViews.csproj|d:\\proyectos_escritorio\\proyectomoviles\\web\\northwind\\northwind.membership\\northwind.membership.frontend.razorviews\\northwind.membership.frontend.razorviews.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{74FA3518-FD67-485E-BA82-397C61C417B7}|NorthWind.Membership.Frontend.RazorViews\\NorthWind.Membership.Frontend.RazorViews.csproj|solutionrelative:northwind.membership.frontend.razorviews\\northwind.membership.frontend.razorviews.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{74FA3518-FD67-485E-BA82-397C61C417B7}|NorthWind.Membership.Frontend.RazorViews\\NorthWind.Membership.Frontend.RazorViews.csproj|d:\\proyectos_escritorio\\proyectomoviles\\web\\northwind\\northwind.membership\\northwind.membership.frontend.razorviews\\pages\\logindisplaycomponent.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{74FA3518-FD67-485E-BA82-397C61C417B7}|NorthWind.Membership.Frontend.RazorViews\\NorthWind.Membership.Frontend.RazorViews.csproj|solutionrelative:northwind.membership.frontend.razorviews\\pages\\logindisplaycomponent.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{74FA3518-FD67-485E-BA82-397C61C417B7}|NorthWind.Membership.Frontend.RazorViews\\NorthWind.Membership.Frontend.RazorViews.csproj|d:\\proyectos_escritorio\\proyectomoviles\\web\\northwind\\northwind.membership\\northwind.membership.frontend.razorviews\\_imports.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{74FA3518-FD67-485E-BA82-397C61C417B7}|NorthWind.Membership.Frontend.RazorViews\\NorthWind.Membership.Frontend.RazorViews.csproj|solutionrelative:northwind.membership.frontend.razorviews\\_imports.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{74FA3518-FD67-485E-BA82-397C61C417B7}|NorthWind.Membership.Frontend.RazorViews\\NorthWind.Membership.Frontend.RazorViews.csproj|d:\\proyectos_escritorio\\proyectomoviles\\web\\northwind\\northwind.membership\\northwind.membership.frontend.razorviews\\pages\\logoutpage.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{74FA3518-FD67-485E-BA82-397C61C417B7}|NorthWind.Membership.Frontend.RazorViews\\NorthWind.Membership.Frontend.RazorViews.csproj|solutionrelative:northwind.membership.frontend.razorviews\\pages\\logoutpage.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{74FA3518-FD67-485E-BA82-397C61C417B7}|NorthWind.Membership.Frontend.RazorViews\\NorthWind.Membership.Frontend.RazorViews.csproj|d:\\proyectos_escritorio\\proyectomoviles\\web\\northwind\\northwind.membership\\northwind.membership.frontend.razorviews\\pages\\logoutpage.razor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{74FA3518-FD67-485E-BA82-397C61C417B7}|NorthWind.Membership.Frontend.RazorViews\\NorthWind.Membership.Frontend.RazorViews.csproj|solutionrelative:northwind.membership.frontend.razorviews\\pages\\logoutpage.razor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{74FA3518-FD67-485E-BA82-397C61C417B7}|NorthWind.Membership.Frontend.RazorViews\\NorthWind.Membership.Frontend.RazorViews.csproj|d:\\proyectos_escritorio\\proyectomoviles\\web\\northwind\\northwind.membership\\northwind.membership.frontend.razorviews\\resources\\commonmessages.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}",
+      "RelativeMoniker": "D:0:0:{74FA3518-FD67-485E-BA82-397C61C417B7}|NorthWind.Membership.Frontend.RazorViews\\NorthWind.Membership.Frontend.RazorViews.csproj|solutionrelative:northwind.membership.frontend.razorviews\\resources\\commonmessages.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{74FA3518-FD67-485E-BA82-397C61C417B7}|NorthWind.Membership.Frontend.RazorViews\\NorthWind.Membership.Frontend.RazorViews.csproj|d:\\proyectos_escritorio\\proyectomoviles\\web\\northwind\\northwind.membership\\northwind.membership.frontend.razorviews\\pages\\userregistrationpage.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{74FA3518-FD67-485E-BA82-397C61C417B7}|NorthWind.Membership.Frontend.RazorViews\\NorthWind.Membership.Frontend.RazorViews.csproj|solutionrelative:northwind.membership.frontend.razorviews\\pages\\userregistrationpage.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{74FA3518-FD67-485E-BA82-397C61C417B7}|NorthWind.Membership.Frontend.RazorViews\\NorthWind.Membership.Frontend.RazorViews.csproj|d:\\proyectos_escritorio\\proyectomoviles\\web\\northwind\\northwind.membership\\northwind.membership.frontend.razorviews\\resources\\userloginmessages.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}",
+      "RelativeMoniker": "D:0:0:{74FA3518-FD67-485E-BA82-397C61C417B7}|NorthWind.Membership.Frontend.RazorViews\\NorthWind.Membership.Frontend.RazorViews.csproj|solutionrelative:northwind.membership.frontend.razorviews\\resources\\userloginmessages.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{74FA3518-FD67-485E-BA82-397C61C417B7}|NorthWind.Membership.Frontend.RazorViews\\NorthWind.Membership.Frontend.RazorViews.csproj|d:\\proyectos_escritorio\\proyectomoviles\\web\\northwind\\northwind.membership\\northwind.membership.frontend.razorviews\\viewmodels\\userlogin\\userloginviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{74FA3518-FD67-485E-BA82-397C61C417B7}|NorthWind.Membership.Frontend.RazorViews\\NorthWind.Membership.Frontend.RazorViews.csproj|solutionrelative:northwind.membership.frontend.razorviews\\viewmodels\\userlogin\\userloginviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{74FA3518-FD67-485E-BA82-397C61C417B7}|NorthWind.Membership.Frontend.RazorViews\\NorthWind.Membership.Frontend.RazorViews.csproj|d:\\proyectos_escritorio\\proyectomoviles\\web\\northwind\\northwind.membership\\northwind.membership.frontend.razorviews\\services\\tokenlocalstorage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{74FA3518-FD67-485E-BA82-397C61C417B7}|NorthWind.Membership.Frontend.RazorViews\\NorthWind.Membership.Frontend.RazorViews.csproj|solutionrelative:northwind.membership.frontend.razorviews\\services\\tokenlocalstorage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{74FA3518-FD67-485E-BA82-397C61C417B7}|NorthWind.Membership.Frontend.RazorViews\\NorthWind.Membership.Frontend.RazorViews.csproj|d:\\proyectos_escritorio\\proyectomoviles\\web\\northwind\\northwind.membership\\northwind.membership.frontend.razorviews\\interfaces\\itokenstorage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{74FA3518-FD67-485E-BA82-397C61C417B7}|NorthWind.Membership.Frontend.RazorViews\\NorthWind.Membership.Frontend.RazorViews.csproj|solutionrelative:northwind.membership.frontend.razorviews\\interfaces\\itokenstorage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{74FA3518-FD67-485E-BA82-397C61C417B7}|NorthWind.Membership.Frontend.RazorViews\\NorthWind.Membership.Frontend.RazorViews.csproj|d:\\proyectos_escritorio\\proyectomoviles\\web\\northwind\\northwind.membership\\northwind.membership.frontend.razorviews\\authenticationstateproviders\\jwtauthenticationstateprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{74FA3518-FD67-485E-BA82-397C61C417B7}|NorthWind.Membership.Frontend.RazorViews\\NorthWind.Membership.Frontend.RazorViews.csproj|solutionrelative:northwind.membership.frontend.razorviews\\authenticationstateproviders\\jwtauthenticationstateprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{74FA3518-FD67-485E-BA82-397C61C417B7}|NorthWind.Membership.Frontend.RazorViews\\NorthWind.Membership.Frontend.RazorViews.csproj|d:\\proyectos_escritorio\\proyectomoviles\\web\\northwind\\northwind.membership\\northwind.membership.frontend.razorviews\\components\\userlogincomponent.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{74FA3518-FD67-485E-BA82-397C61C417B7}|NorthWind.Membership.Frontend.RazorViews\\NorthWind.Membership.Frontend.RazorViews.csproj|solutionrelative:northwind.membership.frontend.razorviews\\components\\userlogincomponent.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{74FA3518-FD67-485E-BA82-397C61C417B7}|NorthWind.Membership.Frontend.RazorViews\\NorthWind.Membership.Frontend.RazorViews.csproj|d:\\proyectos_escritorio\\proyectomoviles\\web\\northwind\\northwind.membership\\northwind.membership.frontend.razorviews\\extensions\\membershippages.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{74FA3518-FD67-485E-BA82-397C61C417B7}|NorthWind.Membership.Frontend.RazorViews\\NorthWind.Membership.Frontend.RazorViews.csproj|solutionrelative:northwind.membership.frontend.razorviews\\extensions\\membershippages.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{74FA3518-FD67-485E-BA82-397C61C417B7}|NorthWind.Membership.Frontend.RazorViews\\NorthWind.Membership.Frontend.RazorViews.csproj|d:\\proyectos_escritorio\\proyectomoviles\\web\\northwind\\northwind.membership\\northwind.membership.frontend.razorviews\\pages\\userloginpage.razor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{74FA3518-FD67-485E-BA82-397C61C417B7}|NorthWind.Membership.Frontend.RazorViews\\NorthWind.Membership.Frontend.RazorViews.csproj|solutionrelative:northwind.membership.frontend.razorviews\\pages\\userloginpage.razor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{74FA3518-FD67-485E-BA82-397C61C417B7}|NorthWind.Membership.Frontend.RazorViews\\NorthWind.Membership.Frontend.RazorViews.csproj|d:\\proyectos_escritorio\\proyectomoviles\\web\\northwind\\northwind.membership\\northwind.membership.frontend.razorviews\\pages\\userregistrationpage.razor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{74FA3518-FD67-485E-BA82-397C61C417B7}|NorthWind.Membership.Frontend.RazorViews\\NorthWind.Membership.Frontend.RazorViews.csproj|solutionrelative:northwind.membership.frontend.razorviews\\pages\\userregistrationpage.razor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{74FA3518-FD67-485E-BA82-397C61C417B7}|NorthWind.Membership.Frontend.RazorViews\\NorthWind.Membership.Frontend.RazorViews.csproj|d:\\proyectos_escritorio\\proyectomoviles\\web\\northwind\\northwind.membership\\northwind.membership.frontend.razorviews\\webapigateways\\membershipgateway.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{74FA3518-FD67-485E-BA82-397C61C417B7}|NorthWind.Membership.Frontend.RazorViews\\NorthWind.Membership.Frontend.RazorViews.csproj|solutionrelative:northwind.membership.frontend.razorviews\\webapigateways\\membershipgateway.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{74FA3518-FD67-485E-BA82-397C61C417B7}|NorthWind.Membership.Frontend.RazorViews\\NorthWind.Membership.Frontend.RazorViews.csproj|d:\\proyectos_escritorio\\proyectomoviles\\web\\northwind\\northwind.membership\\northwind.membership.frontend.razorviews\\pages\\userloginpage.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{74FA3518-FD67-485E-BA82-397C61C417B7}|NorthWind.Membership.Frontend.RazorViews\\NorthWind.Membership.Frontend.RazorViews.csproj|solutionrelative:northwind.membership.frontend.razorviews\\pages\\userloginpage.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{74FA3518-FD67-485E-BA82-397C61C417B7}|NorthWind.Membership.Frontend.RazorViews\\NorthWind.Membership.Frontend.RazorViews.csproj|d:\\proyectos_escritorio\\proyectomoviles\\web\\northwind\\northwind.membership\\northwind.membership.frontend.razorviews\\components\\userregistrationcomponent.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{74FA3518-FD67-485E-BA82-397C61C417B7}|NorthWind.Membership.Frontend.RazorViews\\NorthWind.Membership.Frontend.RazorViews.csproj|solutionrelative:northwind.membership.frontend.razorviews\\components\\userregistrationcomponent.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{74FA3518-FD67-485E-BA82-397C61C417B7}|NorthWind.Membership.Frontend.RazorViews\\NorthWind.Membership.Frontend.RazorViews.csproj|d:\\proyectos_escritorio\\proyectomoviles\\web\\northwind\\northwind.membership\\northwind.membership.frontend.razorviews\\viewmodels\\userlogin\\userloginviewmodeldtovalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{74FA3518-FD67-485E-BA82-397C61C417B7}|NorthWind.Membership.Frontend.RazorViews\\NorthWind.Membership.Frontend.RazorViews.csproj|solutionrelative:northwind.membership.frontend.razorviews\\viewmodels\\userlogin\\userloginviewmodeldtovalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{74FA3518-FD67-485E-BA82-397C61C417B7}|NorthWind.Membership.Frontend.RazorViews\\NorthWind.Membership.Frontend.RazorViews.csproj|d:\\proyectos_escritorio\\proyectomoviles\\web\\northwind\\northwind.membership\\northwind.membership.frontend.razorviews\\viewmodels\\userregistration\\userregistrationviewmodelvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{74FA3518-FD67-485E-BA82-397C61C417B7}|NorthWind.Membership.Frontend.RazorViews\\NorthWind.Membership.Frontend.RazorViews.csproj|solutionrelative:northwind.membership.frontend.razorviews\\viewmodels\\userregistration\\userregistrationviewmodelvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{74FA3518-FD67-485E-BA82-397C61C417B7}|NorthWind.Membership.Frontend.RazorViews\\NorthWind.Membership.Frontend.RazorViews.csproj|d:\\proyectos_escritorio\\proyectomoviles\\web\\northwind\\northwind.membership\\northwind.membership.frontend.razorviews\\viewmodels\\userregistration\\userregistrationviewmodeldtovalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{74FA3518-FD67-485E-BA82-397C61C417B7}|NorthWind.Membership.Frontend.RazorViews\\NorthWind.Membership.Frontend.RazorViews.csproj|solutionrelative:northwind.membership.frontend.razorviews\\viewmodels\\userregistration\\userregistrationviewmodeldtovalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{74FA3518-FD67-485E-BA82-397C61C417B7}|NorthWind.Membership.Frontend.RazorViews\\NorthWind.Membership.Frontend.RazorViews.csproj|d:\\proyectos_escritorio\\proyectomoviles\\web\\northwind\\northwind.membership\\northwind.membership.frontend.razorviews\\viewmodels\\userregistration\\userregistrationviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{74FA3518-FD67-485E-BA82-397C61C417B7}|NorthWind.Membership.Frontend.RazorViews\\NorthWind.Membership.Frontend.RazorViews.csproj|solutionrelative:northwind.membership.frontend.razorviews\\viewmodels\\userregistration\\userregistrationviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{74FA3518-FD67-485E-BA82-397C61C417B7}|NorthWind.Membership.Frontend.RazorViews\\NorthWind.Membership.Frontend.RazorViews.csproj|d:\\proyectos_escritorio\\proyectomoviles\\web\\northwind\\northwind.membership\\northwind.membership.frontend.razorviews\\components\\userregistrationcomponent.razor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{74FA3518-FD67-485E-BA82-397C61C417B7}|NorthWind.Membership.Frontend.RazorViews\\NorthWind.Membership.Frontend.RazorViews.csproj|solutionrelative:northwind.membership.frontend.razorviews\\components\\userregistrationcomponent.razor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{74FA3518-FD67-485E-BA82-397C61C417B7}|NorthWind.Membership.Frontend.RazorViews\\NorthWind.Membership.Frontend.RazorViews.csproj|d:\\proyectos_escritorio\\proyectomoviles\\web\\northwind\\northwind.membership\\northwind.membership.frontend.razorviews\\components\\userlogincomponent.razor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{74FA3518-FD67-485E-BA82-397C61C417B7}|NorthWind.Membership.Frontend.RazorViews\\NorthWind.Membership.Frontend.RazorViews.csproj|solutionrelative:northwind.membership.frontend.razorviews\\components\\userlogincomponent.razor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Program Files\\dotnet\\sdk\\9.0.304\\Sdks\\Microsoft.NET.Sdk\\targets\\Microsoft.PackageDependencyResolution.targets||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12F63AD4-E5EF-4747-98D5-7D870E5DC9ED}|NorthWind.Membership.Backend.Core\\NorthWind.Membership.Backend.Core.csproj|d:\\proyectos_escritorio\\proyectomoviles\\web\\northwind\\northwind.membership\\northwind.membership.backend.core\\usecases\\userregistration\\userregistrationinteractor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{12F63AD4-E5EF-4747-98D5-7D870E5DC9ED}|NorthWind.Membership.Backend.Core\\NorthWind.Membership.Backend.Core.csproj|solutionrelative:northwind.membership.backend.core\\usecases\\userregistration\\userregistrationinteractor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Northwind\\NorthWind.Membership\\RazorClassLibrary1\\RazorClassLibrary1.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 254,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "UserLoginMessages.resx",
+              "DocumentMoniker": "D:\\PROYECTOS_ESCRITORIO\\ProyectoMoviles\\Web\\Northwind\\NorthWind.Membership\\NorthWind.Membership.Backend.Core\\Resources\\UserLoginMessages.resx",
+              "RelativeDocumentMoniker": "NorthWind.Membership.Backend.Core\\Resources\\UserLoginMessages.resx",
+              "ToolTip": "D:\\PROYECTOS_ESCRITORIO\\ProyectoMoviles\\Web\\Northwind\\NorthWind.Membership\\NorthWind.Membership.Backend.Core\\Resources\\UserLoginMessages.resx",
+              "RelativeToolTip": "NorthWind.Membership.Backend.Core\\Resources\\UserLoginMessages.resx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2025-12-03T03:37:06.197Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "UserRegistrationMessages.resx",
+              "DocumentMoniker": "D:\\PROYECTOS_ESCRITORIO\\ProyectoMoviles\\Web\\Northwind\\NorthWind.Membership\\NorthWind.Membership.Backend.Core\\Resources\\UserRegistrationMessages.resx",
+              "RelativeDocumentMoniker": "NorthWind.Membership.Backend.Core\\Resources\\UserRegistrationMessages.resx",
+              "ToolTip": "D:\\PROYECTOS_ESCRITORIO\\ProyectoMoviles\\Web\\Northwind\\NorthWind.Membership\\NorthWind.Membership.Backend.Core\\Resources\\UserRegistrationMessages.resx",
+              "RelativeToolTip": "NorthWind.Membership.Backend.Core\\Resources\\UserRegistrationMessages.resx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2025-09-02T19:22:09.252Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DependencyContainer.cs",
+              "DocumentMoniker": "D:\\PROYECTOS_ESCRITORIO\\ProyectoMoviles\\Web\\Northwind\\NorthWind.Membership\\NorthWind.Membership.Backend.Core\\DependencyContainer.cs",
+              "RelativeDocumentMoniker": "NorthWind.Membership.Backend.Core\\DependencyContainer.cs",
+              "ToolTip": "D:\\PROYECTOS_ESCRITORIO\\ProyectoMoviles\\Web\\Northwind\\NorthWind.Membership\\NorthWind.Membership.Backend.Core\\DependencyContainer.cs",
+              "RelativeToolTip": "NorthWind.Membership.Backend.Core\\DependencyContainer.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAAAE0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-02T19:20:52.125Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "EndpointsContainer.cs",
+              "DocumentMoniker": "D:\\PROYECTOS_ESCRITORIO\\ProyectoMoviles\\Web\\Northwind\\NorthWind.Membership\\NorthWind.Membership.Backend.Core\\EndpointsContainer.cs",
+              "RelativeDocumentMoniker": "NorthWind.Membership.Backend.Core\\EndpointsContainer.cs",
+              "ToolTip": "D:\\PROYECTOS_ESCRITORIO\\ProyectoMoviles\\Web\\Northwind\\NorthWind.Membership\\NorthWind.Membership.Backend.Core\\EndpointsContainer.cs",
+              "RelativeToolTip": "NorthWind.Membership.Backend.Core\\EndpointsContainer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-02T19:26:59.763Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UserLoginMessages.resx",
+              "DocumentMoniker": "D:\\PROYECTOS_ESCRITORIO\\ProyectoMoviles\\Web\\Northwind\\NorthWind.Membership\\NorthWind.Membership.Entities\\Resources\\UserLoginMessages.resx",
+              "RelativeDocumentMoniker": "NorthWind.Membership.Entities\\Resources\\UserLoginMessages.resx",
+              "ToolTip": "D:\\PROYECTOS_ESCRITORIO\\ProyectoMoviles\\Web\\Northwind\\NorthWind.Membership\\NorthWind.Membership.Entities\\Resources\\UserLoginMessages.resx",
+              "RelativeToolTip": "NorthWind.Membership.Entities\\Resources\\UserLoginMessages.resx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2025-09-02T22:57:20.825Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "UserLoginPresenter.cs",
+              "DocumentMoniker": "D:\\PROYECTOS_ESCRITORIO\\ProyectoMoviles\\Web\\Northwind\\NorthWind.Membership\\NorthWind.Membership.Backend.Core\\Presenters\\UserLogin\\UserLoginPresenter.cs",
+              "RelativeDocumentMoniker": "NorthWind.Membership.Backend.Core\\Presenters\\UserLogin\\UserLoginPresenter.cs",
+              "ToolTip": "D:\\PROYECTOS_ESCRITORIO\\ProyectoMoviles\\Web\\Northwind\\NorthWind.Membership\\NorthWind.Membership.Backend.Core\\Presenters\\UserLogin\\UserLoginPresenter.cs",
+              "RelativeToolTip": "NorthWind.Membership.Backend.Core\\Presenters\\UserLogin\\UserLoginPresenter.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-03T02:37:09.964Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "IMembershipService.cs",
+              "DocumentMoniker": "D:\\PROYECTOS_ESCRITORIO\\ProyectoMoviles\\Web\\Northwind\\NorthWind.Membership\\NorthWind.Membership.Backend.Core\\Interfaces\\Common\\IMembershipService.cs",
+              "RelativeDocumentMoniker": "NorthWind.Membership.Backend.Core\\Interfaces\\Common\\IMembershipService.cs",
+              "ToolTip": "D:\\PROYECTOS_ESCRITORIO\\ProyectoMoviles\\Web\\Northwind\\NorthWind.Membership\\NorthWind.Membership.Backend.Core\\Interfaces\\Common\\IMembershipService.cs",
+              "RelativeToolTip": "NorthWind.Membership.Backend.Core\\Interfaces\\Common\\IMembershipService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-16T02:59:08.513Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "MembershipService.cs",
+              "DocumentMoniker": "D:\\PROYECTOS_ESCRITORIO\\ProyectoMoviles\\Web\\Northwind\\NorthWind.Membership\\NorthWind.Membership.Backend.AspNetIdentity\\Services\\MembershipService.cs",
+              "RelativeDocumentMoniker": "NorthWind.Membership.Backend.AspNetIdentity\\Services\\MembershipService.cs",
+              "ToolTip": "D:\\PROYECTOS_ESCRITORIO\\ProyectoMoviles\\Web\\Northwind\\NorthWind.Membership\\NorthWind.Membership.Backend.AspNetIdentity\\Services\\MembershipService.cs",
+              "RelativeToolTip": "NorthWind.Membership.Backend.AspNetIdentity\\Services\\MembershipService.cs",
+              "ViewState": "AgIAAG8BAAAAAAAAAAAAAFcAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-14T20:18:32.298Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "UserLoginInteractor.cs",
+              "DocumentMoniker": "D:\\PROYECTOS_ESCRITORIO\\ProyectoMoviles\\Web\\Northwind\\NorthWind.Membership\\NorthWind.Membership.Backend.Core\\UseCases\\UserLogin\\UserLoginInteractor.cs",
+              "RelativeDocumentMoniker": "NorthWind.Membership.Backend.Core\\UseCases\\UserLogin\\UserLoginInteractor.cs",
+              "ToolTip": "D:\\PROYECTOS_ESCRITORIO\\ProyectoMoviles\\Web\\Northwind\\NorthWind.Membership\\NorthWind.Membership.Backend.Core\\UseCases\\UserLogin\\UserLoginInteractor.cs",
+              "RelativeToolTip": "NorthWind.Membership.Backend.Core\\UseCases\\UserLogin\\UserLoginInteractor.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAADwAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-03T02:31:30.57Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "UserLoginController.cs",
+              "DocumentMoniker": "D:\\PROYECTOS_ESCRITORIO\\ProyectoMoviles\\Web\\Northwind\\NorthWind.Membership\\NorthWind.Membership.Backend.Core\\Controllers\\UserLogin\\UserLoginController.cs",
+              "RelativeDocumentMoniker": "NorthWind.Membership.Backend.Core\\Controllers\\UserLogin\\UserLoginController.cs",
+              "ToolTip": "D:\\PROYECTOS_ESCRITORIO\\ProyectoMoviles\\Web\\Northwind\\NorthWind.Membership\\NorthWind.Membership.Backend.Core\\Controllers\\UserLogin\\UserLoginController.cs",
+              "RelativeToolTip": "NorthWind.Membership.Backend.Core\\Controllers\\UserLogin\\UserLoginController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-03T02:29:45.78Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "RoleSeeder.cs",
+              "DocumentMoniker": "D:\\PROYECTOS_ESCRITORIO\\ProyectoMoviles\\Web\\Northwind\\NorthWind.Membership\\NorthWind.Membership.Backend.AspNetIdentity\\Services\\RoleSeeder.cs",
+              "RelativeDocumentMoniker": "NorthWind.Membership.Backend.AspNetIdentity\\Services\\RoleSeeder.cs",
+              "ToolTip": "D:\\PROYECTOS_ESCRITORIO\\ProyectoMoviles\\Web\\Northwind\\NorthWind.Membership\\NorthWind.Membership.Backend.AspNetIdentity\\Services\\RoleSeeder.cs",
+              "RelativeToolTip": "NorthWind.Membership.Backend.AspNetIdentity\\Services\\RoleSeeder.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAACsAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-14T20:45:17.13Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "NorthWind.Membership.Backend.Core.csproj",
+              "DocumentMoniker": "D:\\PROYECTOS_ESCRITORIO\\ProyectoMoviles\\Web\\Northwind\\NorthWind.Membership\\NorthWind.Membership.Backend.Core\\NorthWind.Membership.Backend.Core.csproj",
+              "RelativeDocumentMoniker": "NorthWind.Membership.Backend.Core\\NorthWind.Membership.Backend.Core.csproj",
+              "ToolTip": "D:\\PROYECTOS_ESCRITORIO\\ProyectoMoviles\\Web\\Northwind\\NorthWind.Membership\\NorthWind.Membership.Backend.Core\\NorthWind.Membership.Backend.Core.csproj",
+              "RelativeToolTip": "NorthWind.Membership.Backend.Core\\NorthWind.Membership.Backend.Core.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-12-01T03:41:20.021Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "DependencyContainer.cs",
+              "DocumentMoniker": "D:\\PROYECTOS_ESCRITORIO\\ProyectoMoviles\\Web\\Northwind\\NorthWind.Membership\\NorthWind.Membership.Backend.AspNetIdentity\\DependencyContainer.cs",
+              "RelativeDocumentMoniker": "NorthWind.Membership.Backend.AspNetIdentity\\DependencyContainer.cs",
+              "ToolTip": "D:\\PROYECTOS_ESCRITORIO\\ProyectoMoviles\\Web\\Northwind\\NorthWind.Membership\\NorthWind.Membership.Backend.AspNetIdentity\\DependencyContainer.cs",
+              "RelativeToolTip": "NorthWind.Membership.Backend.AspNetIdentity\\DependencyContainer.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAAACAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-14T20:22:16.719Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "TokensDto.cs",
+              "DocumentMoniker": "D:\\PROYECTOS_ESCRITORIO\\ProyectoMoviles\\Web\\Northwind\\NorthWind.Membership\\NorthWind.Membership.Entities\\UserLogin\\TokensDto.cs",
+              "RelativeDocumentMoniker": "NorthWind.Membership.Entities\\UserLogin\\TokensDto.cs",
+              "ToolTip": "D:\\PROYECTOS_ESCRITORIO\\ProyectoMoviles\\Web\\Northwind\\NorthWind.Membership\\NorthWind.Membership.Entities\\UserLogin\\TokensDto.cs",
+              "RelativeToolTip": "NorthWind.Membership.Entities\\UserLogin\\TokensDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-02T22:54:19.604Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "UserLogin.cs",
+              "DocumentMoniker": "D:\\PROYECTOS_ESCRITORIO\\ProyectoMoviles\\Web\\Northwind\\NorthWind.Membership\\NorthWind.Membership.Entities\\UserLogin\\UserLogin.cs",
+              "RelativeDocumentMoniker": "NorthWind.Membership.Entities\\UserLogin\\UserLogin.cs",
+              "ToolTip": "D:\\PROYECTOS_ESCRITORIO\\ProyectoMoviles\\Web\\Northwind\\NorthWind.Membership\\NorthWind.Membership.Entities\\UserLogin\\UserLogin.cs",
+              "RelativeToolTip": "NorthWind.Membership.Entities\\UserLogin\\UserLogin.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-02T20:39:15.169Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "UpdateUserInteractor.cs",
+              "DocumentMoniker": "D:\\PROYECTOS_ESCRITORIO\\ProyectoMoviles\\Web\\Northwind\\NorthWind.Membership\\NorthWind.Membership.Backend.Core\\UseCases\\UserManagement\\UpdateUserInteractor.cs",
+              "RelativeDocumentMoniker": "NorthWind.Membership.Backend.Core\\UseCases\\UserManagement\\UpdateUserInteractor.cs",
+              "ToolTip": "D:\\PROYECTOS_ESCRITORIO\\ProyectoMoviles\\Web\\Northwind\\NorthWind.Membership\\NorthWind.Membership.Backend.Core\\UseCases\\UserManagement\\UpdateUserInteractor.cs",
+              "RelativeToolTip": "NorthWind.Membership.Backend.Core\\UseCases\\UserManagement\\UpdateUserInteractor.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAoAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-16T03:02:25.721Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "UnlockUserInteractor.cs",
+              "DocumentMoniker": "D:\\PROYECTOS_ESCRITORIO\\ProyectoMoviles\\Web\\Northwind\\NorthWind.Membership\\NorthWind.Membership.Backend.Core\\UseCases\\UserManagement\\UnlockUserInteractor.cs",
+              "RelativeDocumentMoniker": "NorthWind.Membership.Backend.Core\\UseCases\\UserManagement\\UnlockUserInteractor.cs",
+              "ToolTip": "D:\\PROYECTOS_ESCRITORIO\\ProyectoMoviles\\Web\\Northwind\\NorthWind.Membership\\NorthWind.Membership.Backend.Core\\UseCases\\UserManagement\\UnlockUserInteractor.cs",
+              "RelativeToolTip": "NorthWind.Membership.Backend.Core\\UseCases\\UserManagement\\UnlockUserInteractor.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-15T03:42:00.853Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "UserRegistrationDtoValidator.cs",
+              "DocumentMoniker": "D:\\PROYECTOS_ESCRITORIO\\ProyectoMoviles\\Web\\Northwind\\NorthWind.Membership\\NorthWind.Membership.Entities\\Validators\\UserRegistration\\UserRegistrationDtoValidator.cs",
+              "RelativeDocumentMoniker": "NorthWind.Membership.Entities\\Validators\\UserRegistration\\UserRegistrationDtoValidator.cs",
+              "ToolTip": "D:\\PROYECTOS_ESCRITORIO\\ProyectoMoviles\\Web\\Northwind\\NorthWind.Membership\\NorthWind.Membership.Entities\\Validators\\UserRegistration\\UserRegistrationDtoValidator.cs",
+              "RelativeToolTip": "NorthWind.Membership.Entities\\Validators\\UserRegistration\\UserRegistrationDtoValidator.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAADwvxsAAABRAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-02T19:12:02.43Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "UpdateUserDtoValidator.cs",
+              "DocumentMoniker": "D:\\PROYECTOS_ESCRITORIO\\ProyectoMoviles\\Web\\Northwind\\NorthWind.Membership\\NorthWind.Membership.Entities\\Validators\\UserManagement\\UpdateUserDtoValidator.cs",
+              "RelativeDocumentMoniker": "NorthWind.Membership.Entities\\Validators\\UserManagement\\UpdateUserDtoValidator.cs",
+              "ToolTip": "D:\\PROYECTOS_ESCRITORIO\\ProyectoMoviles\\Web\\Northwind\\NorthWind.Membership\\NorthWind.Membership.Entities\\Validators\\UserManagement\\UpdateUserDtoValidator.cs",
+              "RelativeToolTip": "NorthWind.Membership.Entities\\Validators\\UserManagement\\UpdateUserDtoValidator.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAiwCIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-16T03:47:50.827Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "GetLockedOutUsersInteractor.cs",
+              "DocumentMoniker": "D:\\PROYECTOS_ESCRITORIO\\ProyectoMoviles\\Web\\Northwind\\NorthWind.Membership\\NorthWind.Membership.Backend.Core\\UseCases\\UserManagement\\GetLockedOutUsersInteractor.cs",
+              "RelativeDocumentMoniker": "NorthWind.Membership.Backend.Core\\UseCases\\UserManagement\\GetLockedOutUsersInteractor.cs",
+              "ToolTip": "D:\\PROYECTOS_ESCRITORIO\\ProyectoMoviles\\Web\\Northwind\\NorthWind.Membership\\NorthWind.Membership.Backend.Core\\UseCases\\UserManagement\\GetLockedOutUsersInteractor.cs",
+              "RelativeToolTip": "NorthWind.Membership.Backend.Core\\UseCases\\UserManagement\\GetLockedOutUsersInteractor.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-15T03:37:12.391Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "UserManagementController.cs",
+              "DocumentMoniker": "D:\\PROYECTOS_ESCRITORIO\\ProyectoMoviles\\Web\\Northwind\\NorthWind.Membership\\NorthWind.Membership.Backend.Core\\Controllers\\UserManagement\\UserManagementController.cs",
+              "RelativeDocumentMoniker": "NorthWind.Membership.Backend.Core\\Controllers\\UserManagement\\UserManagementController.cs",
+              "ToolTip": "D:\\PROYECTOS_ESCRITORIO\\ProyectoMoviles\\Web\\Northwind\\NorthWind.Membership\\NorthWind.Membership.Backend.Core\\Controllers\\UserManagement\\UserManagementController.cs",
+              "RelativeToolTip": "NorthWind.Membership.Backend.Core\\Controllers\\UserManagement\\UserManagementController.cs",
+              "ViewState": "AgIAACgAAAAAAAAAAIBJwDcAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-15T04:08:42.667Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "IGetLockedOutUsersOutputPort.cs",
+              "DocumentMoniker": "D:\\PROYECTOS_ESCRITORIO\\ProyectoMoviles\\Web\\Northwind\\NorthWind.Membership\\NorthWind.Membership.Backend.Core\\Interfaces\\UserManagement\\IGetLockedOutUsersOutputPort.cs",
+              "RelativeDocumentMoniker": "NorthWind.Membership.Backend.Core\\Interfaces\\UserManagement\\IGetLockedOutUsersOutputPort.cs",
+              "ToolTip": "D:\\PROYECTOS_ESCRITORIO\\ProyectoMoviles\\Web\\Northwind\\NorthWind.Membership\\NorthWind.Membership.Backend.Core\\Interfaces\\UserManagement\\IGetLockedOutUsersOutputPort.cs",
+              "RelativeToolTip": "NorthWind.Membership.Backend.Core\\Interfaces\\UserManagement\\IGetLockedOutUsersOutputPort.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-15T03:36:45.232Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "IGetLockedOutUsersInputPort.cs",
+              "DocumentMoniker": "D:\\PROYECTOS_ESCRITORIO\\ProyectoMoviles\\Web\\Northwind\\NorthWind.Membership\\NorthWind.Membership.Backend.Core\\Interfaces\\UserManagement\\IGetLockedOutUsersInputPort.cs",
+              "RelativeDocumentMoniker": "NorthWind.Membership.Backend.Core\\Interfaces\\UserManagement\\IGetLockedOutUsersInputPort.cs",
+              "ToolTip": "D:\\PROYECTOS_ESCRITORIO\\ProyectoMoviles\\Web\\Northwind\\NorthWind.Membership\\NorthWind.Membership.Backend.Core\\Interfaces\\UserManagement\\IGetLockedOutUsersInputPort.cs",
+              "RelativeToolTip": "NorthWind.Membership.Backend.Core\\Interfaces\\UserManagement\\IGetLockedOutUsersInputPort.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-15T03:36:15.794Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "GetLockedOutUsersPresenter.cs",
+              "DocumentMoniker": "D:\\PROYECTOS_ESCRITORIO\\ProyectoMoviles\\Web\\Northwind\\NorthWind.Membership\\NorthWind.Membership.Backend.Core\\Presenters\\UserManagement\\GetLockedOutUsersPresenter.cs",
+              "RelativeDocumentMoniker": "NorthWind.Membership.Backend.Core\\Presenters\\UserManagement\\GetLockedOutUsersPresenter.cs",
+              "ToolTip": "D:\\PROYECTOS_ESCRITORIO\\ProyectoMoviles\\Web\\Northwind\\NorthWind.Membership\\NorthWind.Membership.Backend.Core\\Presenters\\UserManagement\\GetLockedOutUsersPresenter.cs",
+              "RelativeToolTip": "NorthWind.Membership.Backend.Core\\Presenters\\UserManagement\\GetLockedOutUsersPresenter.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-15T03:45:14.955Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "GetAllUsersInteractor.cs",
+              "DocumentMoniker": "D:\\PROYECTOS_ESCRITORIO\\ProyectoMoviles\\Web\\Northwind\\NorthWind.Membership\\NorthWind.Membership.Backend.Core\\UseCases\\UserManagement\\GetAllUsersInteractor.cs",
+              "RelativeDocumentMoniker": "NorthWind.Membership.Backend.Core\\UseCases\\UserManagement\\GetAllUsersInteractor.cs",
+              "ToolTip": "D:\\PROYECTOS_ESCRITORIO\\ProyectoMoviles\\Web\\Northwind\\NorthWind.Membership\\NorthWind.Membership.Backend.Core\\UseCases\\UserManagement\\GetAllUsersInteractor.cs",
+              "RelativeToolTip": "NorthWind.Membership.Backend.Core\\UseCases\\UserManagement\\GetAllUsersInteractor.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-15T03:34:39.626Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "IGetAllUsersOutputPort.cs",
+              "DocumentMoniker": "D:\\PROYECTOS_ESCRITORIO\\ProyectoMoviles\\Web\\Northwind\\NorthWind.Membership\\NorthWind.Membership.Backend.Core\\Interfaces\\UserManagement\\IGetAllUsersOutputPort.cs",
+              "RelativeDocumentMoniker": "NorthWind.Membership.Backend.Core\\Interfaces\\UserManagement\\IGetAllUsersOutputPort.cs",
+              "ToolTip": "D:\\PROYECTOS_ESCRITORIO\\ProyectoMoviles\\Web\\Northwind\\NorthWind.Membership\\NorthWind.Membership.Backend.Core\\Interfaces\\UserManagement\\IGetAllUsersOutputPort.cs",
+              "RelativeToolTip": "NorthWind.Membership.Backend.Core\\Interfaces\\UserManagement\\IGetAllUsersOutputPort.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-15T03:30:42.732Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "IGetAllUsersInputPort.cs",
+              "DocumentMoniker": "D:\\PROYECTOS_ESCRITORIO\\ProyectoMoviles\\Web\\Northwind\\NorthWind.Membership\\NorthWind.Membership.Backend.Core\\Interfaces\\UserManagement\\IGetAllUsersInputPort.cs",
+              "RelativeDocumentMoniker": "NorthWind.Membership.Backend.Core\\Interfaces\\UserManagement\\IGetAllUsersInputPort.cs",
+              "ToolTip": "D:\\PROYECTOS_ESCRITORIO\\ProyectoMoviles\\Web\\Northwind\\NorthWind.Membership\\NorthWind.Membership.Backend.Core\\Interfaces\\UserManagement\\IGetAllUsersInputPort.cs",
+              "RelativeToolTip": "NorthWind.Membership.Backend.Core\\Interfaces\\UserManagement\\IGetAllUsersInputPort.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-15T03:30:05.163Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "GetUserByIdInteractor.cs",
+              "DocumentMoniker": "D:\\PROYECTOS_ESCRITORIO\\ProyectoMoviles\\Web\\Northwind\\NorthWind.Membership\\NorthWind.Membership.Backend.Core\\UseCases\\UserManagement\\GetUserByIdInteractor.cs",
+              "RelativeDocumentMoniker": "NorthWind.Membership.Backend.Core\\UseCases\\UserManagement\\GetUserByIdInteractor.cs",
+              "ToolTip": "D:\\PROYECTOS_ESCRITORIO\\ProyectoMoviles\\Web\\Northwind\\NorthWind.Membership\\NorthWind.Membership.Backend.Core\\UseCases\\UserManagement\\GetUserByIdInteractor.cs",
+              "RelativeToolTip": "NorthWind.Membership.Backend.Core\\UseCases\\UserManagement\\GetUserByIdInteractor.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEIAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-24T03:58:24.298Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "GetAllUsersPresenter.cs",
+              "DocumentMoniker": "D:\\PROYECTOS_ESCRITORIO\\ProyectoMoviles\\Web\\Northwind\\NorthWind.Membership\\NorthWind.Membership.Backend.Core\\Presenters\\UserManagement\\GetAllUsersPresenter.cs",
+              "RelativeDocumentMoniker": "NorthWind.Membership.Backend.Core\\Presenters\\UserManagement\\GetAllUsersPresenter.cs",
+              "ToolTip": "D:\\PROYECTOS_ESCRITORIO\\ProyectoMoviles\\Web\\Northwind\\NorthWind.Membership\\NorthWind.Membership.Backend.Core\\Presenters\\UserManagement\\GetAllUsersPresenter.cs",
+              "RelativeToolTip": "NorthWind.Membership.Backend.Core\\Presenters\\UserManagement\\GetAllUsersPresenter.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-15T03:44:51.328Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "PagedResultDto.cs",
+              "DocumentMoniker": "D:\\PROYECTOS_ESCRITORIO\\ProyectoMoviles\\Web\\Northwind\\NorthWind.Membership\\NorthWind.Membership.Entities\\Dtos\\Common\\PagedResultDto.cs",
+              "RelativeDocumentMoniker": "NorthWind.Membership.Entities\\Dtos\\Common\\PagedResultDto.cs",
+              "ToolTip": "D:\\PROYECTOS_ESCRITORIO\\ProyectoMoviles\\Web\\Northwind\\NorthWind.Membership\\NorthWind.Membership.Entities\\Dtos\\Common\\PagedResultDto.cs",
+              "RelativeToolTip": "NorthWind.Membership.Entities\\Dtos\\Common\\PagedResultDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-01T03:30:04.232Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "PaginationDto.cs",
+              "DocumentMoniker": "D:\\PROYECTOS_ESCRITORIO\\ProyectoMoviles\\Web\\Northwind\\NorthWind.Membership\\NorthWind.Membership.Entities\\Dtos\\Common\\PaginationDto.cs",
+              "RelativeDocumentMoniker": "NorthWind.Membership.Entities\\Dtos\\Common\\PaginationDto.cs",
+              "ToolTip": "D:\\PROYECTOS_ESCRITORIO\\ProyectoMoviles\\Web\\Northwind\\NorthWind.Membership\\NorthWind.Membership.Entities\\Dtos\\Common\\PaginationDto.cs",
+              "RelativeToolTip": "NorthWind.Membership.Entities\\Dtos\\Common\\PaginationDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-01T03:29:38.428Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "DeleteUserInteractor.cs",
+              "DocumentMoniker": "D:\\PROYECTOS_ESCRITORIO\\ProyectoMoviles\\Web\\Northwind\\NorthWind.Membership\\NorthWind.Membership.Backend.Core\\UseCases\\UserManagement\\DeleteUserInteractor.cs",
+              "RelativeDocumentMoniker": "NorthWind.Membership.Backend.Core\\UseCases\\UserManagement\\DeleteUserInteractor.cs",
+              "ToolTip": "D:\\PROYECTOS_ESCRITORIO\\ProyectoMoviles\\Web\\Northwind\\NorthWind.Membership\\NorthWind.Membership.Backend.Core\\UseCases\\UserManagement\\DeleteUserInteractor.cs",
+              "RelativeToolTip": "NorthWind.Membership.Backend.Core\\UseCases\\UserManagement\\DeleteUserInteractor.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-16T03:02:56.801Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "JwtService.cs",
+              "DocumentMoniker": "D:\\PROYECTOS_ESCRITORIO\\ProyectoMoviles\\Web\\Northwind\\NorthWind.Membership\\NorthWind.Membership.Backend.Core\\Services\\JwtService.cs",
+              "RelativeDocumentMoniker": "NorthWind.Membership.Backend.Core\\Services\\JwtService.cs",
+              "ToolTip": "D:\\PROYECTOS_ESCRITORIO\\ProyectoMoviles\\Web\\Northwind\\NorthWind.Membership\\NorthWind.Membership.Backend.Core\\Services\\JwtService.cs",
+              "RelativeToolTip": "NorthWind.Membership.Backend.Core\\Services\\JwtService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-03T02:35:04.008Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "IUserLoginInputPort.cs",
+              "DocumentMoniker": "D:\\PROYECTOS_ESCRITORIO\\ProyectoMoviles\\Web\\Northwind\\NorthWind.Membership\\NorthWind.Membership.Backend.Core\\Interfaces\\UserLogin\\IUserLoginInputPort.cs",
+              "RelativeDocumentMoniker": "NorthWind.Membership.Backend.Core\\Interfaces\\UserLogin\\IUserLoginInputPort.cs",
+              "ToolTip": "D:\\PROYECTOS_ESCRITORIO\\ProyectoMoviles\\Web\\Northwind\\NorthWind.Membership\\NorthWind.Membership.Backend.Core\\Interfaces\\UserLogin\\IUserLoginInputPort.cs",
+              "RelativeToolTip": "NorthWind.Membership.Backend.Core\\Interfaces\\UserLogin\\IUserLoginInputPort.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-03T02:28:31.837Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "IUserLoginOutputPort.cs",
+              "DocumentMoniker": "D:\\PROYECTOS_ESCRITORIO\\ProyectoMoviles\\Web\\Northwind\\NorthWind.Membership\\NorthWind.Membership.Backend.Core\\Interfaces\\UserLogin\\IUserLoginOutputPort.cs",
+              "RelativeDocumentMoniker": "NorthWind.Membership.Backend.Core\\Interfaces\\UserLogin\\IUserLoginOutputPort.cs",
+              "ToolTip": "D:\\PROYECTOS_ESCRITORIO\\ProyectoMoviles\\Web\\Northwind\\NorthWind.Membership\\NorthWind.Membership.Backend.Core\\Interfaces\\UserLogin\\IUserLoginOutputPort.cs",
+              "RelativeToolTip": "NorthWind.Membership.Backend.Core\\Interfaces\\UserLogin\\IUserLoginOutputPort.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-03T02:28:59.865Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "UserRegistrationController.cs",
+              "DocumentMoniker": "D:\\PROYECTOS_ESCRITORIO\\ProyectoMoviles\\Web\\Northwind\\NorthWind.Membership\\NorthWind.Membership.Backend.Core\\Controllers\\UserRegistration\\UserRegistrationController.cs",
+              "RelativeDocumentMoniker": "NorthWind.Membership.Backend.Core\\Controllers\\UserRegistration\\UserRegistrationController.cs",
+              "ToolTip": "D:\\PROYECTOS_ESCRITORIO\\ProyectoMoviles\\Web\\Northwind\\NorthWind.Membership\\NorthWind.Membership.Backend.Core\\Controllers\\UserRegistration\\UserRegistrationController.cs",
+              "RelativeToolTip": "NorthWind.Membership.Backend.Core\\Controllers\\UserRegistration\\UserRegistrationController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-02T19:25:34.51Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "Endpoints.cs",
+              "DocumentMoniker": "D:\\PROYECTOS_ESCRITORIO\\ProyectoMoviles\\Web\\Northwind\\NorthWind.Membership\\NorthWind.Membership.Entities\\ValueObjects\\Endpoints.cs",
+              "RelativeDocumentMoniker": "NorthWind.Membership.Entities\\ValueObjects\\Endpoints.cs",
+              "ToolTip": "D:\\PROYECTOS_ESCRITORIO\\ProyectoMoviles\\Web\\Northwind\\NorthWind.Membership\\NorthWind.Membership.Entities\\ValueObjects\\Endpoints.cs",
+              "RelativeToolTip": "NorthWind.Membership.Entities\\ValueObjects\\Endpoints.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-02T19:14:50.036Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "DependencyContainer.cs",
+              "DocumentMoniker": "D:\\PROYECTOS_ESCRITORIO\\ProyectoMoviles\\Web\\Northwind\\NorthWind.Membership\\NorthWind.Membership.Entities\\DependencyContainer.cs",
+              "RelativeDocumentMoniker": "NorthWind.Membership.Entities\\DependencyContainer.cs",
+              "ToolTip": "D:\\PROYECTOS_ESCRITORIO\\ProyectoMoviles\\Web\\Northwind\\NorthWind.Membership\\NorthWind.Membership.Entities\\DependencyContainer.cs",
+              "RelativeToolTip": "NorthWind.Membership.Entities\\DependencyContainer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-02T19:13:54.901Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "LogoutResponse.cs",
+              "DocumentMoniker": "D:\\PROYECTOS_ESCRITORIO\\ProyectoMoviles\\Web\\Northwind\\NorthWind.Membership\\NorthWind.Membership.Entities\\Responses\\LogoutResponse.cs",
+              "RelativeDocumentMoniker": "NorthWind.Membership.Entities\\Responses\\LogoutResponse.cs",
+              "ToolTip": "D:\\PROYECTOS_ESCRITORIO\\ProyectoMoviles\\Web\\Northwind\\NorthWind.Membership\\NorthWind.Membership.Entities\\Responses\\LogoutResponse.cs",
+              "RelativeToolTip": "NorthWind.Membership.Entities\\Responses\\LogoutResponse.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-24T03:49:23.598Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "LogoutDto.cs",
+              "DocumentMoniker": "D:\\PROYECTOS_ESCRITORIO\\ProyectoMoviles\\Web\\Northwind\\NorthWind.Membership\\NorthWind.Membership.Entities\\Dtos\\UserManagement\\LogoutDto.cs",
+              "RelativeDocumentMoniker": "NorthWind.Membership.Entities\\Dtos\\UserManagement\\LogoutDto.cs",
+              "ToolTip": "D:\\PROYECTOS_ESCRITORIO\\ProyectoMoviles\\Web\\Northwind\\NorthWind.Membership\\NorthWind.Membership.Entities\\Dtos\\UserManagement\\LogoutDto.cs",
+              "RelativeToolTip": "NorthWind.Membership.Entities\\Dtos\\UserManagement\\LogoutDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-24T03:36:17.898Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "UnlockUserDto.cs",
+              "DocumentMoniker": "D:\\PROYECTOS_ESCRITORIO\\ProyectoMoviles\\Web\\Northwind\\NorthWind.Membership\\NorthWind.Membership.Entities\\Dtos\\UserManagement\\UnlockUserDto.cs",
+              "RelativeDocumentMoniker": "NorthWind.Membership.Entities\\Dtos\\UserManagement\\UnlockUserDto.cs",
+              "ToolTip": "D:\\PROYECTOS_ESCRITORIO\\ProyectoMoviles\\Web\\Northwind\\NorthWind.Membership\\NorthWind.Membership.Entities\\Dtos\\UserManagement\\UnlockUserDto.cs",
+              "RelativeToolTip": "NorthWind.Membership.Entities\\Dtos\\UserManagement\\UnlockUserDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-15T03:23:13.699Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "UpdateUserDto.cs",
+              "DocumentMoniker": "D:\\PROYECTOS_ESCRITORIO\\ProyectoMoviles\\Web\\Northwind\\NorthWind.Membership\\NorthWind.Membership.Entities\\Dtos\\UserManagement\\UpdateUserDto.cs",
+              "RelativeDocumentMoniker": "NorthWind.Membership.Entities\\Dtos\\UserManagement\\UpdateUserDto.cs",
+              "ToolTip": "D:\\PROYECTOS_ESCRITORIO\\ProyectoMoviles\\Web\\Northwind\\NorthWind.Membership\\NorthWind.Membership.Entities\\Dtos\\UserManagement\\UpdateUserDto.cs",
+              "RelativeToolTip": "NorthWind.Membership.Entities\\Dtos\\UserManagement\\UpdateUserDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-16T02:54:17.852Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "UserInfoDto.cs",
+              "DocumentMoniker": "D:\\PROYECTOS_ESCRITORIO\\ProyectoMoviles\\Web\\Northwind\\NorthWind.Membership\\NorthWind.Membership.Entities\\Dtos\\UserManagement\\UserInfoDto.cs",
+              "RelativeDocumentMoniker": "NorthWind.Membership.Entities\\Dtos\\UserManagement\\UserInfoDto.cs",
+              "ToolTip": "D:\\PROYECTOS_ESCRITORIO\\ProyectoMoviles\\Web\\Northwind\\NorthWind.Membership\\NorthWind.Membership.Entities\\Dtos\\UserManagement\\UserInfoDto.cs",
+              "RelativeToolTip": "NorthWind.Membership.Entities\\Dtos\\UserManagement\\UserInfoDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-15T03:22:10.31Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "UserRegistrationDto.cs",
+              "DocumentMoniker": "D:\\PROYECTOS_ESCRITORIO\\ProyectoMoviles\\Web\\Northwind\\NorthWind.Membership\\NorthWind.Membership.Entities\\Dtos\\UserRegistration\\UserRegistrationDto.cs",
+              "RelativeDocumentMoniker": "NorthWind.Membership.Entities\\Dtos\\UserRegistration\\UserRegistrationDto.cs",
+              "ToolTip": "D:\\PROYECTOS_ESCRITORIO\\ProyectoMoviles\\Web\\Northwind\\NorthWind.Membership\\NorthWind.Membership.Entities\\Dtos\\UserRegistration\\UserRegistrationDto.cs",
+              "RelativeToolTip": "NorthWind.Membership.Entities\\Dtos\\UserRegistration\\UserRegistrationDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-02T19:08:10.806Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "LogoutInteractor.cs",
+              "DocumentMoniker": "D:\\PROYECTOS_ESCRITORIO\\ProyectoMoviles\\Web\\Northwind\\NorthWind.Membership\\NorthWind.Membership.Backend.Core\\UseCases\\UserManagement\\LogoutInteractor.cs",
+              "RelativeDocumentMoniker": "NorthWind.Membership.Backend.Core\\UseCases\\UserManagement\\LogoutInteractor.cs",
+              "ToolTip": "D:\\PROYECTOS_ESCRITORIO\\ProyectoMoviles\\Web\\Northwind\\NorthWind.Membership\\NorthWind.Membership.Backend.Core\\UseCases\\UserManagement\\LogoutInteractor.cs",
+              "RelativeToolTip": "NorthWind.Membership.Backend.Core\\UseCases\\UserManagement\\LogoutInteractor.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-24T03:50:15.311Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "TokenBlacklistMiddleware.cs",
+              "DocumentMoniker": "D:\\PROYECTOS_ESCRITORIO\\ProyectoMoviles\\Web\\Northwind\\NorthWind.Membership\\NorthWind.Membership.Backend.Core\\Middleware\\TokenBlacklistMiddleware.cs",
+              "RelativeDocumentMoniker": "NorthWind.Membership.Backend.Core\\Middleware\\TokenBlacklistMiddleware.cs",
+              "ToolTip": "D:\\PROYECTOS_ESCRITORIO\\ProyectoMoviles\\Web\\Northwind\\NorthWind.Membership\\NorthWind.Membership.Backend.Core\\Middleware\\TokenBlacklistMiddleware.cs",
+              "RelativeToolTip": "NorthWind.Membership.Backend.Core\\Middleware\\TokenBlacklistMiddleware.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAkwBIAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-24T04:01:20.545Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "GetUserByIdPresenter.cs",
+              "DocumentMoniker": "D:\\PROYECTOS_ESCRITORIO\\ProyectoMoviles\\Web\\Northwind\\NorthWind.Membership\\NorthWind.Membership.Backend.Core\\Presenters\\UserManagement\\GetUserByIdPresenter.cs",
+              "RelativeDocumentMoniker": "NorthWind.Membership.Backend.Core\\Presenters\\UserManagement\\GetUserByIdPresenter.cs",
+              "ToolTip": "D:\\PROYECTOS_ESCRITORIO\\ProyectoMoviles\\Web\\Northwind\\NorthWind.Membership\\NorthWind.Membership.Backend.Core\\Presenters\\UserManagement\\GetUserByIdPresenter.cs",
+              "RelativeToolTip": "NorthWind.Membership.Backend.Core\\Presenters\\UserManagement\\GetUserByIdPresenter.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAIBZwAoAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-24T03:59:57.2Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "IGetUserByIdOutputPort.cs",
+              "DocumentMoniker": "D:\\PROYECTOS_ESCRITORIO\\ProyectoMoviles\\Web\\Northwind\\NorthWind.Membership\\NorthWind.Membership.Backend.Core\\Interfaces\\UserManagement\\IGetUserByIdOutputPort.cs",
+              "RelativeDocumentMoniker": "NorthWind.Membership.Backend.Core\\Interfaces\\UserManagement\\IGetUserByIdOutputPort.cs",
+              "ToolTip": "D:\\PROYECTOS_ESCRITORIO\\ProyectoMoviles\\Web\\Northwind\\NorthWind.Membership\\NorthWind.Membership.Backend.Core\\Interfaces\\UserManagement\\IGetUserByIdOutputPort.cs",
+              "RelativeToolTip": "NorthWind.Membership.Backend.Core\\Interfaces\\UserManagement\\IGetUserByIdOutputPort.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAgAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-24T03:55:25.828Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "LogoutPresenter.cs",
+              "DocumentMoniker": "D:\\PROYECTOS_ESCRITORIO\\ProyectoMoviles\\Web\\Northwind\\NorthWind.Membership\\NorthWind.Membership.Backend.Core\\Presenters\\UserManagement\\LogoutPresenter.cs",
+              "RelativeDocumentMoniker": "NorthWind.Membership.Backend.Core\\Presenters\\UserManagement\\LogoutPresenter.cs",
+              "ToolTip": "D:\\PROYECTOS_ESCRITORIO\\ProyectoMoviles\\Web\\Northwind\\NorthWind.Membership\\NorthWind.Membership.Backend.Core\\Presenters\\UserManagement\\LogoutPresenter.cs",
+              "RelativeToolTip": "NorthWind.Membership.Backend.Core\\Presenters\\UserManagement\\LogoutPresenter.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-24T03:52:55.535Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 51,
+              "Title": "TokenBlacklistService.cs",
+              "DocumentMoniker": "D:\\PROYECTOS_ESCRITORIO\\ProyectoMoviles\\Web\\Northwind\\NorthWind.Membership\\NorthWind.Membership.Backend.Core\\Services\\TokenBlacklistService.cs",
+              "RelativeDocumentMoniker": "NorthWind.Membership.Backend.Core\\Services\\TokenBlacklistService.cs",
+              "ToolTip": "D:\\PROYECTOS_ESCRITORIO\\ProyectoMoviles\\Web\\Northwind\\NorthWind.Membership\\NorthWind.Membership.Backend.Core\\Services\\TokenBlacklistService.cs",
+              "RelativeToolTip": "NorthWind.Membership.Backend.Core\\Services\\TokenBlacklistService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-24T03:47:21.788Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 50,
+              "Title": "UnlockUserPresenter.cs",
+              "DocumentMoniker": "D:\\PROYECTOS_ESCRITORIO\\ProyectoMoviles\\Web\\Northwind\\NorthWind.Membership\\NorthWind.Membership.Backend.Core\\Presenters\\UserManagement\\UnlockUserPresenter.cs",
+              "RelativeDocumentMoniker": "NorthWind.Membership.Backend.Core\\Presenters\\UserManagement\\UnlockUserPresenter.cs",
+              "ToolTip": "D:\\PROYECTOS_ESCRITORIO\\ProyectoMoviles\\Web\\Northwind\\NorthWind.Membership\\NorthWind.Membership.Backend.Core\\Presenters\\UserManagement\\UnlockUserPresenter.cs",
+              "RelativeToolTip": "NorthWind.Membership.Backend.Core\\Presenters\\UserManagement\\UnlockUserPresenter.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-15T03:45:42.93Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 49,
+              "Title": "UpdateUserPresenter.cs",
+              "DocumentMoniker": "D:\\PROYECTOS_ESCRITORIO\\ProyectoMoviles\\Web\\Northwind\\NorthWind.Membership\\NorthWind.Membership.Backend.Core\\Presenters\\UserManagement\\UpdateUserPresenter.cs",
+              "RelativeDocumentMoniker": "NorthWind.Membership.Backend.Core\\Presenters\\UserManagement\\UpdateUserPresenter.cs",
+              "ToolTip": "D:\\PROYECTOS_ESCRITORIO\\ProyectoMoviles\\Web\\Northwind\\NorthWind.Membership\\NorthWind.Membership.Backend.Core\\Presenters\\UserManagement\\UpdateUserPresenter.cs",
+              "RelativeToolTip": "NorthWind.Membership.Backend.Core\\Presenters\\UserManagement\\UpdateUserPresenter.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-16T03:04:00.402Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 52,
+              "Title": "ILogoutOutputPort.cs",
+              "DocumentMoniker": "D:\\PROYECTOS_ESCRITORIO\\ProyectoMoviles\\Web\\Northwind\\NorthWind.Membership\\NorthWind.Membership.Backend.Core\\Interfaces\\UserManagement\\ILogoutOutputPort.cs",
+              "RelativeDocumentMoniker": "NorthWind.Membership.Backend.Core\\Interfaces\\UserManagement\\ILogoutOutputPort.cs",
+              "ToolTip": "D:\\PROYECTOS_ESCRITORIO\\ProyectoMoviles\\Web\\Northwind\\NorthWind.Membership\\NorthWind.Membership.Backend.Core\\Interfaces\\UserManagement\\ILogoutOutputPort.cs",
+              "RelativeToolTip": "NorthWind.Membership.Backend.Core\\Interfaces\\UserManagement\\ILogoutOutputPort.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-24T03:48:35.88Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 53,
+              "Title": "ILogoutInputPort.cs",
+              "DocumentMoniker": "D:\\PROYECTOS_ESCRITORIO\\ProyectoMoviles\\Web\\Northwind\\NorthWind.Membership\\NorthWind.Membership.Backend.Core\\Interfaces\\UserManagement\\ILogoutInputPort.cs",
+              "RelativeDocumentMoniker": "NorthWind.Membership.Backend.Core\\Interfaces\\UserManagement\\ILogoutInputPort.cs",
+              "ToolTip": "D:\\PROYECTOS_ESCRITORIO\\ProyectoMoviles\\Web\\Northwind\\NorthWind.Membership\\NorthWind.Membership.Backend.Core\\Interfaces\\UserManagement\\ILogoutInputPort.cs",
+              "RelativeToolTip": "NorthWind.Membership.Backend.Core\\Interfaces\\UserManagement\\ILogoutInputPort.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-24T03:37:20.347Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 54,
+              "Title": "IUnlockUserOutputPort.cs",
+              "DocumentMoniker": "D:\\PROYECTOS_ESCRITORIO\\ProyectoMoviles\\Web\\Northwind\\NorthWind.Membership\\NorthWind.Membership.Backend.Core\\Interfaces\\UserManagement\\IUnlockUserOutputPort.cs",
+              "RelativeDocumentMoniker": "NorthWind.Membership.Backend.Core\\Interfaces\\UserManagement\\IUnlockUserOutputPort.cs",
+              "ToolTip": "D:\\PROYECTOS_ESCRITORIO\\ProyectoMoviles\\Web\\Northwind\\NorthWind.Membership\\NorthWind.Membership.Backend.Core\\Interfaces\\UserManagement\\IUnlockUserOutputPort.cs",
+              "RelativeToolTip": "NorthWind.Membership.Backend.Core\\Interfaces\\UserManagement\\IUnlockUserOutputPort.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-15T03:38:45.336Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 55,
+              "Title": "IGetUserByIdInputPort.cs",
+              "DocumentMoniker": "D:\\PROYECTOS_ESCRITORIO\\ProyectoMoviles\\Web\\Northwind\\NorthWind.Membership\\NorthWind.Membership.Backend.Core\\Interfaces\\UserManagement\\IGetUserByIdInputPort.cs",
+              "RelativeDocumentMoniker": "NorthWind.Membership.Backend.Core\\Interfaces\\UserManagement\\IGetUserByIdInputPort.cs",
+              "ToolTip": "D:\\PROYECTOS_ESCRITORIO\\ProyectoMoviles\\Web\\Northwind\\NorthWind.Membership\\NorthWind.Membership.Backend.Core\\Interfaces\\UserManagement\\IGetUserByIdInputPort.cs",
+              "RelativeToolTip": "NorthWind.Membership.Backend.Core\\Interfaces\\UserManagement\\IGetUserByIdInputPort.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-24T03:36:57.625Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 56,
+              "Title": "ChangeUserRoleInteractor.cs",
+              "DocumentMoniker": "D:\\PROYECTOS_ESCRITORIO\\ProyectoMoviles\\Web\\Northwind\\NorthWind.Membership\\NorthWind.Membership.Backend.Core\\UseCases\\UserManagement\\ChangeUserRoleInteractor.cs",
+              "RelativeDocumentMoniker": "NorthWind.Membership.Backend.Core\\UseCases\\UserManagement\\ChangeUserRoleInteractor.cs",
+              "ToolTip": "D:\\PROYECTOS_ESCRITORIO\\ProyectoMoviles\\Web\\Northwind\\NorthWind.Membership\\NorthWind.Membership.Backend.Core\\UseCases\\UserManagement\\ChangeUserRoleInteractor.cs",
+              "RelativeToolTip": "NorthWind.Membership.Backend.Core\\UseCases\\UserManagement\\ChangeUserRoleInteractor.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-15T03:43:39.645Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 57,
+              "Title": "GetUserByIdDto.cs",
+              "DocumentMoniker": "D:\\PROYECTOS_ESCRITORIO\\ProyectoMoviles\\Web\\Northwind\\NorthWind.Membership\\NorthWind.Membership.Entities\\Dtos\\UserManagement\\GetUserByIdDto.cs",
+              "RelativeDocumentMoniker": "NorthWind.Membership.Entities\\Dtos\\UserManagement\\GetUserByIdDto.cs",
+              "ToolTip": "D:\\PROYECTOS_ESCRITORIO\\ProyectoMoviles\\Web\\Northwind\\NorthWind.Membership\\NorthWind.Membership.Entities\\Dtos\\UserManagement\\GetUserByIdDto.cs",
+              "RelativeToolTip": "NorthWind.Membership.Entities\\Dtos\\UserManagement\\GetUserByIdDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-24T03:35:56.051Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 58,
+              "Title": "UserDto.cs",
+              "DocumentMoniker": "D:\\PROYECTOS_ESCRITORIO\\ProyectoMoviles\\Web\\Northwind\\NorthWind.Membership\\NorthWind.Membership.Backend.Core\\Dtos\\UserDto.cs",
+              "RelativeDocumentMoniker": "NorthWind.Membership.Backend.Core\\Dtos\\UserDto.cs",
+              "ToolTip": "D:\\PROYECTOS_ESCRITORIO\\ProyectoMoviles\\Web\\Northwind\\NorthWind.Membership\\NorthWind.Membership.Backend.Core\\Dtos\\UserDto.cs",
+              "RelativeToolTip": "NorthWind.Membership.Backend.Core\\Dtos\\UserDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAABYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-03T02:27:12.845Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 59,
+              "Title": "NorthWindUser.cs",
+              "DocumentMoniker": "D:\\PROYECTOS_ESCRITORIO\\ProyectoMoviles\\Web\\Northwind\\NorthWind.Membership\\NorthWind.Membership.Backend.AspNetIdentity\\Entities\\NorthWindUser.cs",
+              "RelativeDocumentMoniker": "NorthWind.Membership.Backend.AspNetIdentity\\Entities\\NorthWindUser.cs",
+              "ToolTip": "D:\\PROYECTOS_ESCRITORIO\\ProyectoMoviles\\Web\\Northwind\\NorthWind.Membership\\NorthWind.Membership.Backend.AspNetIdentity\\Entities\\NorthWindUser.cs",
+              "RelativeToolTip": "NorthWind.Membership.Backend.AspNetIdentity\\Entities\\NorthWindUser.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-16T03:36:37.149Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 60,
+              "Title": "UserRegistrationMessages.resx",
+              "DocumentMoniker": "D:\\PROYECTOS_ESCRITORIO\\ProyectoMoviles\\Web\\Northwind\\NorthWind.Membership\\NorthWind.Membership.Entities\\Resources\\UserRegistrationMessages.resx",
+              "RelativeDocumentMoniker": "NorthWind.Membership.Entities\\Resources\\UserRegistrationMessages.resx",
+              "ToolTip": "D:\\PROYECTOS_ESCRITORIO\\ProyectoMoviles\\Web\\Northwind\\NorthWind.Membership\\NorthWind.Membership.Entities\\Resources\\UserRegistrationMessages.resx",
+              "RelativeToolTip": "NorthWind.Membership.Entities\\Resources\\UserRegistrationMessages.resx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2025-11-16T03:39:42.745Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 61,
+              "Title": "IUpdateUserInputPort.cs",
+              "DocumentMoniker": "D:\\PROYECTOS_ESCRITORIO\\ProyectoMoviles\\Web\\Northwind\\NorthWind.Membership\\NorthWind.Membership.Backend.Core\\Interfaces\\UserManagement\\IUpdateUserInputPort.cs",
+              "RelativeDocumentMoniker": "NorthWind.Membership.Backend.Core\\Interfaces\\UserManagement\\IUpdateUserInputPort.cs",
+              "ToolTip": "D:\\PROYECTOS_ESCRITORIO\\ProyectoMoviles\\Web\\Northwind\\NorthWind.Membership\\NorthWind.Membership.Backend.Core\\Interfaces\\UserManagement\\IUpdateUserInputPort.cs",
+              "RelativeToolTip": "NorthWind.Membership.Backend.Core\\Interfaces\\UserManagement\\IUpdateUserInputPort.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-16T03:00:13.279Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 62,
+              "Title": "IDeleteUserOutputPort.cs",
+              "DocumentMoniker": "D:\\PROYECTOS_ESCRITORIO\\ProyectoMoviles\\Web\\Northwind\\NorthWind.Membership\\NorthWind.Membership.Backend.Core\\Interfaces\\UserManagement\\IDeleteUserOutputPort.cs",
+              "RelativeDocumentMoniker": "NorthWind.Membership.Backend.Core\\Interfaces\\UserManagement\\IDeleteUserOutputPort.cs",
+              "ToolTip": "D:\\PROYECTOS_ESCRITORIO\\ProyectoMoviles\\Web\\Northwind\\NorthWind.Membership\\NorthWind.Membership.Backend.Core\\Interfaces\\UserManagement\\IDeleteUserOutputPort.cs",
+              "RelativeToolTip": "NorthWind.Membership.Backend.Core\\Interfaces\\UserManagement\\IDeleteUserOutputPort.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-16T03:34:57.992Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 63,
+              "Title": "IDeleteUserInputPort.cs",
+              "DocumentMoniker": "D:\\PROYECTOS_ESCRITORIO\\ProyectoMoviles\\Web\\Northwind\\NorthWind.Membership\\NorthWind.Membership.Backend.Core\\Interfaces\\UserManagement\\IDeleteUserInputPort.cs",
+              "RelativeDocumentMoniker": "NorthWind.Membership.Backend.Core\\Interfaces\\UserManagement\\IDeleteUserInputPort.cs",
+              "ToolTip": "D:\\PROYECTOS_ESCRITORIO\\ProyectoMoviles\\Web\\Northwind\\NorthWind.Membership\\NorthWind.Membership.Backend.Core\\Interfaces\\UserManagement\\IDeleteUserInputPort.cs",
+              "RelativeToolTip": "NorthWind.Membership.Backend.Core\\Interfaces\\UserManagement\\IDeleteUserInputPort.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-16T03:01:09.086Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 64,
+              "Title": "UserCredentialsDtoValidator.cs",
+              "DocumentMoniker": "D:\\PROYECTOS_ESCRITORIO\\ProyectoMoviles\\Web\\Northwind\\NorthWind.Membership\\NorthWind.Membership.Entities\\Validators\\UserLogin\\UserCredentialsDtoValidator.cs",
+              "RelativeDocumentMoniker": "NorthWind.Membership.Entities\\Validators\\UserLogin\\UserCredentialsDtoValidator.cs",
+              "ToolTip": "D:\\PROYECTOS_ESCRITORIO\\ProyectoMoviles\\Web\\Northwind\\NorthWind.Membership\\NorthWind.Membership.Entities\\Validators\\UserLogin\\UserCredentialsDtoValidator.cs",
+              "RelativeToolTip": "NorthWind.Membership.Entities\\Validators\\UserLogin\\UserCredentialsDtoValidator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-02T22:58:25.427Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 65,
+              "Title": "ChangeUserRoleDto.cs",
+              "DocumentMoniker": "D:\\PROYECTOS_ESCRITORIO\\ProyectoMoviles\\Web\\Northwind\\NorthWind.Membership\\NorthWind.Membership.Entities\\Dtos\\UserManagement\\ChangeUserRoleDto.cs",
+              "RelativeDocumentMoniker": "NorthWind.Membership.Entities\\Dtos\\UserManagement\\ChangeUserRoleDto.cs",
+              "ToolTip": "D:\\PROYECTOS_ESCRITORIO\\ProyectoMoviles\\Web\\Northwind\\NorthWind.Membership\\NorthWind.Membership.Entities\\Dtos\\UserManagement\\ChangeUserRoleDto.cs",
+              "RelativeToolTip": "NorthWind.Membership.Entities\\Dtos\\UserManagement\\ChangeUserRoleDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-15T03:23:43.944Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 66,
+              "Title": "UserRegistrationPresenter.cs",
+              "DocumentMoniker": "D:\\PROYECTOS_ESCRITORIO\\ProyectoMoviles\\Web\\Northwind\\NorthWind.Membership\\NorthWind.Membership.Backend.Core\\Presenters\\UserRegistration\\UserRegistrationPresenter.cs",
+              "RelativeDocumentMoniker": "NorthWind.Membership.Backend.Core\\Presenters\\UserRegistration\\UserRegistrationPresenter.cs",
+              "ToolTip": "D:\\PROYECTOS_ESCRITORIO\\ProyectoMoviles\\Web\\Northwind\\NorthWind.Membership\\NorthWind.Membership.Backend.Core\\Presenters\\UserRegistration\\UserRegistrationPresenter.cs",
+              "RelativeToolTip": "NorthWind.Membership.Backend.Core\\Presenters\\UserRegistration\\UserRegistrationPresenter.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-02T19:23:53.764Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 67,
+              "Title": "DeleteUserPresenter.cs",
+              "DocumentMoniker": "D:\\PROYECTOS_ESCRITORIO\\ProyectoMoviles\\Web\\Northwind\\NorthWind.Membership\\NorthWind.Membership.Backend.Core\\Presenters\\UserManagement\\DeleteUserPresenter.cs",
+              "RelativeDocumentMoniker": "NorthWind.Membership.Backend.Core\\Presenters\\UserManagement\\DeleteUserPresenter.cs",
+              "ToolTip": "D:\\PROYECTOS_ESCRITORIO\\ProyectoMoviles\\Web\\Northwind\\NorthWind.Membership\\NorthWind.Membership.Backend.Core\\Presenters\\UserManagement\\DeleteUserPresenter.cs",
+              "RelativeToolTip": "NorthWind.Membership.Backend.Core\\Presenters\\UserManagement\\DeleteUserPresenter.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAxwAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-16T03:05:04.694Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 68,
+              "Title": "IUpdateUserOutputPort.cs",
+              "DocumentMoniker": "D:\\PROYECTOS_ESCRITORIO\\ProyectoMoviles\\Web\\Northwind\\NorthWind.Membership\\NorthWind.Membership.Backend.Core\\Interfaces\\UserManagement\\IUpdateUserOutputPort.cs",
+              "RelativeDocumentMoniker": "NorthWind.Membership.Backend.Core\\Interfaces\\UserManagement\\IUpdateUserOutputPort.cs",
+              "ToolTip": "D:\\PROYECTOS_ESCRITORIO\\ProyectoMoviles\\Web\\Northwind\\NorthWind.Membership\\NorthWind.Membership.Backend.Core\\Interfaces\\UserManagement\\IUpdateUserOutputPort.cs",
+              "RelativeToolTip": "NorthWind.Membership.Backend.Core\\Interfaces\\UserManagement\\IUpdateUserOutputPort.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-16T03:00:40.422Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 69,
+              "Title": "DeleteUserDto.cs",
+              "DocumentMoniker": "D:\\PROYECTOS_ESCRITORIO\\ProyectoMoviles\\Web\\Northwind\\NorthWind.Membership\\NorthWind.Membership.Entities\\Dtos\\UserManagement\\DeleteUserDto.cs",
+              "RelativeDocumentMoniker": "NorthWind.Membership.Entities\\Dtos\\UserManagement\\DeleteUserDto.cs",
+              "ToolTip": "D:\\PROYECTOS_ESCRITORIO\\ProyectoMoviles\\Web\\Northwind\\NorthWind.Membership\\NorthWind.Membership.Entities\\Dtos\\UserManagement\\DeleteUserDto.cs",
+              "RelativeToolTip": "NorthWind.Membership.Entities\\Dtos\\UserManagement\\DeleteUserDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-16T02:56:43.657Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 70,
+              "Title": "MembershipDBOptions.cs",
+              "DocumentMoniker": "D:\\PROYECTOS_ESCRITORIO\\ProyectoMoviles\\Web\\Northwind\\NorthWind.Membership\\NorthWind.Membership.Backend.AspNetIdentity\\Options\\MembershipDBOptions.cs",
+              "RelativeDocumentMoniker": "NorthWind.Membership.Backend.AspNetIdentity\\Options\\MembershipDBOptions.cs",
+              "ToolTip": "D:\\PROYECTOS_ESCRITORIO\\ProyectoMoviles\\Web\\Northwind\\NorthWind.Membership\\NorthWind.Membership.Backend.AspNetIdentity\\Options\\MembershipDBOptions.cs",
+              "RelativeToolTip": "NorthWind.Membership.Backend.AspNetIdentity\\Options\\MembershipDBOptions.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-14T20:19:25.76Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 71,
+              "Title": "IdentityErrorExtensions.cs",
+              "DocumentMoniker": "D:\\PROYECTOS_ESCRITORIO\\ProyectoMoviles\\Web\\Northwind\\NorthWind.Membership\\NorthWind.Membership.Backend.AspNetIdentity\\Extensions\\IdentityErrorExtensions.cs",
+              "RelativeDocumentMoniker": "NorthWind.Membership.Backend.AspNetIdentity\\Extensions\\IdentityErrorExtensions.cs",
+              "ToolTip": "D:\\PROYECTOS_ESCRITORIO\\ProyectoMoviles\\Web\\Northwind\\NorthWind.Membership\\NorthWind.Membership.Backend.AspNetIdentity\\Extensions\\IdentityErrorExtensions.cs",
+              "RelativeToolTip": "NorthWind.Membership.Backend.AspNetIdentity\\Extensions\\IdentityErrorExtensions.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-14T20:17:10.968Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 72,
+              "Title": "NorthWindMembershipContextFactory.cs",
+              "DocumentMoniker": "D:\\PROYECTOS_ESCRITORIO\\ProyectoMoviles\\Web\\Northwind\\NorthWind.Membership\\NorthWind.Membership.Backend.AspNetIdentity\\DataContexts\\NorthWindMembershipContextFactory.cs",
+              "RelativeDocumentMoniker": "NorthWind.Membership.Backend.AspNetIdentity\\DataContexts\\NorthWindMembershipContextFactory.cs",
+              "ToolTip": "D:\\PROYECTOS_ESCRITORIO\\ProyectoMoviles\\Web\\Northwind\\NorthWind.Membership\\NorthWind.Membership.Backend.AspNetIdentity\\DataContexts\\NorthWindMembershipContextFactory.cs",
+              "RelativeToolTip": "NorthWind.Membership.Backend.AspNetIdentity\\DataContexts\\NorthWindMembershipContextFactory.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-04T16:55:44.293Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 73,
+              "Title": "NorthWindMembershipContext.cs",
+              "DocumentMoniker": "D:\\PROYECTOS_ESCRITORIO\\ProyectoMoviles\\Web\\Northwind\\NorthWind.Membership\\NorthWind.Membership.Backend.AspNetIdentity\\DataContexts\\NorthWindMembershipContext.cs",
+              "RelativeDocumentMoniker": "NorthWind.Membership.Backend.AspNetIdentity\\DataContexts\\NorthWindMembershipContext.cs",
+              "ToolTip": "D:\\PROYECTOS_ESCRITORIO\\ProyectoMoviles\\Web\\Northwind\\NorthWind.Membership\\NorthWind.Membership.Backend.AspNetIdentity\\DataContexts\\NorthWindMembershipContext.cs",
+              "RelativeToolTip": "NorthWind.Membership.Backend.AspNetIdentity\\DataContexts\\NorthWindMembershipContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-04T16:55:38.915Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 74,
+              "Title": "ChangeUserRolePresenter.cs",
+              "DocumentMoniker": "D:\\PROYECTOS_ESCRITORIO\\ProyectoMoviles\\Web\\Northwind\\NorthWind.Membership\\NorthWind.Membership.Backend.Core\\Presenters\\UserManagement\\ChangeUserRolePresenter.cs",
+              "RelativeDocumentMoniker": "NorthWind.Membership.Backend.Core\\Presenters\\UserManagement\\ChangeUserRolePresenter.cs",
+              "ToolTip": "D:\\PROYECTOS_ESCRITORIO\\ProyectoMoviles\\Web\\Northwind\\NorthWind.Membership\\NorthWind.Membership.Backend.Core\\Presenters\\UserManagement\\ChangeUserRolePresenter.cs",
+              "RelativeToolTip": "NorthWind.Membership.Backend.Core\\Presenters\\UserManagement\\ChangeUserRolePresenter.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-15T03:59:29.509Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 75,
+              "Title": "IChangeUserRoleOutputPort.cs",
+              "DocumentMoniker": "D:\\PROYECTOS_ESCRITORIO\\ProyectoMoviles\\Web\\Northwind\\NorthWind.Membership\\NorthWind.Membership.Backend.Core\\Interfaces\\UserManagement\\IChangeUserRoleOutputPort.cs",
+              "RelativeDocumentMoniker": "NorthWind.Membership.Backend.Core\\Interfaces\\UserManagement\\IChangeUserRoleOutputPort.cs",
+              "ToolTip": "D:\\PROYECTOS_ESCRITORIO\\ProyectoMoviles\\Web\\Northwind\\NorthWind.Membership\\NorthWind.Membership.Backend.Core\\Interfaces\\UserManagement\\IChangeUserRoleOutputPort.cs",
+              "RelativeToolTip": "NorthWind.Membership.Backend.Core\\Interfaces\\UserManagement\\IChangeUserRoleOutputPort.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-15T03:43:14.533Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 76,
+              "Title": "IChangeUserRoleInputPort.cs",
+              "DocumentMoniker": "D:\\PROYECTOS_ESCRITORIO\\ProyectoMoviles\\Web\\Northwind\\NorthWind.Membership\\NorthWind.Membership.Backend.Core\\Interfaces\\UserManagement\\IChangeUserRoleInputPort.cs",
+              "RelativeDocumentMoniker": "NorthWind.Membership.Backend.Core\\Interfaces\\UserManagement\\IChangeUserRoleInputPort.cs",
+              "ToolTip": "D:\\PROYECTOS_ESCRITORIO\\ProyectoMoviles\\Web\\Northwind\\NorthWind.Membership\\NorthWind.Membership.Backend.Core\\Interfaces\\UserManagement\\IChangeUserRoleInputPort.cs",
+              "RelativeToolTip": "NorthWind.Membership.Backend.Core\\Interfaces\\UserManagement\\IChangeUserRoleInputPort.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-15T03:42:39.237Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 77,
+              "Title": "IUnlockUserInputPort.cs",
+              "DocumentMoniker": "D:\\PROYECTOS_ESCRITORIO\\ProyectoMoviles\\Web\\Northwind\\NorthWind.Membership\\NorthWind.Membership.Backend.Core\\Interfaces\\UserManagement\\IUnlockUserInputPort.cs",
+              "RelativeDocumentMoniker": "NorthWind.Membership.Backend.Core\\Interfaces\\UserManagement\\IUnlockUserInputPort.cs",
+              "ToolTip": "D:\\PROYECTOS_ESCRITORIO\\ProyectoMoviles\\Web\\Northwind\\NorthWind.Membership\\NorthWind.Membership.Backend.Core\\Interfaces\\UserManagement\\IUnlockUserInputPort.cs",
+              "RelativeToolTip": "NorthWind.Membership.Backend.Core\\Interfaces\\UserManagement\\IUnlockUserInputPort.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAABFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-15T03:38:20.505Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 78,
+              "Title": "JwtOptions.cs",
+              "DocumentMoniker": "D:\\PROYECTOS_ESCRITORIO\\ProyectoMoviles\\Web\\Northwind\\NorthWind.Membership\\NorthWind.Membership.Backend.Core\\Options\\JwtOptions.cs",
+              "RelativeDocumentMoniker": "NorthWind.Membership.Backend.Core\\Options\\JwtOptions.cs",
+              "ToolTip": "D:\\PROYECTOS_ESCRITORIO\\ProyectoMoviles\\Web\\Northwind\\NorthWind.Membership\\NorthWind.Membership.Backend.Core\\Options\\JwtOptions.cs",
+              "RelativeToolTip": "NorthWind.Membership.Backend.Core\\Options\\JwtOptions.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-03T02:33:24.645Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 79,
+              "Title": "IUserRegistrationOutputPort.cs",
+              "DocumentMoniker": "D:\\PROYECTOS_ESCRITORIO\\ProyectoMoviles\\Web\\Northwind\\NorthWind.Membership\\NorthWind.Membership.Backend.Core\\Interfaces\\UserRegistration\\IUserRegistrationOutputPort.cs",
+              "RelativeDocumentMoniker": "NorthWind.Membership.Backend.Core\\Interfaces\\UserRegistration\\IUserRegistrationOutputPort.cs",
+              "ToolTip": "D:\\PROYECTOS_ESCRITORIO\\ProyectoMoviles\\Web\\Northwind\\NorthWind.Membership\\NorthWind.Membership.Backend.Core\\Interfaces\\UserRegistration\\IUserRegistrationOutputPort.cs",
+              "RelativeToolTip": "NorthWind.Membership.Backend.Core\\Interfaces\\UserRegistration\\IUserRegistrationOutputPort.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-02T19:18:46.37Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 80,
+              "Title": "IUserRegistrationInputPort.cs",
+              "DocumentMoniker": "D:\\PROYECTOS_ESCRITORIO\\ProyectoMoviles\\Web\\Northwind\\NorthWind.Membership\\NorthWind.Membership.Backend.Core\\Interfaces\\UserRegistration\\IUserRegistrationInputPort.cs",
+              "RelativeDocumentMoniker": "NorthWind.Membership.Backend.Core\\Interfaces\\UserRegistration\\IUserRegistrationInputPort.cs",
+              "ToolTip": "D:\\PROYECTOS_ESCRITORIO\\ProyectoMoviles\\Web\\Northwind\\NorthWind.Membership\\NorthWind.Membership.Backend.Core\\Interfaces\\UserRegistration\\IUserRegistrationInputPort.cs",
+              "RelativeToolTip": "NorthWind.Membership.Backend.Core\\Interfaces\\UserRegistration\\IUserRegistrationInputPort.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-02T19:18:26.305Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 81,
+              "Title": "DependencyContainer.cs",
+              "DocumentMoniker": "D:\\PROYECTOS_ESCRITORIO\\ProyectoMoviles\\Web\\Northwind\\NorthWind.Membership\\NorthWind.Membership.Frontend.RazorViews\\DependencyContainer.cs",
+              "RelativeDocumentMoniker": "NorthWind.Membership.Frontend.RazorViews\\DependencyContainer.cs",
+              "ToolTip": "D:\\PROYECTOS_ESCRITORIO\\ProyectoMoviles\\Web\\Northwind\\NorthWind.Membership\\NorthWind.Membership.Frontend.RazorViews\\DependencyContainer.cs",
+              "RelativeToolTip": "NorthWind.Membership.Frontend.RazorViews\\DependencyContainer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-03T15:40:24.166Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 82,
+              "Title": "MembershipBearerTokenHandler.cs",
+              "DocumentMoniker": "D:\\PROYECTOS_ESCRITORIO\\ProyectoMoviles\\Web\\Northwind\\NorthWind.Membership\\NorthWind.Membership.Frontend.RazorViews\\HttpMessageHandlers\\MembershipBearerTokenHandler.cs",
+              "RelativeDocumentMoniker": "NorthWind.Membership.Frontend.RazorViews\\HttpMessageHandlers\\MembershipBearerTokenHandler.cs",
+              "ToolTip": "D:\\PROYECTOS_ESCRITORIO\\ProyectoMoviles\\Web\\Northwind\\NorthWind.Membership\\NorthWind.Membership.Frontend.RazorViews\\HttpMessageHandlers\\MembershipBearerTokenHandler.cs",
+              "RelativeToolTip": "NorthWind.Membership.Frontend.RazorViews\\HttpMessageHandlers\\MembershipBearerTokenHandler.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-03T14:07:49.796Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 110,
+              "Title": "RazorClassLibrary1.csproj",
+              "DocumentMoniker": "C:\\Northwind\\NorthWind.Membership\\RazorClassLibrary1\\RazorClassLibrary1.csproj",
+              "ToolTip": "C:\\Northwind\\NorthWind.Membership\\RazorClassLibrary1\\RazorClassLibrary1.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-09-04T16:34:23.023Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 85,
+              "Title": "_Imports.razor",
+              "DocumentMoniker": "D:\\PROYECTOS_ESCRITORIO\\ProyectoMoviles\\Web\\Northwind\\NorthWind.Membership\\NorthWind.Membership.Frontend.RazorViews\\_Imports.razor",
+              "RelativeDocumentMoniker": "NorthWind.Membership.Frontend.RazorViews\\_Imports.razor",
+              "ToolTip": "D:\\PROYECTOS_ESCRITORIO\\ProyectoMoviles\\Web\\Northwind\\NorthWind.Membership\\NorthWind.Membership.Frontend.RazorViews\\_Imports.razor",
+              "RelativeToolTip": "NorthWind.Membership.Frontend.RazorViews\\_Imports.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-02T20:17:51.643Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 86,
+              "Title": "LogoutPage.razor",
+              "DocumentMoniker": "D:\\PROYECTOS_ESCRITORIO\\ProyectoMoviles\\Web\\Northwind\\NorthWind.Membership\\NorthWind.Membership.Frontend.RazorViews\\Pages\\LogoutPage.razor",
+              "RelativeDocumentMoniker": "NorthWind.Membership.Frontend.RazorViews\\Pages\\LogoutPage.razor",
+              "ToolTip": "D:\\PROYECTOS_ESCRITORIO\\ProyectoMoviles\\Web\\Northwind\\NorthWind.Membership\\NorthWind.Membership.Frontend.RazorViews\\Pages\\LogoutPage.razor",
+              "RelativeToolTip": "NorthWind.Membership.Frontend.RazorViews\\Pages\\LogoutPage.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-03T14:05:21.241Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 83,
+              "Title": "NorthWind.Membership.Frontend.RazorViews.csproj",
+              "DocumentMoniker": "D:\\PROYECTOS_ESCRITORIO\\ProyectoMoviles\\Web\\Northwind\\NorthWind.Membership\\NorthWind.Membership.Frontend.RazorViews\\NorthWind.Membership.Frontend.RazorViews.csproj",
+              "RelativeDocumentMoniker": "NorthWind.Membership.Frontend.RazorViews\\NorthWind.Membership.Frontend.RazorViews.csproj",
+              "ToolTip": "D:\\PROYECTOS_ESCRITORIO\\ProyectoMoviles\\Web\\Northwind\\NorthWind.Membership\\NorthWind.Membership.Frontend.RazorViews\\NorthWind.Membership.Frontend.RazorViews.csproj",
+              "RelativeToolTip": "NorthWind.Membership.Frontend.RazorViews\\NorthWind.Membership.Frontend.RazorViews.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-09-03T15:42:19.106Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 84,
+              "Title": "LoginDisplayComponent.razor",
+              "DocumentMoniker": "D:\\PROYECTOS_ESCRITORIO\\ProyectoMoviles\\Web\\Northwind\\NorthWind.Membership\\NorthWind.Membership.Frontend.RazorViews\\Pages\\LoginDisplayComponent.razor",
+              "RelativeDocumentMoniker": "NorthWind.Membership.Frontend.RazorViews\\Pages\\LoginDisplayComponent.razor",
+              "ToolTip": "D:\\PROYECTOS_ESCRITORIO\\ProyectoMoviles\\Web\\Northwind\\NorthWind.Membership\\NorthWind.Membership.Frontend.RazorViews\\Pages\\LoginDisplayComponent.razor",
+              "RelativeToolTip": "NorthWind.Membership.Frontend.RazorViews\\Pages\\LoginDisplayComponent.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-03T14:06:37.932Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 87,
+              "Title": "LogoutPage.razor.cs",
+              "DocumentMoniker": "D:\\PROYECTOS_ESCRITORIO\\ProyectoMoviles\\Web\\Northwind\\NorthWind.Membership\\NorthWind.Membership.Frontend.RazorViews\\Pages\\LogoutPage.razor.cs",
+              "RelativeDocumentMoniker": "NorthWind.Membership.Frontend.RazorViews\\Pages\\LogoutPage.razor.cs",
+              "ToolTip": "D:\\PROYECTOS_ESCRITORIO\\ProyectoMoviles\\Web\\Northwind\\NorthWind.Membership\\NorthWind.Membership.Frontend.RazorViews\\Pages\\LogoutPage.razor.cs",
+              "RelativeToolTip": "NorthWind.Membership.Frontend.RazorViews\\Pages\\LogoutPage.razor.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-03T14:05:31.111Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 88,
+              "Title": "CommonMessages.resx",
+              "DocumentMoniker": "D:\\PROYECTOS_ESCRITORIO\\ProyectoMoviles\\Web\\Northwind\\NorthWind.Membership\\NorthWind.Membership.Frontend.RazorViews\\Resources\\CommonMessages.resx",
+              "RelativeDocumentMoniker": "NorthWind.Membership.Frontend.RazorViews\\Resources\\CommonMessages.resx",
+              "ToolTip": "D:\\PROYECTOS_ESCRITORIO\\ProyectoMoviles\\Web\\Northwind\\NorthWind.Membership\\NorthWind.Membership.Frontend.RazorViews\\Resources\\CommonMessages.resx",
+              "RelativeToolTip": "NorthWind.Membership.Frontend.RazorViews\\Resources\\CommonMessages.resx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2025-09-03T17:40:17.53Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 89,
+              "Title": "UserRegistrationPage.razor",
+              "DocumentMoniker": "D:\\PROYECTOS_ESCRITORIO\\ProyectoMoviles\\Web\\Northwind\\NorthWind.Membership\\NorthWind.Membership.Frontend.RazorViews\\Pages\\UserRegistrationPage.razor",
+              "RelativeDocumentMoniker": "NorthWind.Membership.Frontend.RazorViews\\Pages\\UserRegistrationPage.razor",
+              "ToolTip": "D:\\PROYECTOS_ESCRITORIO\\ProyectoMoviles\\Web\\Northwind\\NorthWind.Membership\\NorthWind.Membership.Frontend.RazorViews\\Pages\\UserRegistrationPage.razor",
+              "RelativeToolTip": "NorthWind.Membership.Frontend.RazorViews\\Pages\\UserRegistrationPage.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-02T20:18:14.736Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 90,
+              "Title": "UserLoginMessages.resx",
+              "DocumentMoniker": "D:\\PROYECTOS_ESCRITORIO\\ProyectoMoviles\\Web\\Northwind\\NorthWind.Membership\\NorthWind.Membership.Frontend.RazorViews\\Resources\\UserLoginMessages.resx",
+              "RelativeDocumentMoniker": "NorthWind.Membership.Frontend.RazorViews\\Resources\\UserLoginMessages.resx",
+              "ToolTip": "D:\\PROYECTOS_ESCRITORIO\\ProyectoMoviles\\Web\\Northwind\\NorthWind.Membership\\NorthWind.Membership.Frontend.RazorViews\\Resources\\UserLoginMessages.resx",
+              "RelativeToolTip": "NorthWind.Membership.Frontend.RazorViews\\Resources\\UserLoginMessages.resx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2025-09-03T17:40:36.576Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 91,
+              "Title": "UserLoginViewModel.cs",
+              "DocumentMoniker": "D:\\PROYECTOS_ESCRITORIO\\ProyectoMoviles\\Web\\Northwind\\NorthWind.Membership\\NorthWind.Membership.Frontend.RazorViews\\ViewModels\\UserLogin\\UserLoginViewModel.cs",
+              "RelativeDocumentMoniker": "NorthWind.Membership.Frontend.RazorViews\\ViewModels\\UserLogin\\UserLoginViewModel.cs",
+              "ToolTip": "D:\\PROYECTOS_ESCRITORIO\\ProyectoMoviles\\Web\\Northwind\\NorthWind.Membership\\NorthWind.Membership.Frontend.RazorViews\\ViewModels\\UserLogin\\UserLoginViewModel.cs",
+              "RelativeToolTip": "NorthWind.Membership.Frontend.RazorViews\\ViewModels\\UserLogin\\UserLoginViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAABBAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-03T03:51:15.552Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 92,
+              "Title": "TokenLocalStorage.cs",
+              "DocumentMoniker": "D:\\PROYECTOS_ESCRITORIO\\ProyectoMoviles\\Web\\Northwind\\NorthWind.Membership\\NorthWind.Membership.Frontend.RazorViews\\Services\\TokenLocalStorage.cs",
+              "RelativeDocumentMoniker": "NorthWind.Membership.Frontend.RazorViews\\Services\\TokenLocalStorage.cs",
+              "ToolTip": "D:\\PROYECTOS_ESCRITORIO\\ProyectoMoviles\\Web\\Northwind\\NorthWind.Membership\\NorthWind.Membership.Frontend.RazorViews\\Services\\TokenLocalStorage.cs",
+              "RelativeToolTip": "NorthWind.Membership.Frontend.RazorViews\\Services\\TokenLocalStorage.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAuwBgAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-03T13:56:47.492Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 93,
+              "Title": "ITokenStorage.cs",
+              "DocumentMoniker": "D:\\PROYECTOS_ESCRITORIO\\ProyectoMoviles\\Web\\Northwind\\NorthWind.Membership\\NorthWind.Membership.Frontend.RazorViews\\Interfaces\\ITokenStorage.cs",
+              "RelativeDocumentMoniker": "NorthWind.Membership.Frontend.RazorViews\\Interfaces\\ITokenStorage.cs",
+              "ToolTip": "D:\\PROYECTOS_ESCRITORIO\\ProyectoMoviles\\Web\\Northwind\\NorthWind.Membership\\NorthWind.Membership.Frontend.RazorViews\\Interfaces\\ITokenStorage.cs",
+              "RelativeToolTip": "NorthWind.Membership.Frontend.RazorViews\\Interfaces\\ITokenStorage.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-03T13:56:05.439Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 94,
+              "Title": "JWTAuthenticationStateProvider.cs",
+              "DocumentMoniker": "D:\\PROYECTOS_ESCRITORIO\\ProyectoMoviles\\Web\\Northwind\\NorthWind.Membership\\NorthWind.Membership.Frontend.RazorViews\\AuthenticationStateProviders\\JWTAuthenticationStateProvider.cs",
+              "RelativeDocumentMoniker": "NorthWind.Membership.Frontend.RazorViews\\AuthenticationStateProviders\\JWTAuthenticationStateProvider.cs",
+              "ToolTip": "D:\\PROYECTOS_ESCRITORIO\\ProyectoMoviles\\Web\\Northwind\\NorthWind.Membership\\NorthWind.Membership.Frontend.RazorViews\\AuthenticationStateProviders\\JWTAuthenticationStateProvider.cs",
+              "RelativeToolTip": "NorthWind.Membership.Frontend.RazorViews\\AuthenticationStateProviders\\JWTAuthenticationStateProvider.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACUAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-03T14:02:29.328Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 95,
+              "Title": "UserLoginComponent.razor",
+              "DocumentMoniker": "D:\\PROYECTOS_ESCRITORIO\\ProyectoMoviles\\Web\\Northwind\\NorthWind.Membership\\NorthWind.Membership.Frontend.RazorViews\\Components\\UserLoginComponent.razor",
+              "RelativeDocumentMoniker": "NorthWind.Membership.Frontend.RazorViews\\Components\\UserLoginComponent.razor",
+              "ToolTip": "D:\\PROYECTOS_ESCRITORIO\\ProyectoMoviles\\Web\\Northwind\\NorthWind.Membership\\NorthWind.Membership.Frontend.RazorViews\\Components\\UserLoginComponent.razor",
+              "RelativeToolTip": "NorthWind.Membership.Frontend.RazorViews\\Components\\UserLoginComponent.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-03T03:53:19.658Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 96,
+              "Title": "MembershipPages.cs",
+              "DocumentMoniker": "D:\\PROYECTOS_ESCRITORIO\\ProyectoMoviles\\Web\\Northwind\\NorthWind.Membership\\NorthWind.Membership.Frontend.RazorViews\\Extensions\\MembershipPages.cs",
+              "RelativeDocumentMoniker": "NorthWind.Membership.Frontend.RazorViews\\Extensions\\MembershipPages.cs",
+              "ToolTip": "D:\\PROYECTOS_ESCRITORIO\\ProyectoMoviles\\Web\\Northwind\\NorthWind.Membership\\NorthWind.Membership.Frontend.RazorViews\\Extensions\\MembershipPages.cs",
+              "RelativeToolTip": "NorthWind.Membership.Frontend.RazorViews\\Extensions\\MembershipPages.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-02T20:21:42.164Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 97,
+              "Title": "UserLoginPage.razor.cs",
+              "DocumentMoniker": "D:\\PROYECTOS_ESCRITORIO\\ProyectoMoviles\\Web\\Northwind\\NorthWind.Membership\\NorthWind.Membership.Frontend.RazorViews\\Pages\\UserLoginPage.razor.cs",
+              "RelativeDocumentMoniker": "NorthWind.Membership.Frontend.RazorViews\\Pages\\UserLoginPage.razor.cs",
+              "ToolTip": "D:\\PROYECTOS_ESCRITORIO\\ProyectoMoviles\\Web\\Northwind\\NorthWind.Membership\\NorthWind.Membership.Frontend.RazorViews\\Pages\\UserLoginPage.razor.cs",
+              "RelativeToolTip": "NorthWind.Membership.Frontend.RazorViews\\Pages\\UserLoginPage.razor.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-03T03:54:50.861Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 99,
+              "Title": "MembershipGateway.cs",
+              "DocumentMoniker": "D:\\PROYECTOS_ESCRITORIO\\ProyectoMoviles\\Web\\Northwind\\NorthWind.Membership\\NorthWind.Membership.Frontend.RazorViews\\WebApiGateways\\MembershipGateway.cs",
+              "RelativeDocumentMoniker": "NorthWind.Membership.Frontend.RazorViews\\WebApiGateways\\MembershipGateway.cs",
+              "ToolTip": "D:\\PROYECTOS_ESCRITORIO\\ProyectoMoviles\\Web\\Northwind\\NorthWind.Membership\\NorthWind.Membership.Frontend.RazorViews\\WebApiGateways\\MembershipGateway.cs",
+              "RelativeToolTip": "NorthWind.Membership.Frontend.RazorViews\\WebApiGateways\\MembershipGateway.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-02T20:06:55.325Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 98,
+              "Title": "UserRegistrationPage.razor.cs",
+              "DocumentMoniker": "D:\\PROYECTOS_ESCRITORIO\\ProyectoMoviles\\Web\\Northwind\\NorthWind.Membership\\NorthWind.Membership.Frontend.RazorViews\\Pages\\UserRegistrationPage.razor.cs",
+              "RelativeDocumentMoniker": "NorthWind.Membership.Frontend.RazorViews\\Pages\\UserRegistrationPage.razor.cs",
+              "ToolTip": "D:\\PROYECTOS_ESCRITORIO\\ProyectoMoviles\\Web\\Northwind\\NorthWind.Membership\\NorthWind.Membership.Frontend.RazorViews\\Pages\\UserRegistrationPage.razor.cs",
+              "RelativeToolTip": "NorthWind.Membership.Frontend.RazorViews\\Pages\\UserRegistrationPage.razor.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-02T20:18:43.138Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 100,
+              "Title": "UserLoginPage.razor",
+              "DocumentMoniker": "D:\\PROYECTOS_ESCRITORIO\\ProyectoMoviles\\Web\\Northwind\\NorthWind.Membership\\NorthWind.Membership.Frontend.RazorViews\\Pages\\UserLoginPage.razor",
+              "RelativeDocumentMoniker": "NorthWind.Membership.Frontend.RazorViews\\Pages\\UserLoginPage.razor",
+              "ToolTip": "D:\\PROYECTOS_ESCRITORIO\\ProyectoMoviles\\Web\\Northwind\\NorthWind.Membership\\NorthWind.Membership.Frontend.RazorViews\\Pages\\UserLoginPage.razor",
+              "RelativeToolTip": "NorthWind.Membership.Frontend.RazorViews\\Pages\\UserLoginPage.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-03T03:54:39.152Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 101,
+              "Title": "UserRegistrationComponent.razor",
+              "DocumentMoniker": "D:\\PROYECTOS_ESCRITORIO\\ProyectoMoviles\\Web\\Northwind\\NorthWind.Membership\\NorthWind.Membership.Frontend.RazorViews\\Components\\UserRegistrationComponent.razor",
+              "RelativeDocumentMoniker": "NorthWind.Membership.Frontend.RazorViews\\Components\\UserRegistrationComponent.razor",
+              "ToolTip": "D:\\PROYECTOS_ESCRITORIO\\ProyectoMoviles\\Web\\Northwind\\NorthWind.Membership\\NorthWind.Membership.Frontend.RazorViews\\Components\\UserRegistrationComponent.razor",
+              "RelativeToolTip": "NorthWind.Membership.Frontend.RazorViews\\Components\\UserRegistrationComponent.razor",
+              "ViewState": "AgIAACUAAAAAAAAAALB8wA0AAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-02T20:14:29.118Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 102,
+              "Title": "UserLoginViewModelDtoValidator.cs",
+              "DocumentMoniker": "D:\\PROYECTOS_ESCRITORIO\\ProyectoMoviles\\Web\\Northwind\\NorthWind.Membership\\NorthWind.Membership.Frontend.RazorViews\\ViewModels\\UserLogin\\UserLoginViewModelDtoValidator.cs",
+              "RelativeDocumentMoniker": "NorthWind.Membership.Frontend.RazorViews\\ViewModels\\UserLogin\\UserLoginViewModelDtoValidator.cs",
+              "ToolTip": "D:\\PROYECTOS_ESCRITORIO\\ProyectoMoviles\\Web\\Northwind\\NorthWind.Membership\\NorthWind.Membership.Frontend.RazorViews\\ViewModels\\UserLogin\\UserLoginViewModelDtoValidator.cs",
+              "RelativeToolTip": "NorthWind.Membership.Frontend.RazorViews\\ViewModels\\UserLogin\\UserLoginViewModelDtoValidator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-03T03:52:09.875Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 103,
+              "Title": "UserRegistrationViewModelValidator.cs",
+              "DocumentMoniker": "D:\\PROYECTOS_ESCRITORIO\\ProyectoMoviles\\Web\\Northwind\\NorthWind.Membership\\NorthWind.Membership.Frontend.RazorViews\\ViewModels\\UserRegistration\\UserRegistrationViewModelValidator.cs",
+              "RelativeDocumentMoniker": "NorthWind.Membership.Frontend.RazorViews\\ViewModels\\UserRegistration\\UserRegistrationViewModelValidator.cs",
+              "ToolTip": "D:\\PROYECTOS_ESCRITORIO\\ProyectoMoviles\\Web\\Northwind\\NorthWind.Membership\\NorthWind.Membership.Frontend.RazorViews\\ViewModels\\UserRegistration\\UserRegistrationViewModelValidator.cs",
+              "RelativeToolTip": "NorthWind.Membership.Frontend.RazorViews\\ViewModels\\UserRegistration\\UserRegistrationViewModelValidator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-02T20:13:08.509Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 104,
+              "Title": "UserRegistrationViewModelDtoValidator.cs",
+              "DocumentMoniker": "D:\\PROYECTOS_ESCRITORIO\\ProyectoMoviles\\Web\\Northwind\\NorthWind.Membership\\NorthWind.Membership.Frontend.RazorViews\\ViewModels\\UserRegistration\\UserRegistrationViewModelDtoValidator.cs",
+              "RelativeDocumentMoniker": "NorthWind.Membership.Frontend.RazorViews\\ViewModels\\UserRegistration\\UserRegistrationViewModelDtoValidator.cs",
+              "ToolTip": "D:\\PROYECTOS_ESCRITORIO\\ProyectoMoviles\\Web\\Northwind\\NorthWind.Membership\\NorthWind.Membership.Frontend.RazorViews\\ViewModels\\UserRegistration\\UserRegistrationViewModelDtoValidator.cs",
+              "RelativeToolTip": "NorthWind.Membership.Frontend.RazorViews\\ViewModels\\UserRegistration\\UserRegistrationViewModelDtoValidator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-02T20:12:37.998Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 105,
+              "Title": "UserRegistrationViewModel.cs",
+              "DocumentMoniker": "D:\\PROYECTOS_ESCRITORIO\\ProyectoMoviles\\Web\\Northwind\\NorthWind.Membership\\NorthWind.Membership.Frontend.RazorViews\\ViewModels\\UserRegistration\\UserRegistrationViewModel.cs",
+              "RelativeDocumentMoniker": "NorthWind.Membership.Frontend.RazorViews\\ViewModels\\UserRegistration\\UserRegistrationViewModel.cs",
+              "ToolTip": "D:\\PROYECTOS_ESCRITORIO\\ProyectoMoviles\\Web\\Northwind\\NorthWind.Membership\\NorthWind.Membership.Frontend.RazorViews\\ViewModels\\UserRegistration\\UserRegistrationViewModel.cs",
+              "RelativeToolTip": "NorthWind.Membership.Frontend.RazorViews\\ViewModels\\UserRegistration\\UserRegistrationViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACwAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-02T20:11:33.228Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 106,
+              "Title": "UserRegistrationComponent.razor.cs",
+              "DocumentMoniker": "D:\\PROYECTOS_ESCRITORIO\\ProyectoMoviles\\Web\\Northwind\\NorthWind.Membership\\NorthWind.Membership.Frontend.RazorViews\\Components\\UserRegistrationComponent.razor.cs",
+              "RelativeDocumentMoniker": "NorthWind.Membership.Frontend.RazorViews\\Components\\UserRegistrationComponent.razor.cs",
+              "ToolTip": "D:\\PROYECTOS_ESCRITORIO\\ProyectoMoviles\\Web\\Northwind\\NorthWind.Membership\\NorthWind.Membership.Frontend.RazorViews\\Components\\UserRegistrationComponent.razor.cs",
+              "RelativeToolTip": "NorthWind.Membership.Frontend.RazorViews\\Components\\UserRegistrationComponent.razor.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-02T20:14:53.149Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 107,
+              "Title": "UserLoginComponent.razor.cs",
+              "DocumentMoniker": "D:\\PROYECTOS_ESCRITORIO\\ProyectoMoviles\\Web\\Northwind\\NorthWind.Membership\\NorthWind.Membership.Frontend.RazorViews\\Components\\UserLoginComponent.razor.cs",
+              "RelativeDocumentMoniker": "NorthWind.Membership.Frontend.RazorViews\\Components\\UserLoginComponent.razor.cs",
+              "ToolTip": "D:\\PROYECTOS_ESCRITORIO\\ProyectoMoviles\\Web\\Northwind\\NorthWind.Membership\\NorthWind.Membership.Frontend.RazorViews\\Components\\UserLoginComponent.razor.cs",
+              "RelativeToolTip": "NorthWind.Membership.Frontend.RazorViews\\Components\\UserLoginComponent.razor.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-03T03:53:30.379Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 108,
+              "Title": "Microsoft.PackageDependencyResolution.targets",
+              "DocumentMoniker": "C:\\Program Files\\dotnet\\sdk\\9.0.304\\Sdks\\Microsoft.NET.Sdk\\targets\\Microsoft.PackageDependencyResolution.targets",
+              "ToolTip": "C:\\Program Files\\dotnet\\sdk\\9.0.304\\Sdks\\Microsoft.NET.Sdk\\targets\\Microsoft.PackageDependencyResolution.targets",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkBAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003801|",
+              "WhenOpened": "2025-09-02T23:02:01Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 109,
+              "Title": "UserRegistrationInteractor.cs",
+              "DocumentMoniker": "D:\\PROYECTOS_ESCRITORIO\\ProyectoMoviles\\Web\\Northwind\\NorthWind.Membership\\NorthWind.Membership.Backend.Core\\UseCases\\UserRegistration\\UserRegistrationInteractor.cs",
+              "RelativeDocumentMoniker": "NorthWind.Membership.Backend.Core\\UseCases\\UserRegistration\\UserRegistrationInteractor.cs",
+              "ToolTip": "D:\\PROYECTOS_ESCRITORIO\\ProyectoMoviles\\Web\\Northwind\\NorthWind.Membership\\NorthWind.Membership.Backend.Core\\UseCases\\UserRegistration\\UserRegistrationInteractor.cs",
+              "RelativeToolTip": "NorthWind.Membership.Backend.Core\\UseCases\\UserRegistration\\UserRegistrationInteractor.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-02T19:20:12.642Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

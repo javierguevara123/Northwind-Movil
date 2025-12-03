@@ -1,0 +1,60 @@
+C:\Users\BAR KARAOKE\Desktop\5to Semestre\Tecnologias y Desarrollo Web\NorthWind.Membership\NorthWind.Membership\NorthWind.Membership.Backend.Core\bin\Debug\net8.0\NorthWind.Membership.Backend.Core.deps.json
+C:\Users\BAR KARAOKE\Desktop\5to Semestre\Tecnologias y Desarrollo Web\NorthWind.Membership\NorthWind.Membership\NorthWind.Membership.Backend.Core\bin\Debug\net8.0\NorthWind.Membership.Backend.Core.dll
+C:\Users\BAR KARAOKE\Desktop\5to Semestre\Tecnologias y Desarrollo Web\NorthWind.Membership\NorthWind.Membership\NorthWind.Membership.Backend.Core\bin\Debug\net8.0\NorthWind.Membership.Backend.Core.pdb
+C:\Users\BAR KARAOKE\Desktop\5to Semestre\Tecnologias y Desarrollo Web\NorthWind.Membership\NorthWind.Membership\NorthWind.Membership.Backend.Core\obj\Debug\net8.0\NorthWind.Membership.Backend.Core.csproj.AssemblyReference.cache
+C:\Users\BAR KARAOKE\Desktop\5to Semestre\Tecnologias y Desarrollo Web\NorthWind.Membership\NorthWind.Membership\NorthWind.Membership.Backend.Core\obj\Debug\net8.0\NorthWind.Membership.Backend.Core.Resources.UserRegistrationMessages.resources
+C:\Users\BAR KARAOKE\Desktop\5to Semestre\Tecnologias y Desarrollo Web\NorthWind.Membership\NorthWind.Membership\NorthWind.Membership.Backend.Core\obj\Debug\net8.0\NorthWind.Membership.Backend.Core.csproj.GenerateResource.cache
+C:\Users\BAR KARAOKE\Desktop\5to Semestre\Tecnologias y Desarrollo Web\NorthWind.Membership\NorthWind.Membership\NorthWind.Membership.Backend.Core\obj\Debug\net8.0\NorthWind.Membership.Backend.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\BAR KARAOKE\Desktop\5to Semestre\Tecnologias y Desarrollo Web\NorthWind.Membership\NorthWind.Membership\NorthWind.Membership.Backend.Core\obj\Debug\net8.0\NorthWind.Membership.Backend.Core.AssemblyInfoInputs.cache
+C:\Users\BAR KARAOKE\Desktop\5to Semestre\Tecnologias y Desarrollo Web\NorthWind.Membership\NorthWind.Membership\NorthWind.Membership.Backend.Core\obj\Debug\net8.0\NorthWind.Membership.Backend.Core.AssemblyInfo.cs
+C:\Users\BAR KARAOKE\Desktop\5to Semestre\Tecnologias y Desarrollo Web\NorthWind.Membership\NorthWind.Membership\NorthWind.Membership.Backend.Core\obj\Debug\net8.0\NorthWind.Membership.Backend.Core.csproj.CoreCompileInputs.cache
+C:\Users\BAR KARAOKE\Desktop\5to Semestre\Tecnologias y Desarrollo Web\NorthWind.Membership\NorthWind.Membership\NorthWind.Membership.Backend.Core\obj\Debug\net8.0\NorthWind.Membership.Backend.Core.dll
+C:\Users\BAR KARAOKE\Desktop\5to Semestre\Tecnologias y Desarrollo Web\NorthWind.Membership\NorthWind.Membership\NorthWind.Membership.Backend.Core\obj\Debug\net8.0\refint\NorthWind.Membership.Backend.Core.dll
+C:\Users\BAR KARAOKE\Desktop\5to Semestre\Tecnologias y Desarrollo Web\NorthWind.Membership\NorthWind.Membership\NorthWind.Membership.Backend.Core\obj\Debug\net8.0\NorthWind.Membership.Backend.Core.pdb
+C:\Users\BAR KARAOKE\Desktop\5to Semestre\Tecnologias y Desarrollo Web\NorthWind.Membership\NorthWind.Membership\NorthWind.Membership.Backend.Core\obj\Debug\net8.0\ref\NorthWind.Membership.Backend.Core.dll
+C:\aplicacionesmoviles\NorthWind.Membership\NorthWind.Membership\NorthWind.Membership.Backend.Core\bin\Debug\net8.0\NorthWind.Membership.Backend.Core.deps.json
+C:\aplicacionesmoviles\NorthWind.Membership\NorthWind.Membership\NorthWind.Membership.Backend.Core\bin\Debug\net8.0\NorthWind.Membership.Backend.Core.dll
+C:\aplicacionesmoviles\NorthWind.Membership\NorthWind.Membership\NorthWind.Membership.Backend.Core\bin\Debug\net8.0\NorthWind.Membership.Backend.Core.pdb
+C:\aplicacionesmoviles\NorthWind.Membership\NorthWind.Membership\NorthWind.Membership.Backend.Core\obj\Debug\net8.0\NorthWind.Membership.Backend.Core.csproj.AssemblyReference.cache
+C:\aplicacionesmoviles\NorthWind.Membership\NorthWind.Membership\NorthWind.Membership.Backend.Core\obj\Debug\net8.0\NorthWind.Membership.Backend.Core.Resources.UserLoginMessages.resources
+C:\aplicacionesmoviles\NorthWind.Membership\NorthWind.Membership\NorthWind.Membership.Backend.Core\obj\Debug\net8.0\NorthWind.Membership.Backend.Core.Resources.UserRegistrationMessages.resources
+C:\aplicacionesmoviles\NorthWind.Membership\NorthWind.Membership\NorthWind.Membership.Backend.Core\obj\Debug\net8.0\NorthWind.Membership.Backend.Core.csproj.GenerateResource.cache
+C:\aplicacionesmoviles\NorthWind.Membership\NorthWind.Membership\NorthWind.Membership.Backend.Core\obj\Debug\net8.0\NorthWind.Membership.Backend.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\aplicacionesmoviles\NorthWind.Membership\NorthWind.Membership\NorthWind.Membership.Backend.Core\obj\Debug\net8.0\NorthWind.Membership.Backend.Core.AssemblyInfoInputs.cache
+C:\aplicacionesmoviles\NorthWind.Membership\NorthWind.Membership\NorthWind.Membership.Backend.Core\obj\Debug\net8.0\NorthWind.Membership.Backend.Core.AssemblyInfo.cs
+C:\aplicacionesmoviles\NorthWind.Membership\NorthWind.Membership\NorthWind.Membership.Backend.Core\obj\Debug\net8.0\NorthWind.Membership.Backend.Core.csproj.CoreCompileInputs.cache
+C:\aplicacionesmoviles\NorthWind.Membership\NorthWind.Membership\NorthWind.Membership.Backend.Core\obj\Debug\net8.0\NorthWind.Membership.Backend.Core.dll
+C:\aplicacionesmoviles\NorthWind.Membership\NorthWind.Membership\NorthWind.Membership.Backend.Core\obj\Debug\net8.0\refint\NorthWind.Membership.Backend.Core.dll
+C:\aplicacionesmoviles\NorthWind.Membership\NorthWind.Membership\NorthWind.Membership.Backend.Core\obj\Debug\net8.0\NorthWind.Membership.Backend.Core.pdb
+C:\aplicacionesmoviles\NorthWind.Membership\NorthWind.Membership\NorthWind.Membership.Backend.Core\obj\Debug\net8.0\ref\NorthWind.Membership.Backend.Core.dll
+C:\Northwind\NorthWind.Membership\NorthWind.Membership.Backend.Core\bin\Debug\net8.0\NorthWind.Membership.Backend.Core.deps.json
+C:\Northwind\NorthWind.Membership\NorthWind.Membership.Backend.Core\bin\Debug\net8.0\NorthWind.Membership.Backend.Core.dll
+C:\Northwind\NorthWind.Membership\NorthWind.Membership.Backend.Core\bin\Debug\net8.0\NorthWind.Membership.Backend.Core.pdb
+C:\Northwind\NorthWind.Membership\NorthWind.Membership.Backend.Core\obj\Debug\net8.0\NorthWind.Membership.Backend.Core.csproj.AssemblyReference.cache
+C:\Northwind\NorthWind.Membership\NorthWind.Membership.Backend.Core\obj\Debug\net8.0\NorthWind.Membership.Backend.Core.Resources.UserLoginMessages.resources
+C:\Northwind\NorthWind.Membership\NorthWind.Membership.Backend.Core\obj\Debug\net8.0\NorthWind.Membership.Backend.Core.Resources.UserRegistrationMessages.resources
+C:\Northwind\NorthWind.Membership\NorthWind.Membership.Backend.Core\obj\Debug\net8.0\NorthWind.Membership.Backend.Core.csproj.GenerateResource.cache
+C:\Northwind\NorthWind.Membership\NorthWind.Membership.Backend.Core\obj\Debug\net8.0\NorthWind.Membership.Backend.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Northwind\NorthWind.Membership\NorthWind.Membership.Backend.Core\obj\Debug\net8.0\NorthWind.Membership.Backend.Core.AssemblyInfoInputs.cache
+C:\Northwind\NorthWind.Membership\NorthWind.Membership.Backend.Core\obj\Debug\net8.0\NorthWind.Membership.Backend.Core.AssemblyInfo.cs
+C:\Northwind\NorthWind.Membership\NorthWind.Membership.Backend.Core\obj\Debug\net8.0\NorthWind.Membership.Backend.Core.csproj.CoreCompileInputs.cache
+C:\Northwind\NorthWind.Membership\NorthWind.Membership.Backend.Core\obj\Debug\net8.0\NorthWind.Membership.Backend.Core.dll
+C:\Northwind\NorthWind.Membership\NorthWind.Membership.Backend.Core\obj\Debug\net8.0\refint\NorthWind.Membership.Backend.Core.dll
+C:\Northwind\NorthWind.Membership\NorthWind.Membership.Backend.Core\obj\Debug\net8.0\NorthWind.Membership.Backend.Core.pdb
+C:\Northwind\NorthWind.Membership\NorthWind.Membership.Backend.Core\obj\Debug\net8.0\ref\NorthWind.Membership.Backend.Core.dll
+D:\PROYECTOS_ESCRITORIO\ProyectoMoviles\Northwind\NorthWind.Membership\NorthWind.Membership.Backend.Core\bin\Debug\net8.0\NorthWind.Membership.Backend.Core.deps.json
+D:\PROYECTOS_ESCRITORIO\ProyectoMoviles\Northwind\NorthWind.Membership\NorthWind.Membership.Backend.Core\bin\Debug\net8.0\NorthWind.Membership.Backend.Core.dll
+D:\PROYECTOS_ESCRITORIO\ProyectoMoviles\Northwind\NorthWind.Membership\NorthWind.Membership.Backend.Core\bin\Debug\net8.0\NorthWind.Membership.Backend.Core.pdb
+D:\PROYECTOS_ESCRITORIO\ProyectoMoviles\Northwind\NorthWind.Membership\NorthWind.Membership.Backend.Core\obj\Debug\net8.0\NorthWind.Membership.Backend.Core.csproj.AssemblyReference.cache
+D:\PROYECTOS_ESCRITORIO\ProyectoMoviles\Northwind\NorthWind.Membership\NorthWind.Membership.Backend.Core\obj\Debug\net8.0\NorthWind.Membership.Backend.Core.Resources.UserLoginMessages.resources
+D:\PROYECTOS_ESCRITORIO\ProyectoMoviles\Northwind\NorthWind.Membership\NorthWind.Membership.Backend.Core\obj\Debug\net8.0\NorthWind.Membership.Backend.Core.Resources.UserRegistrationMessages.resources
+D:\PROYECTOS_ESCRITORIO\ProyectoMoviles\Northwind\NorthWind.Membership\NorthWind.Membership.Backend.Core\obj\Debug\net8.0\NorthWind.Membership.Backend.Core.csproj.GenerateResource.cache
+D:\PROYECTOS_ESCRITORIO\ProyectoMoviles\Northwind\NorthWind.Membership\NorthWind.Membership.Backend.Core\obj\Debug\net8.0\NorthWind.Membership.Backend.Core.GeneratedMSBuildEditorConfig.editorconfig
+D:\PROYECTOS_ESCRITORIO\ProyectoMoviles\Northwind\NorthWind.Membership\NorthWind.Membership.Backend.Core\obj\Debug\net8.0\NorthWind.Membership.Backend.Core.AssemblyInfoInputs.cache
+D:\PROYECTOS_ESCRITORIO\ProyectoMoviles\Northwind\NorthWind.Membership\NorthWind.Membership.Backend.Core\obj\Debug\net8.0\NorthWind.Membership.Backend.Core.AssemblyInfo.cs
+D:\PROYECTOS_ESCRITORIO\ProyectoMoviles\Northwind\NorthWind.Membership\NorthWind.Membership.Backend.Core\obj\Debug\net8.0\NorthWind.Membership.Backend.Core.csproj.CoreCompileInputs.cache
+D:\PROYECTOS_ESCRITORIO\ProyectoMoviles\Northwind\NorthWind.Membership\NorthWind.Membership.Backend.Core\obj\Debug\net8.0\NorthWind.Membership.Backend.Core.sourcelink.json
+D:\PROYECTOS_ESCRITORIO\ProyectoMoviles\Northwind\NorthWind.Membership\NorthWind.Membership.Backend.Core\obj\Debug\net8.0\NorthWind.Membership.Backend.Core.dll
+D:\PROYECTOS_ESCRITORIO\ProyectoMoviles\Northwind\NorthWind.Membership\NorthWind.Membership.Backend.Core\obj\Debug\net8.0\refint\NorthWind.Membership.Backend.Core.dll
+D:\PROYECTOS_ESCRITORIO\ProyectoMoviles\Northwind\NorthWind.Membership\NorthWind.Membership.Backend.Core\obj\Debug\net8.0\NorthWind.Membership.Backend.Core.pdb
+D:\PROYECTOS_ESCRITORIO\ProyectoMoviles\Northwind\NorthWind.Membership\NorthWind.Membership.Backend.Core\obj\Debug\net8.0\ref\NorthWind.Membership.Backend.Core.dll
