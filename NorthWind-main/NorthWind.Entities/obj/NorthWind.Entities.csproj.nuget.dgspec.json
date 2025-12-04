@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\PROYECTOS_ESCRITORIO\\ProyectoMoviles\\Web\\Northwind\\NorthWind-main\\NorthWind.Entities\\NorthWind.Entities.csproj": {}
+    "D:\\PROYECTOS_ESCRITORIO\\ProyectoMoviles\\Movil\\Northwind-Movil\\NorthWind-main\\NorthWind.Entities\\NorthWind.Entities.csproj": {}
   },
   "projects": {
-    "D:\\PROYECTOS_ESCRITORIO\\ProyectoMoviles\\Web\\Northwind\\NorthWind-main\\NorthWind.Entities\\NorthWind.Entities.csproj": {
+    "D:\\PROYECTOS_ESCRITORIO\\ProyectoMoviles\\Movil\\Northwind-Movil\\NorthWind-main\\NorthWind.Entities\\NorthWind.Entities.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\PROYECTOS_ESCRITORIO\\ProyectoMoviles\\Web\\Northwind\\NorthWind-main\\NorthWind.Entities\\NorthWind.Entities.csproj",
+        "projectUniqueName": "D:\\PROYECTOS_ESCRITORIO\\ProyectoMoviles\\Movil\\Northwind-Movil\\NorthWind-main\\NorthWind.Entities\\NorthWind.Entities.csproj",
         "projectName": "NorthWind.Entities",
-        "projectPath": "D:\\PROYECTOS_ESCRITORIO\\ProyectoMoviles\\Web\\Northwind\\NorthWind-main\\NorthWind.Entities\\NorthWind.Entities.csproj",
+        "projectPath": "D:\\PROYECTOS_ESCRITORIO\\ProyectoMoviles\\Movil\\Northwind-Movil\\NorthWind-main\\NorthWind.Entities\\NorthWind.Entities.csproj",
         "packagesPath": "C:\\Users\\BAR KARAOKE\\.nuget\\packages\\",
-        "outputPath": "D:\\PROYECTOS_ESCRITORIO\\ProyectoMoviles\\Web\\Northwind\\NorthWind-main\\NorthWind.Entities\\obj\\",
+        "outputPath": "D:\\PROYECTOS_ESCRITORIO\\ProyectoMoviles\\Movil\\Northwind-Movil\\NorthWind-main\\NorthWind.Entities\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

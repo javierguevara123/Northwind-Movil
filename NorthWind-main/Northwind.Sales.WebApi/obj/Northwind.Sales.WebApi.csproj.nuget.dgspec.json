@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\PROYECTOS_ESCRITORIO\\ProyectoMoviles\\Web\\Northwind\\NorthWind-main\\Northwind.Sales.WebApi\\Northwind.Sales.WebApi.csproj": {}
+    "D:\\PROYECTOS_ESCRITORIO\\ProyectoMoviles\\Movil\\Northwind-Movil\\NorthWind-main\\Northwind.Sales.WebApi\\Northwind.Sales.WebApi.csproj": {}
   },
   "projects": {
-    "D:\\PROYECTOS_ESCRITORIO\\ProyectoMoviles\\Web\\Northwind\\NorthWind-main\\NorthWind.DomainLogs.Entities\\NorthWind.DomainLogs.Entities.csproj": {
+    "D:\\PROYECTOS_ESCRITORIO\\ProyectoMoviles\\Movil\\Northwind-Movil\\NorthWind-main\\NorthWind.DomainLogs.Entities\\NorthWind.DomainLogs.Entities.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\PROYECTOS_ESCRITORIO\\ProyectoMoviles\\Web\\Northwind\\NorthWind-main\\NorthWind.DomainLogs.Entities\\NorthWind.DomainLogs.Entities.csproj",
+        "projectUniqueName": "D:\\PROYECTOS_ESCRITORIO\\ProyectoMoviles\\Movil\\Northwind-Movil\\NorthWind-main\\NorthWind.DomainLogs.Entities\\NorthWind.DomainLogs.Entities.csproj",
         "projectName": "NorthWind.DomainLogs.Entities",
-        "projectPath": "D:\\PROYECTOS_ESCRITORIO\\ProyectoMoviles\\Web\\Northwind\\NorthWind-main\\NorthWind.DomainLogs.Entities\\NorthWind.DomainLogs.Entities.csproj",
+        "projectPath": "D:\\PROYECTOS_ESCRITORIO\\ProyectoMoviles\\Movil\\Northwind-Movil\\NorthWind-main\\NorthWind.DomainLogs.Entities\\NorthWind.DomainLogs.Entities.csproj",
         "packagesPath": "C:\\Users\\BAR KARAOKE\\.nuget\\packages\\",
-        "outputPath": "D:\\PROYECTOS_ESCRITORIO\\ProyectoMoviles\\Web\\Northwind\\NorthWind-main\\NorthWind.DomainLogs.Entities\\obj\\",
+        "outputPath": "D:\\PROYECTOS_ESCRITORIO\\ProyectoMoviles\\Movil\\Northwind-Movil\\NorthWind-main\\NorthWind.DomainLogs.Entities\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -33,8 +33,8 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "D:\\PROYECTOS_ESCRITORIO\\ProyectoMoviles\\Web\\Northwind\\NorthWind-main\\NorthWind.Entities\\NorthWind.Entities.csproj": {
-                "projectPath": "D:\\PROYECTOS_ESCRITORIO\\ProyectoMoviles\\Web\\Northwind\\NorthWind-main\\NorthWind.Entities\\NorthWind.Entities.csproj"
+              "D:\\PROYECTOS_ESCRITORIO\\ProyectoMoviles\\Movil\\Northwind-Movil\\NorthWind-main\\NorthWind.Entities\\NorthWind.Entities.csproj": {
+                "projectPath": "D:\\PROYECTOS_ESCRITORIO\\ProyectoMoviles\\Movil\\Northwind-Movil\\NorthWind-main\\NorthWind.Entities\\NorthWind.Entities.csproj"
               }
             }
           }
@@ -80,14 +80,14 @@
         }
       }
     },
-    "D:\\PROYECTOS_ESCRITORIO\\ProyectoMoviles\\Web\\Northwind\\NorthWind-main\\NorthWind.Entities\\NorthWind.Entities.csproj": {
+    "D:\\PROYECTOS_ESCRITORIO\\ProyectoMoviles\\Movil\\Northwind-Movil\\NorthWind-main\\NorthWind.Entities\\NorthWind.Entities.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\PROYECTOS_ESCRITORIO\\ProyectoMoviles\\Web\\Northwind\\NorthWind-main\\NorthWind.Entities\\NorthWind.Entities.csproj",
+        "projectUniqueName": "D:\\PROYECTOS_ESCRITORIO\\ProyectoMoviles\\Movil\\Northwind-Movil\\NorthWind-main\\NorthWind.Entities\\NorthWind.Entities.csproj",
         "projectName": "NorthWind.Entities",
-        "projectPath": "D:\\PROYECTOS_ESCRITORIO\\ProyectoMoviles\\Web\\Northwind\\NorthWind-main\\NorthWind.Entities\\NorthWind.Entities.csproj",
+        "projectPath": "D:\\PROYECTOS_ESCRITORIO\\ProyectoMoviles\\Movil\\Northwind-Movil\\NorthWind-main\\NorthWind.Entities\\NorthWind.Entities.csproj",
         "packagesPath": "C:\\Users\\BAR KARAOKE\\.nuget\\packages\\",
-        "outputPath": "D:\\PROYECTOS_ESCRITORIO\\ProyectoMoviles\\Web\\Northwind\\NorthWind-main\\NorthWind.Entities\\obj\\",
+        "outputPath": "D:\\PROYECTOS_ESCRITORIO\\ProyectoMoviles\\Movil\\Northwind-Movil\\NorthWind-main\\NorthWind.Entities\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -146,14 +146,14 @@
         }
       }
     },
-    "D:\\PROYECTOS_ESCRITORIO\\ProyectoMoviles\\Web\\Northwind\\NorthWind-main\\NorthWind.Events.Entities\\NorthWind.Events.Entities.csproj": {
+    "D:\\PROYECTOS_ESCRITORIO\\ProyectoMoviles\\Movil\\Northwind-Movil\\NorthWind-main\\NorthWind.Events.Entities\\NorthWind.Events.Entities.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\PROYECTOS_ESCRITORIO\\ProyectoMoviles\\Web\\Northwind\\NorthWind-main\\NorthWind.Events.Entities\\NorthWind.Events.Entities.csproj",
+        "projectUniqueName": "D:\\PROYECTOS_ESCRITORIO\\ProyectoMoviles\\Movil\\Northwind-Movil\\NorthWind-main\\NorthWind.Events.Entities\\NorthWind.Events.Entities.csproj",
         "projectName": "NorthWind.Events.Entities",
-        "projectPath": "D:\\PROYECTOS_ESCRITORIO\\ProyectoMoviles\\Web\\Northwind\\NorthWind-main\\NorthWind.Events.Entities\\NorthWind.Events.Entities.csproj",
+        "projectPath": "D:\\PROYECTOS_ESCRITORIO\\ProyectoMoviles\\Movil\\Northwind-Movil\\NorthWind-main\\NorthWind.Events.Entities\\NorthWind.Events.Entities.csproj",
         "packagesPath": "C:\\Users\\BAR KARAOKE\\.nuget\\packages\\",
-        "outputPath": "D:\\PROYECTOS_ESCRITORIO\\ProyectoMoviles\\Web\\Northwind\\NorthWind-main\\NorthWind.Events.Entities\\obj\\",
+        "outputPath": "D:\\PROYECTOS_ESCRITORIO\\ProyectoMoviles\\Movil\\Northwind-Movil\\NorthWind-main\\NorthWind.Events.Entities\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -218,14 +218,14 @@
         }
       }
     },
-    "D:\\PROYECTOS_ESCRITORIO\\ProyectoMoviles\\Web\\Northwind\\NorthWind-main\\NorthWind.Exceptions.Entities\\NorthWind.Exceptions.Entities.csproj": {
+    "D:\\PROYECTOS_ESCRITORIO\\ProyectoMoviles\\Movil\\Northwind-Movil\\NorthWind-main\\NorthWind.Exceptions.Entities\\NorthWind.Exceptions.Entities.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\PROYECTOS_ESCRITORIO\\ProyectoMoviles\\Web\\Northwind\\NorthWind-main\\NorthWind.Exceptions.Entities\\NorthWind.Exceptions.Entities.csproj",
+        "projectUniqueName": "D:\\PROYECTOS_ESCRITORIO\\ProyectoMoviles\\Movil\\Northwind-Movil\\NorthWind-main\\NorthWind.Exceptions.Entities\\NorthWind.Exceptions.Entities.csproj",
         "projectName": "NorthWind.Exceptions.Entities",
-        "projectPath": "D:\\PROYECTOS_ESCRITORIO\\ProyectoMoviles\\Web\\Northwind\\NorthWind-main\\NorthWind.Exceptions.Entities\\NorthWind.Exceptions.Entities.csproj",
+        "projectPath": "D:\\PROYECTOS_ESCRITORIO\\ProyectoMoviles\\Movil\\Northwind-Movil\\NorthWind-main\\NorthWind.Exceptions.Entities\\NorthWind.Exceptions.Entities.csproj",
         "packagesPath": "C:\\Users\\BAR KARAOKE\\.nuget\\packages\\",
-        "outputPath": "D:\\PROYECTOS_ESCRITORIO\\ProyectoMoviles\\Web\\Northwind\\NorthWind-main\\NorthWind.Exceptions.Entities\\obj\\",
+        "outputPath": "D:\\PROYECTOS_ESCRITORIO\\ProyectoMoviles\\Movil\\Northwind-Movil\\NorthWind-main\\NorthWind.Exceptions.Entities\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -247,8 +247,8 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "D:\\PROYECTOS_ESCRITORIO\\ProyectoMoviles\\Web\\Northwind\\NorthWind-main\\NorthWind.Validation.Entities\\NorthWind.Validation.Entities.csproj": {
-                "projectPath": "D:\\PROYECTOS_ESCRITORIO\\ProyectoMoviles\\Web\\Northwind\\NorthWind-main\\NorthWind.Validation.Entities\\NorthWind.Validation.Entities.csproj"
+              "D:\\PROYECTOS_ESCRITORIO\\ProyectoMoviles\\Movil\\Northwind-Movil\\NorthWind-main\\NorthWind.Validation.Entities\\NorthWind.Validation.Entities.csproj": {
+                "projectPath": "D:\\PROYECTOS_ESCRITORIO\\ProyectoMoviles\\Movil\\Northwind-Movil\\NorthWind-main\\NorthWind.Validation.Entities\\NorthWind.Validation.Entities.csproj"
               }
             }
           }
@@ -297,14 +297,14 @@
         }
       }
     },
-    "D:\\PROYECTOS_ESCRITORIO\\ProyectoMoviles\\Web\\Northwind\\NorthWind-main\\NorthWind.Sales.Backend.BusinessObjects\\NorthWind.Sales.Backend.BusinessObjects.csproj": {
+    "D:\\PROYECTOS_ESCRITORIO\\ProyectoMoviles\\Movil\\Northwind-Movil\\NorthWind-main\\NorthWind.Sales.Backend.BusinessObjects\\NorthWind.Sales.Backend.BusinessObjects.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\PROYECTOS_ESCRITORIO\\ProyectoMoviles\\Web\\Northwind\\NorthWind-main\\NorthWind.Sales.Backend.BusinessObjects\\NorthWind.Sales.Backend.BusinessObjects.csproj",
+        "projectUniqueName": "D:\\PROYECTOS_ESCRITORIO\\ProyectoMoviles\\Movil\\Northwind-Movil\\NorthWind-main\\NorthWind.Sales.Backend.BusinessObjects\\NorthWind.Sales.Backend.BusinessObjects.csproj",
         "projectName": "NorthWind.Sales.Backend.BusinessObjects",
-        "projectPath": "D:\\PROYECTOS_ESCRITORIO\\ProyectoMoviles\\Web\\Northwind\\NorthWind-main\\NorthWind.Sales.Backend.BusinessObjects\\NorthWind.Sales.Backend.BusinessObjects.csproj",
+        "projectPath": "D:\\PROYECTOS_ESCRITORIO\\ProyectoMoviles\\Movil\\Northwind-Movil\\NorthWind-main\\NorthWind.Sales.Backend.BusinessObjects\\NorthWind.Sales.Backend.BusinessObjects.csproj",
         "packagesPath": "C:\\Users\\BAR KARAOKE\\.nuget\\packages\\",
-        "outputPath": "D:\\PROYECTOS_ESCRITORIO\\ProyectoMoviles\\Web\\Northwind\\NorthWind-main\\NorthWind.Sales.Backend.BusinessObjects\\obj\\",
+        "outputPath": "D:\\PROYECTOS_ESCRITORIO\\ProyectoMoviles\\Movil\\Northwind-Movil\\NorthWind-main\\NorthWind.Sales.Backend.BusinessObjects\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -326,26 +326,26 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "D:\\PROYECTOS_ESCRITORIO\\ProyectoMoviles\\Web\\Northwind\\NorthWind-main\\NorthWind.DomainLogs.Entities\\NorthWind.DomainLogs.Entities.csproj": {
-                "projectPath": "D:\\PROYECTOS_ESCRITORIO\\ProyectoMoviles\\Web\\Northwind\\NorthWind-main\\NorthWind.DomainLogs.Entities\\NorthWind.DomainLogs.Entities.csproj"
+              "D:\\PROYECTOS_ESCRITORIO\\ProyectoMoviles\\Movil\\Northwind-Movil\\NorthWind-main\\NorthWind.DomainLogs.Entities\\NorthWind.DomainLogs.Entities.csproj": {
+                "projectPath": "D:\\PROYECTOS_ESCRITORIO\\ProyectoMoviles\\Movil\\Northwind-Movil\\NorthWind-main\\NorthWind.DomainLogs.Entities\\NorthWind.DomainLogs.Entities.csproj"
               },
-              "D:\\PROYECTOS_ESCRITORIO\\ProyectoMoviles\\Web\\Northwind\\NorthWind-main\\NorthWind.Entities\\NorthWind.Entities.csproj": {
-                "projectPath": "D:\\PROYECTOS_ESCRITORIO\\ProyectoMoviles\\Web\\Northwind\\NorthWind-main\\NorthWind.Entities\\NorthWind.Entities.csproj"
+              "D:\\PROYECTOS_ESCRITORIO\\ProyectoMoviles\\Movil\\Northwind-Movil\\NorthWind-main\\NorthWind.Entities\\NorthWind.Entities.csproj": {
+                "projectPath": "D:\\PROYECTOS_ESCRITORIO\\ProyectoMoviles\\Movil\\Northwind-Movil\\NorthWind-main\\NorthWind.Entities\\NorthWind.Entities.csproj"
               },
-              "D:\\PROYECTOS_ESCRITORIO\\ProyectoMoviles\\Web\\Northwind\\NorthWind-main\\NorthWind.Events.Entities\\NorthWind.Events.Entities.csproj": {
-                "projectPath": "D:\\PROYECTOS_ESCRITORIO\\ProyectoMoviles\\Web\\Northwind\\NorthWind-main\\NorthWind.Events.Entities\\NorthWind.Events.Entities.csproj"
+              "D:\\PROYECTOS_ESCRITORIO\\ProyectoMoviles\\Movil\\Northwind-Movil\\NorthWind-main\\NorthWind.Events.Entities\\NorthWind.Events.Entities.csproj": {
+                "projectPath": "D:\\PROYECTOS_ESCRITORIO\\ProyectoMoviles\\Movil\\Northwind-Movil\\NorthWind-main\\NorthWind.Events.Entities\\NorthWind.Events.Entities.csproj"
               },
-              "D:\\PROYECTOS_ESCRITORIO\\ProyectoMoviles\\Web\\Northwind\\NorthWind-main\\NorthWind.Exceptions.Entities\\NorthWind.Exceptions.Entities.csproj": {
-                "projectPath": "D:\\PROYECTOS_ESCRITORIO\\ProyectoMoviles\\Web\\Northwind\\NorthWind-main\\NorthWind.Exceptions.Entities\\NorthWind.Exceptions.Entities.csproj"
+              "D:\\PROYECTOS_ESCRITORIO\\ProyectoMoviles\\Movil\\Northwind-Movil\\NorthWind-main\\NorthWind.Exceptions.Entities\\NorthWind.Exceptions.Entities.csproj": {
+                "projectPath": "D:\\PROYECTOS_ESCRITORIO\\ProyectoMoviles\\Movil\\Northwind-Movil\\NorthWind-main\\NorthWind.Exceptions.Entities\\NorthWind.Exceptions.Entities.csproj"
               },
-              "D:\\PROYECTOS_ESCRITORIO\\ProyectoMoviles\\Web\\Northwind\\NorthWind-main\\NorthWind.Sales.Entities\\NorthWind.Sales.Entities.csproj": {
-                "projectPath": "D:\\PROYECTOS_ESCRITORIO\\ProyectoMoviles\\Web\\Northwind\\NorthWind-main\\NorthWind.Sales.Entities\\NorthWind.Sales.Entities.csproj"
+              "D:\\PROYECTOS_ESCRITORIO\\ProyectoMoviles\\Movil\\Northwind-Movil\\NorthWind-main\\NorthWind.Sales.Entities\\NorthWind.Sales.Entities.csproj": {
+                "projectPath": "D:\\PROYECTOS_ESCRITORIO\\ProyectoMoviles\\Movil\\Northwind-Movil\\NorthWind-main\\NorthWind.Sales.Entities\\NorthWind.Sales.Entities.csproj"
               },
-              "D:\\PROYECTOS_ESCRITORIO\\ProyectoMoviles\\Web\\Northwind\\NorthWind-main\\NorthWind.Transactions.Entities\\NorthWind.Transactions.Entities.csproj": {
-                "projectPath": "D:\\PROYECTOS_ESCRITORIO\\ProyectoMoviles\\Web\\Northwind\\NorthWind-main\\NorthWind.Transactions.Entities\\NorthWind.Transactions.Entities.csproj"
+              "D:\\PROYECTOS_ESCRITORIO\\ProyectoMoviles\\Movil\\Northwind-Movil\\NorthWind-main\\NorthWind.Transactions.Entities\\NorthWind.Transactions.Entities.csproj": {
+                "projectPath": "D:\\PROYECTOS_ESCRITORIO\\ProyectoMoviles\\Movil\\Northwind-Movil\\NorthWind-main\\NorthWind.Transactions.Entities\\NorthWind.Transactions.Entities.csproj"
               },
-              "D:\\PROYECTOS_ESCRITORIO\\ProyectoMoviles\\Web\\Northwind\\NorthWind-main\\NorthWind.Validation.Entities\\NorthWind.Validation.Entities.csproj": {
-                "projectPath": "D:\\PROYECTOS_ESCRITORIO\\ProyectoMoviles\\Web\\Northwind\\NorthWind-main\\NorthWind.Validation.Entities\\NorthWind.Validation.Entities.csproj"
+              "D:\\PROYECTOS_ESCRITORIO\\ProyectoMoviles\\Movil\\Northwind-Movil\\NorthWind-main\\NorthWind.Validation.Entities\\NorthWind.Validation.Entities.csproj": {
+                "projectPath": "D:\\PROYECTOS_ESCRITORIO\\ProyectoMoviles\\Movil\\Northwind-Movil\\NorthWind-main\\NorthWind.Validation.Entities\\NorthWind.Validation.Entities.csproj"
               }
             }
           }
@@ -385,14 +385,14 @@
         }
       }
     },
-    "D:\\PROYECTOS_ESCRITORIO\\ProyectoMoviles\\Web\\Northwind\\NorthWind-main\\NorthWind.Sales.Backend.Controllers\\NorthWind.Sales.Backend.Controllers.csproj": {
+    "D:\\PROYECTOS_ESCRITORIO\\ProyectoMoviles\\Movil\\Northwind-Movil\\NorthWind-main\\NorthWind.Sales.Backend.Controllers\\NorthWind.Sales.Backend.Controllers.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\PROYECTOS_ESCRITORIO\\ProyectoMoviles\\Web\\Northwind\\NorthWind-main\\NorthWind.Sales.Backend.Controllers\\NorthWind.Sales.Backend.Controllers.csproj",
+        "projectUniqueName": "D:\\PROYECTOS_ESCRITORIO\\ProyectoMoviles\\Movil\\Northwind-Movil\\NorthWind-main\\NorthWind.Sales.Backend.Controllers\\NorthWind.Sales.Backend.Controllers.csproj",
         "projectName": "NorthWind.Sales.Backend.Controllers",
-        "projectPath": "D:\\PROYECTOS_ESCRITORIO\\ProyectoMoviles\\Web\\Northwind\\NorthWind-main\\NorthWind.Sales.Backend.Controllers\\NorthWind.Sales.Backend.Controllers.csproj",
+        "projectPath": "D:\\PROYECTOS_ESCRITORIO\\ProyectoMoviles\\Movil\\Northwind-Movil\\NorthWind-main\\NorthWind.Sales.Backend.Controllers\\NorthWind.Sales.Backend.Controllers.csproj",
         "packagesPath": "C:\\Users\\BAR KARAOKE\\.nuget\\packages\\",
-        "outputPath": "D:\\PROYECTOS_ESCRITORIO\\ProyectoMoviles\\Web\\Northwind\\NorthWind-main\\NorthWind.Sales.Backend.Controllers\\obj\\",
+        "outputPath": "D:\\PROYECTOS_ESCRITORIO\\ProyectoMoviles\\Movil\\Northwind-Movil\\NorthWind-main\\NorthWind.Sales.Backend.Controllers\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -414,8 +414,8 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "D:\\PROYECTOS_ESCRITORIO\\ProyectoMoviles\\Web\\Northwind\\NorthWind-main\\NorthWind.Sales.Backend.BusinessObjects\\NorthWind.Sales.Backend.BusinessObjects.csproj": {
-                "projectPath": "D:\\PROYECTOS_ESCRITORIO\\ProyectoMoviles\\Web\\Northwind\\NorthWind-main\\NorthWind.Sales.Backend.BusinessObjects\\NorthWind.Sales.Backend.BusinessObjects.csproj"
+              "D:\\PROYECTOS_ESCRITORIO\\ProyectoMoviles\\Movil\\Northwind-Movil\\NorthWind-main\\NorthWind.Sales.Backend.BusinessObjects\\NorthWind.Sales.Backend.BusinessObjects.csproj": {
+                "projectPath": "D:\\PROYECTOS_ESCRITORIO\\ProyectoMoviles\\Movil\\Northwind-Movil\\NorthWind-main\\NorthWind.Sales.Backend.BusinessObjects\\NorthWind.Sales.Backend.BusinessObjects.csproj"
               }
             }
           }
@@ -458,14 +458,14 @@
         }
       }
     },
-    "D:\\PROYECTOS_ESCRITORIO\\ProyectoMoviles\\Web\\Northwind\\NorthWind-main\\NorthWind.Sales.Backend.DataContexts.EFCore\\NorthWind.Sales.Backend.DataContexts.EFCore.csproj": {
+    "D:\\PROYECTOS_ESCRITORIO\\ProyectoMoviles\\Movil\\Northwind-Movil\\NorthWind-main\\NorthWind.Sales.Backend.DataContexts.EFCore\\NorthWind.Sales.Backend.DataContexts.EFCore.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\PROYECTOS_ESCRITORIO\\ProyectoMoviles\\Web\\Northwind\\NorthWind-main\\NorthWind.Sales.Backend.DataContexts.EFCore\\NorthWind.Sales.Backend.DataContexts.EFCore.csproj",
+        "projectUniqueName": "D:\\PROYECTOS_ESCRITORIO\\ProyectoMoviles\\Movil\\Northwind-Movil\\NorthWind-main\\NorthWind.Sales.Backend.DataContexts.EFCore\\NorthWind.Sales.Backend.DataContexts.EFCore.csproj",
         "projectName": "NorthWind.Sales.Backend.DataContexts.EFCore",
-        "projectPath": "D:\\PROYECTOS_ESCRITORIO\\ProyectoMoviles\\Web\\Northwind\\NorthWind-main\\NorthWind.Sales.Backend.DataContexts.EFCore\\NorthWind.Sales.Backend.DataContexts.EFCore.csproj",
+        "projectPath": "D:\\PROYECTOS_ESCRITORIO\\ProyectoMoviles\\Movil\\Northwind-Movil\\NorthWind-main\\NorthWind.Sales.Backend.DataContexts.EFCore\\NorthWind.Sales.Backend.DataContexts.EFCore.csproj",
         "packagesPath": "C:\\Users\\BAR KARAOKE\\.nuget\\packages\\",
-        "outputPath": "D:\\PROYECTOS_ESCRITORIO\\ProyectoMoviles\\Web\\Northwind\\NorthWind-main\\NorthWind.Sales.Backend.DataContexts.EFCore\\obj\\",
+        "outputPath": "D:\\PROYECTOS_ESCRITORIO\\ProyectoMoviles\\Movil\\Northwind-Movil\\NorthWind-main\\NorthWind.Sales.Backend.DataContexts.EFCore\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -487,11 +487,11 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "D:\\PROYECTOS_ESCRITORIO\\ProyectoMoviles\\Web\\Northwind\\NorthWind-main\\NorthWind.Exceptions.Entities\\NorthWind.Exceptions.Entities.csproj": {
-                "projectPath": "D:\\PROYECTOS_ESCRITORIO\\ProyectoMoviles\\Web\\Northwind\\NorthWind-main\\NorthWind.Exceptions.Entities\\NorthWind.Exceptions.Entities.csproj"
+              "D:\\PROYECTOS_ESCRITORIO\\ProyectoMoviles\\Movil\\Northwind-Movil\\NorthWind-main\\NorthWind.Exceptions.Entities\\NorthWind.Exceptions.Entities.csproj": {
+                "projectPath": "D:\\PROYECTOS_ESCRITORIO\\ProyectoMoviles\\Movil\\Northwind-Movil\\NorthWind-main\\NorthWind.Exceptions.Entities\\NorthWind.Exceptions.Entities.csproj"
               },
-              "D:\\PROYECTOS_ESCRITORIO\\ProyectoMoviles\\Web\\Northwind\\NorthWind-main\\Northwind.Sales.Backend.Repositories\\NorthWind.Sales.Backend.Repositories.csproj": {
-                "projectPath": "D:\\PROYECTOS_ESCRITORIO\\ProyectoMoviles\\Web\\Northwind\\NorthWind-main\\Northwind.Sales.Backend.Repositories\\NorthWind.Sales.Backend.Repositories.csproj"
+              "D:\\PROYECTOS_ESCRITORIO\\ProyectoMoviles\\Movil\\Northwind-Movil\\NorthWind-main\\Northwind.Sales.Backend.Repositories\\NorthWind.Sales.Backend.Repositories.csproj": {
+                "projectPath": "D:\\PROYECTOS_ESCRITORIO\\ProyectoMoviles\\Movil\\Northwind-Movil\\NorthWind-main\\Northwind.Sales.Backend.Repositories\\NorthWind.Sales.Backend.Repositories.csproj"
               }
             }
           }
@@ -543,14 +543,14 @@
         }
       }
     },
-    "D:\\PROYECTOS_ESCRITORIO\\ProyectoMoviles\\Web\\Northwind\\NorthWind-main\\NorthWind.Sales.Backend.IoC\\NorthWind.Sales.Backend.IoC.csproj": {
+    "D:\\PROYECTOS_ESCRITORIO\\ProyectoMoviles\\Movil\\Northwind-Movil\\NorthWind-main\\NorthWind.Sales.Backend.IoC\\NorthWind.Sales.Backend.IoC.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\PROYECTOS_ESCRITORIO\\ProyectoMoviles\\Web\\Northwind\\NorthWind-main\\NorthWind.Sales.Backend.IoC\\NorthWind.Sales.Backend.IoC.csproj",
+        "projectUniqueName": "D:\\PROYECTOS_ESCRITORIO\\ProyectoMoviles\\Movil\\Northwind-Movil\\NorthWind-main\\NorthWind.Sales.Backend.IoC\\NorthWind.Sales.Backend.IoC.csproj",
         "projectName": "NorthWind.Sales.Backend.IoC",
-        "projectPath": "D:\\PROYECTOS_ESCRITORIO\\ProyectoMoviles\\Web\\Northwind\\NorthWind-main\\NorthWind.Sales.Backend.IoC\\NorthWind.Sales.Backend.IoC.csproj",
+        "projectPath": "D:\\PROYECTOS_ESCRITORIO\\ProyectoMoviles\\Movil\\Northwind-Movil\\NorthWind-main\\NorthWind.Sales.Backend.IoC\\NorthWind.Sales.Backend.IoC.csproj",
         "packagesPath": "C:\\Users\\BAR KARAOKE\\.nuget\\packages\\",
-        "outputPath": "D:\\PROYECTOS_ESCRITORIO\\ProyectoMoviles\\Web\\Northwind\\NorthWind-main\\NorthWind.Sales.Backend.IoC\\obj\\",
+        "outputPath": "D:\\PROYECTOS_ESCRITORIO\\ProyectoMoviles\\Movil\\Northwind-Movil\\NorthWind-main\\NorthWind.Sales.Backend.IoC\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -572,41 +572,41 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "D:\\PROYECTOS_ESCRITORIO\\ProyectoMoviles\\Web\\Northwind\\NorthWind-main\\NorthWind.DomainLogs.Entities\\NorthWind.DomainLogs.Entities.csproj": {
-                "projectPath": "D:\\PROYECTOS_ESCRITORIO\\ProyectoMoviles\\Web\\Northwind\\NorthWind-main\\NorthWind.DomainLogs.Entities\\NorthWind.DomainLogs.Entities.csproj"
+              "D:\\PROYECTOS_ESCRITORIO\\ProyectoMoviles\\Movil\\Northwind-Movil\\NorthWind-main\\NorthWind.DomainLogs.Entities\\NorthWind.DomainLogs.Entities.csproj": {
+                "projectPath": "D:\\PROYECTOS_ESCRITORIO\\ProyectoMoviles\\Movil\\Northwind-Movil\\NorthWind-main\\NorthWind.DomainLogs.Entities\\NorthWind.DomainLogs.Entities.csproj"
               },
-              "D:\\PROYECTOS_ESCRITORIO\\ProyectoMoviles\\Web\\Northwind\\NorthWind-main\\NorthWind.Events.Entities\\NorthWind.Events.Entities.csproj": {
-                "projectPath": "D:\\PROYECTOS_ESCRITORIO\\ProyectoMoviles\\Web\\Northwind\\NorthWind-main\\NorthWind.Events.Entities\\NorthWind.Events.Entities.csproj"
+              "D:\\PROYECTOS_ESCRITORIO\\ProyectoMoviles\\Movil\\Northwind-Movil\\NorthWind-main\\NorthWind.Events.Entities\\NorthWind.Events.Entities.csproj": {
+                "projectPath": "D:\\PROYECTOS_ESCRITORIO\\ProyectoMoviles\\Movil\\Northwind-Movil\\NorthWind-main\\NorthWind.Events.Entities\\NorthWind.Events.Entities.csproj"
               },
-              "D:\\PROYECTOS_ESCRITORIO\\ProyectoMoviles\\Web\\Northwind\\NorthWind-main\\NorthWind.Sales.Backend.Controllers\\NorthWind.Sales.Backend.Controllers.csproj": {
-                "projectPath": "D:\\PROYECTOS_ESCRITORIO\\ProyectoMoviles\\Web\\Northwind\\NorthWind-main\\NorthWind.Sales.Backend.Controllers\\NorthWind.Sales.Backend.Controllers.csproj"
+              "D:\\PROYECTOS_ESCRITORIO\\ProyectoMoviles\\Movil\\Northwind-Movil\\NorthWind-main\\NorthWind.Sales.Backend.Controllers\\NorthWind.Sales.Backend.Controllers.csproj": {
+                "projectPath": "D:\\PROYECTOS_ESCRITORIO\\ProyectoMoviles\\Movil\\Northwind-Movil\\NorthWind-main\\NorthWind.Sales.Backend.Controllers\\NorthWind.Sales.Backend.Controllers.csproj"
               },
-              "D:\\PROYECTOS_ESCRITORIO\\ProyectoMoviles\\Web\\Northwind\\NorthWind-main\\NorthWind.Sales.Backend.DataContexts.EFCore\\NorthWind.Sales.Backend.DataContexts.EFCore.csproj": {
-                "projectPath": "D:\\PROYECTOS_ESCRITORIO\\ProyectoMoviles\\Web\\Northwind\\NorthWind-main\\NorthWind.Sales.Backend.DataContexts.EFCore\\NorthWind.Sales.Backend.DataContexts.EFCore.csproj"
+              "D:\\PROYECTOS_ESCRITORIO\\ProyectoMoviles\\Movil\\Northwind-Movil\\NorthWind-main\\NorthWind.Sales.Backend.DataContexts.EFCore\\NorthWind.Sales.Backend.DataContexts.EFCore.csproj": {
+                "projectPath": "D:\\PROYECTOS_ESCRITORIO\\ProyectoMoviles\\Movil\\Northwind-Movil\\NorthWind-main\\NorthWind.Sales.Backend.DataContexts.EFCore\\NorthWind.Sales.Backend.DataContexts.EFCore.csproj"
               },
-              "D:\\PROYECTOS_ESCRITORIO\\ProyectoMoviles\\Web\\Northwind\\NorthWind-main\\NorthWind.Sales.Backend.Presenters\\NorthWind.Sales.Backend.Presenters.csproj": {
-                "projectPath": "D:\\PROYECTOS_ESCRITORIO\\ProyectoMoviles\\Web\\Northwind\\NorthWind-main\\NorthWind.Sales.Backend.Presenters\\NorthWind.Sales.Backend.Presenters.csproj"
+              "D:\\PROYECTOS_ESCRITORIO\\ProyectoMoviles\\Movil\\Northwind-Movil\\NorthWind-main\\NorthWind.Sales.Backend.Presenters\\NorthWind.Sales.Backend.Presenters.csproj": {
+                "projectPath": "D:\\PROYECTOS_ESCRITORIO\\ProyectoMoviles\\Movil\\Northwind-Movil\\NorthWind-main\\NorthWind.Sales.Backend.Presenters\\NorthWind.Sales.Backend.Presenters.csproj"
               },
-              "D:\\PROYECTOS_ESCRITORIO\\ProyectoMoviles\\Web\\Northwind\\NorthWind-main\\Northwind.Sales.Backend.Repositories\\NorthWind.Sales.Backend.Repositories.csproj": {
-                "projectPath": "D:\\PROYECTOS_ESCRITORIO\\ProyectoMoviles\\Web\\Northwind\\NorthWind-main\\Northwind.Sales.Backend.Repositories\\NorthWind.Sales.Backend.Repositories.csproj"
+              "D:\\PROYECTOS_ESCRITORIO\\ProyectoMoviles\\Movil\\Northwind-Movil\\NorthWind-main\\Northwind.Sales.Backend.Repositories\\NorthWind.Sales.Backend.Repositories.csproj": {
+                "projectPath": "D:\\PROYECTOS_ESCRITORIO\\ProyectoMoviles\\Movil\\Northwind-Movil\\NorthWind-main\\Northwind.Sales.Backend.Repositories\\NorthWind.Sales.Backend.Repositories.csproj"
               },
-              "D:\\PROYECTOS_ESCRITORIO\\ProyectoMoviles\\Web\\Northwind\\NorthWind-main\\NorthWind.Sales.Backend.SmtpGateways\\NorthWind.Sales.Backend.SmtpGateways.csproj": {
-                "projectPath": "D:\\PROYECTOS_ESCRITORIO\\ProyectoMoviles\\Web\\Northwind\\NorthWind-main\\NorthWind.Sales.Backend.SmtpGateways\\NorthWind.Sales.Backend.SmtpGateways.csproj"
+              "D:\\PROYECTOS_ESCRITORIO\\ProyectoMoviles\\Movil\\Northwind-Movil\\NorthWind-main\\NorthWind.Sales.Backend.SmtpGateways\\NorthWind.Sales.Backend.SmtpGateways.csproj": {
+                "projectPath": "D:\\PROYECTOS_ESCRITORIO\\ProyectoMoviles\\Movil\\Northwind-Movil\\NorthWind-main\\NorthWind.Sales.Backend.SmtpGateways\\NorthWind.Sales.Backend.SmtpGateways.csproj"
               },
-              "D:\\PROYECTOS_ESCRITORIO\\ProyectoMoviles\\Web\\Northwind\\NorthWind-main\\NorthWind.Sales.Backend.UseCases\\NorthWind.Sales.Backend.UseCases.csproj": {
-                "projectPath": "D:\\PROYECTOS_ESCRITORIO\\ProyectoMoviles\\Web\\Northwind\\NorthWind-main\\NorthWind.Sales.Backend.UseCases\\NorthWind.Sales.Backend.UseCases.csproj"
+              "D:\\PROYECTOS_ESCRITORIO\\ProyectoMoviles\\Movil\\Northwind-Movil\\NorthWind-main\\NorthWind.Sales.Backend.UseCases\\NorthWind.Sales.Backend.UseCases.csproj": {
+                "projectPath": "D:\\PROYECTOS_ESCRITORIO\\ProyectoMoviles\\Movil\\Northwind-Movil\\NorthWind-main\\NorthWind.Sales.Backend.UseCases\\NorthWind.Sales.Backend.UseCases.csproj"
               },
-              "D:\\PROYECTOS_ESCRITORIO\\ProyectoMoviles\\Web\\Northwind\\NorthWind-main\\NorthWind.Sales.Validators.Entities\\NorthWind.Sales.Validators.Entities.csproj": {
-                "projectPath": "D:\\PROYECTOS_ESCRITORIO\\ProyectoMoviles\\Web\\Northwind\\NorthWind-main\\NorthWind.Sales.Validators.Entities\\NorthWind.Sales.Validators.Entities.csproj"
+              "D:\\PROYECTOS_ESCRITORIO\\ProyectoMoviles\\Movil\\Northwind-Movil\\NorthWind-main\\NorthWind.Sales.Validators.Entities\\NorthWind.Sales.Validators.Entities.csproj": {
+                "projectPath": "D:\\PROYECTOS_ESCRITORIO\\ProyectoMoviles\\Movil\\Northwind-Movil\\NorthWind-main\\NorthWind.Sales.Validators.Entities\\NorthWind.Sales.Validators.Entities.csproj"
               },
-              "D:\\PROYECTOS_ESCRITORIO\\ProyectoMoviles\\Web\\Northwind\\NorthWind-main\\NorthWind.Transactions.Entities\\NorthWind.Transactions.Entities.csproj": {
-                "projectPath": "D:\\PROYECTOS_ESCRITORIO\\ProyectoMoviles\\Web\\Northwind\\NorthWind-main\\NorthWind.Transactions.Entities\\NorthWind.Transactions.Entities.csproj"
+              "D:\\PROYECTOS_ESCRITORIO\\ProyectoMoviles\\Movil\\Northwind-Movil\\NorthWind-main\\NorthWind.Transactions.Entities\\NorthWind.Transactions.Entities.csproj": {
+                "projectPath": "D:\\PROYECTOS_ESCRITORIO\\ProyectoMoviles\\Movil\\Northwind-Movil\\NorthWind-main\\NorthWind.Transactions.Entities\\NorthWind.Transactions.Entities.csproj"
               },
-              "D:\\PROYECTOS_ESCRITORIO\\ProyectoMoviles\\Web\\Northwind\\NorthWind-main\\NorthWind.UserServices\\NorthWind.UserServices.csproj": {
-                "projectPath": "D:\\PROYECTOS_ESCRITORIO\\ProyectoMoviles\\Web\\Northwind\\NorthWind-main\\NorthWind.UserServices\\NorthWind.UserServices.csproj"
+              "D:\\PROYECTOS_ESCRITORIO\\ProyectoMoviles\\Movil\\Northwind-Movil\\NorthWind-main\\NorthWind.UserServices\\NorthWind.UserServices.csproj": {
+                "projectPath": "D:\\PROYECTOS_ESCRITORIO\\ProyectoMoviles\\Movil\\Northwind-Movil\\NorthWind-main\\NorthWind.UserServices\\NorthWind.UserServices.csproj"
               },
-              "D:\\PROYECTOS_ESCRITORIO\\ProyectoMoviles\\Web\\Northwind\\NorthWind-main\\NorthWind.ValidationService.FluentValidation\\NorthWind.ValidationService.FluentValidation.csproj": {
-                "projectPath": "D:\\PROYECTOS_ESCRITORIO\\ProyectoMoviles\\Web\\Northwind\\NorthWind-main\\NorthWind.ValidationService.FluentValidation\\NorthWind.ValidationService.FluentValidation.csproj"
+              "D:\\PROYECTOS_ESCRITORIO\\ProyectoMoviles\\Movil\\Northwind-Movil\\NorthWind-main\\NorthWind.ValidationService.FluentValidation\\NorthWind.ValidationService.FluentValidation.csproj": {
+                "projectPath": "D:\\PROYECTOS_ESCRITORIO\\ProyectoMoviles\\Movil\\Northwind-Movil\\NorthWind-main\\NorthWind.ValidationService.FluentValidation\\NorthWind.ValidationService.FluentValidation.csproj"
               }
             }
           }
@@ -652,14 +652,14 @@
         }
       }
     },
-    "D:\\PROYECTOS_ESCRITORIO\\ProyectoMoviles\\Web\\Northwind\\NorthWind-main\\NorthWind.Sales.Backend.Presenters\\NorthWind.Sales.Backend.Presenters.csproj": {
+    "D:\\PROYECTOS_ESCRITORIO\\ProyectoMoviles\\Movil\\Northwind-Movil\\NorthWind-main\\NorthWind.Sales.Backend.Presenters\\NorthWind.Sales.Backend.Presenters.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\PROYECTOS_ESCRITORIO\\ProyectoMoviles\\Web\\Northwind\\NorthWind-main\\NorthWind.Sales.Backend.Presenters\\NorthWind.Sales.Backend.Presenters.csproj",
+        "projectUniqueName": "D:\\PROYECTOS_ESCRITORIO\\ProyectoMoviles\\Movil\\Northwind-Movil\\NorthWind-main\\NorthWind.Sales.Backend.Presenters\\NorthWind.Sales.Backend.Presenters.csproj",
         "projectName": "NorthWind.Sales.Backend.Presenters",
-        "projectPath": "D:\\PROYECTOS_ESCRITORIO\\ProyectoMoviles\\Web\\Northwind\\NorthWind-main\\NorthWind.Sales.Backend.Presenters\\NorthWind.Sales.Backend.Presenters.csproj",
+        "projectPath": "D:\\PROYECTOS_ESCRITORIO\\ProyectoMoviles\\Movil\\Northwind-Movil\\NorthWind-main\\NorthWind.Sales.Backend.Presenters\\NorthWind.Sales.Backend.Presenters.csproj",
         "packagesPath": "C:\\Users\\BAR KARAOKE\\.nuget\\packages\\",
-        "outputPath": "D:\\PROYECTOS_ESCRITORIO\\ProyectoMoviles\\Web\\Northwind\\NorthWind-main\\NorthWind.Sales.Backend.Presenters\\obj\\",
+        "outputPath": "D:\\PROYECTOS_ESCRITORIO\\ProyectoMoviles\\Movil\\Northwind-Movil\\NorthWind-main\\NorthWind.Sales.Backend.Presenters\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -681,8 +681,8 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "D:\\PROYECTOS_ESCRITORIO\\ProyectoMoviles\\Web\\Northwind\\NorthWind-main\\NorthWind.Sales.Backend.BusinessObjects\\NorthWind.Sales.Backend.BusinessObjects.csproj": {
-                "projectPath": "D:\\PROYECTOS_ESCRITORIO\\ProyectoMoviles\\Web\\Northwind\\NorthWind-main\\NorthWind.Sales.Backend.BusinessObjects\\NorthWind.Sales.Backend.BusinessObjects.csproj"
+              "D:\\PROYECTOS_ESCRITORIO\\ProyectoMoviles\\Movil\\Northwind-Movil\\NorthWind-main\\NorthWind.Sales.Backend.BusinessObjects\\NorthWind.Sales.Backend.BusinessObjects.csproj": {
+                "projectPath": "D:\\PROYECTOS_ESCRITORIO\\ProyectoMoviles\\Movil\\Northwind-Movil\\NorthWind-main\\NorthWind.Sales.Backend.BusinessObjects\\NorthWind.Sales.Backend.BusinessObjects.csproj"
               }
             }
           }
@@ -728,14 +728,14 @@
         }
       }
     },
-    "D:\\PROYECTOS_ESCRITORIO\\ProyectoMoviles\\Web\\Northwind\\NorthWind-main\\Northwind.Sales.Backend.Repositories\\NorthWind.Sales.Backend.Repositories.csproj": {
+    "D:\\PROYECTOS_ESCRITORIO\\ProyectoMoviles\\Movil\\Northwind-Movil\\NorthWind-main\\Northwind.Sales.Backend.Repositories\\NorthWind.Sales.Backend.Repositories.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\PROYECTOS_ESCRITORIO\\ProyectoMoviles\\Web\\Northwind\\NorthWind-main\\Northwind.Sales.Backend.Repositories\\NorthWind.Sales.Backend.Repositories.csproj",
+        "projectUniqueName": "D:\\PROYECTOS_ESCRITORIO\\ProyectoMoviles\\Movil\\Northwind-Movil\\NorthWind-main\\Northwind.Sales.Backend.Repositories\\NorthWind.Sales.Backend.Repositories.csproj",
         "projectName": "NorthWind.Sales.Backend.Repositories",
-        "projectPath": "D:\\PROYECTOS_ESCRITORIO\\ProyectoMoviles\\Web\\Northwind\\NorthWind-main\\Northwind.Sales.Backend.Repositories\\NorthWind.Sales.Backend.Repositories.csproj",
+        "projectPath": "D:\\PROYECTOS_ESCRITORIO\\ProyectoMoviles\\Movil\\Northwind-Movil\\NorthWind-main\\Northwind.Sales.Backend.Repositories\\NorthWind.Sales.Backend.Repositories.csproj",
         "packagesPath": "C:\\Users\\BAR KARAOKE\\.nuget\\packages\\",
-        "outputPath": "D:\\PROYECTOS_ESCRITORIO\\ProyectoMoviles\\Web\\Northwind\\NorthWind-main\\Northwind.Sales.Backend.Repositories\\obj\\",
+        "outputPath": "D:\\PROYECTOS_ESCRITORIO\\ProyectoMoviles\\Movil\\Northwind-Movil\\NorthWind-main\\Northwind.Sales.Backend.Repositories\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -757,8 +757,8 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "D:\\PROYECTOS_ESCRITORIO\\ProyectoMoviles\\Web\\Northwind\\NorthWind-main\\NorthWind.Sales.Backend.BusinessObjects\\NorthWind.Sales.Backend.BusinessObjects.csproj": {
-                "projectPath": "D:\\PROYECTOS_ESCRITORIO\\ProyectoMoviles\\Web\\Northwind\\NorthWind-main\\NorthWind.Sales.Backend.BusinessObjects\\NorthWind.Sales.Backend.BusinessObjects.csproj"
+              "D:\\PROYECTOS_ESCRITORIO\\ProyectoMoviles\\Movil\\Northwind-Movil\\NorthWind-main\\NorthWind.Sales.Backend.BusinessObjects\\NorthWind.Sales.Backend.BusinessObjects.csproj": {
+                "projectPath": "D:\\PROYECTOS_ESCRITORIO\\ProyectoMoviles\\Movil\\Northwind-Movil\\NorthWind-main\\NorthWind.Sales.Backend.BusinessObjects\\NorthWind.Sales.Backend.BusinessObjects.csproj"
               }
             }
           }
@@ -824,14 +824,14 @@
         }
       }
     },
-    "D:\\PROYECTOS_ESCRITORIO\\ProyectoMoviles\\Web\\Northwind\\NorthWind-main\\NorthWind.Sales.Backend.SmtpGateways\\NorthWind.Sales.Backend.SmtpGateways.csproj": {
+    "D:\\PROYECTOS_ESCRITORIO\\ProyectoMoviles\\Movil\\Northwind-Movil\\NorthWind-main\\NorthWind.Sales.Backend.SmtpGateways\\NorthWind.Sales.Backend.SmtpGateways.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\PROYECTOS_ESCRITORIO\\ProyectoMoviles\\Web\\Northwind\\NorthWind-main\\NorthWind.Sales.Backend.SmtpGateways\\NorthWind.Sales.Backend.SmtpGateways.csproj",
+        "projectUniqueName": "D:\\PROYECTOS_ESCRITORIO\\ProyectoMoviles\\Movil\\Northwind-Movil\\NorthWind-main\\NorthWind.Sales.Backend.SmtpGateways\\NorthWind.Sales.Backend.SmtpGateways.csproj",
         "projectName": "NorthWind.Sales.Backend.SmtpGateways",
-        "projectPath": "D:\\PROYECTOS_ESCRITORIO\\ProyectoMoviles\\Web\\Northwind\\NorthWind-main\\NorthWind.Sales.Backend.SmtpGateways\\NorthWind.Sales.Backend.SmtpGateways.csproj",
+        "projectPath": "D:\\PROYECTOS_ESCRITORIO\\ProyectoMoviles\\Movil\\Northwind-Movil\\NorthWind-main\\NorthWind.Sales.Backend.SmtpGateways\\NorthWind.Sales.Backend.SmtpGateways.csproj",
         "packagesPath": "C:\\Users\\BAR KARAOKE\\.nuget\\packages\\",
-        "outputPath": "D:\\PROYECTOS_ESCRITORIO\\ProyectoMoviles\\Web\\Northwind\\NorthWind-main\\NorthWind.Sales.Backend.SmtpGateways\\obj\\",
+        "outputPath": "D:\\PROYECTOS_ESCRITORIO\\ProyectoMoviles\\Movil\\Northwind-Movil\\NorthWind-main\\NorthWind.Sales.Backend.SmtpGateways\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -853,8 +853,8 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "D:\\PROYECTOS_ESCRITORIO\\ProyectoMoviles\\Web\\Northwind\\NorthWind-main\\NorthWind.Sales.Backend.BusinessObjects\\NorthWind.Sales.Backend.BusinessObjects.csproj": {
-                "projectPath": "D:\\PROYECTOS_ESCRITORIO\\ProyectoMoviles\\Web\\Northwind\\NorthWind-main\\NorthWind.Sales.Backend.BusinessObjects\\NorthWind.Sales.Backend.BusinessObjects.csproj"
+              "D:\\PROYECTOS_ESCRITORIO\\ProyectoMoviles\\Movil\\Northwind-Movil\\NorthWind-main\\NorthWind.Sales.Backend.BusinessObjects\\NorthWind.Sales.Backend.BusinessObjects.csproj": {
+                "projectPath": "D:\\PROYECTOS_ESCRITORIO\\ProyectoMoviles\\Movil\\Northwind-Movil\\NorthWind-main\\NorthWind.Sales.Backend.BusinessObjects\\NorthWind.Sales.Backend.BusinessObjects.csproj"
               }
             }
           }
@@ -897,14 +897,14 @@
         }
       }
     },
-    "D:\\PROYECTOS_ESCRITORIO\\ProyectoMoviles\\Web\\Northwind\\NorthWind-main\\NorthWind.Sales.Backend.UseCases\\NorthWind.Sales.Backend.UseCases.csproj": {
+    "D:\\PROYECTOS_ESCRITORIO\\ProyectoMoviles\\Movil\\Northwind-Movil\\NorthWind-main\\NorthWind.Sales.Backend.UseCases\\NorthWind.Sales.Backend.UseCases.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\PROYECTOS_ESCRITORIO\\ProyectoMoviles\\Web\\Northwind\\NorthWind-main\\NorthWind.Sales.Backend.UseCases\\NorthWind.Sales.Backend.UseCases.csproj",
+        "projectUniqueName": "D:\\PROYECTOS_ESCRITORIO\\ProyectoMoviles\\Movil\\Northwind-Movil\\NorthWind-main\\NorthWind.Sales.Backend.UseCases\\NorthWind.Sales.Backend.UseCases.csproj",
         "projectName": "NorthWind.Sales.Backend.UseCases",
-        "projectPath": "D:\\PROYECTOS_ESCRITORIO\\ProyectoMoviles\\Web\\Northwind\\NorthWind-main\\NorthWind.Sales.Backend.UseCases\\NorthWind.Sales.Backend.UseCases.csproj",
+        "projectPath": "D:\\PROYECTOS_ESCRITORIO\\ProyectoMoviles\\Movil\\Northwind-Movil\\NorthWind-main\\NorthWind.Sales.Backend.UseCases\\NorthWind.Sales.Backend.UseCases.csproj",
         "packagesPath": "C:\\Users\\BAR KARAOKE\\.nuget\\packages\\",
-        "outputPath": "D:\\PROYECTOS_ESCRITORIO\\ProyectoMoviles\\Web\\Northwind\\NorthWind-main\\NorthWind.Sales.Backend.UseCases\\obj\\",
+        "outputPath": "D:\\PROYECTOS_ESCRITORIO\\ProyectoMoviles\\Movil\\Northwind-Movil\\NorthWind-main\\NorthWind.Sales.Backend.UseCases\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -926,8 +926,8 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "D:\\PROYECTOS_ESCRITORIO\\ProyectoMoviles\\Web\\Northwind\\NorthWind-main\\NorthWind.Sales.Backend.BusinessObjects\\NorthWind.Sales.Backend.BusinessObjects.csproj": {
-                "projectPath": "D:\\PROYECTOS_ESCRITORIO\\ProyectoMoviles\\Web\\Northwind\\NorthWind-main\\NorthWind.Sales.Backend.BusinessObjects\\NorthWind.Sales.Backend.BusinessObjects.csproj"
+              "D:\\PROYECTOS_ESCRITORIO\\ProyectoMoviles\\Movil\\Northwind-Movil\\NorthWind-main\\NorthWind.Sales.Backend.BusinessObjects\\NorthWind.Sales.Backend.BusinessObjects.csproj": {
+                "projectPath": "D:\\PROYECTOS_ESCRITORIO\\ProyectoMoviles\\Movil\\Northwind-Movil\\NorthWind-main\\NorthWind.Sales.Backend.BusinessObjects\\NorthWind.Sales.Backend.BusinessObjects.csproj"
               }
             }
           }
@@ -977,14 +977,14 @@
         }
       }
     },
-    "D:\\PROYECTOS_ESCRITORIO\\ProyectoMoviles\\Web\\Northwind\\NorthWind-main\\NorthWind.Sales.Entities\\NorthWind.Sales.Entities.csproj": {
+    "D:\\PROYECTOS_ESCRITORIO\\ProyectoMoviles\\Movil\\Northwind-Movil\\NorthWind-main\\NorthWind.Sales.Entities\\NorthWind.Sales.Entities.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\PROYECTOS_ESCRITORIO\\ProyectoMoviles\\Web\\Northwind\\NorthWind-main\\NorthWind.Sales.Entities\\NorthWind.Sales.Entities.csproj",
+        "projectUniqueName": "D:\\PROYECTOS_ESCRITORIO\\ProyectoMoviles\\Movil\\Northwind-Movil\\NorthWind-main\\NorthWind.Sales.Entities\\NorthWind.Sales.Entities.csproj",
         "projectName": "NorthWind.Sales.Entities",
-        "projectPath": "D:\\PROYECTOS_ESCRITORIO\\ProyectoMoviles\\Web\\Northwind\\NorthWind-main\\NorthWind.Sales.Entities\\NorthWind.Sales.Entities.csproj",
+        "projectPath": "D:\\PROYECTOS_ESCRITORIO\\ProyectoMoviles\\Movil\\Northwind-Movil\\NorthWind-main\\NorthWind.Sales.Entities\\NorthWind.Sales.Entities.csproj",
         "packagesPath": "C:\\Users\\BAR KARAOKE\\.nuget\\packages\\",
-        "outputPath": "D:\\PROYECTOS_ESCRITORIO\\ProyectoMoviles\\Web\\Northwind\\NorthWind-main\\NorthWind.Sales.Entities\\obj\\",
+        "outputPath": "D:\\PROYECTOS_ESCRITORIO\\ProyectoMoviles\\Movil\\Northwind-Movil\\NorthWind-main\\NorthWind.Sales.Entities\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -1043,14 +1043,14 @@
         }
       }
     },
-    "D:\\PROYECTOS_ESCRITORIO\\ProyectoMoviles\\Web\\Northwind\\NorthWind-main\\NorthWind.Sales.Validators.Entities\\NorthWind.Sales.Validators.Entities.csproj": {
+    "D:\\PROYECTOS_ESCRITORIO\\ProyectoMoviles\\Movil\\Northwind-Movil\\NorthWind-main\\NorthWind.Sales.Validators.Entities\\NorthWind.Sales.Validators.Entities.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\PROYECTOS_ESCRITORIO\\ProyectoMoviles\\Web\\Northwind\\NorthWind-main\\NorthWind.Sales.Validators.Entities\\NorthWind.Sales.Validators.Entities.csproj",
+        "projectUniqueName": "D:\\PROYECTOS_ESCRITORIO\\ProyectoMoviles\\Movil\\Northwind-Movil\\NorthWind-main\\NorthWind.Sales.Validators.Entities\\NorthWind.Sales.Validators.Entities.csproj",
         "projectName": "NorthWind.Sales.Validators.Entities",
-        "projectPath": "D:\\PROYECTOS_ESCRITORIO\\ProyectoMoviles\\Web\\Northwind\\NorthWind-main\\NorthWind.Sales.Validators.Entities\\NorthWind.Sales.Validators.Entities.csproj",
+        "projectPath": "D:\\PROYECTOS_ESCRITORIO\\ProyectoMoviles\\Movil\\Northwind-Movil\\NorthWind-main\\NorthWind.Sales.Validators.Entities\\NorthWind.Sales.Validators.Entities.csproj",
         "packagesPath": "C:\\Users\\BAR KARAOKE\\.nuget\\packages\\",
-        "outputPath": "D:\\PROYECTOS_ESCRITORIO\\ProyectoMoviles\\Web\\Northwind\\NorthWind-main\\NorthWind.Sales.Validators.Entities\\obj\\",
+        "outputPath": "D:\\PROYECTOS_ESCRITORIO\\ProyectoMoviles\\Movil\\Northwind-Movil\\NorthWind-main\\NorthWind.Sales.Validators.Entities\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -1072,11 +1072,11 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "D:\\PROYECTOS_ESCRITORIO\\ProyectoMoviles\\Web\\Northwind\\NorthWind-main\\NorthWind.Sales.Entities\\NorthWind.Sales.Entities.csproj": {
-                "projectPath": "D:\\PROYECTOS_ESCRITORIO\\ProyectoMoviles\\Web\\Northwind\\NorthWind-main\\NorthWind.Sales.Entities\\NorthWind.Sales.Entities.csproj"
+              "D:\\PROYECTOS_ESCRITORIO\\ProyectoMoviles\\Movil\\Northwind-Movil\\NorthWind-main\\NorthWind.Sales.Entities\\NorthWind.Sales.Entities.csproj": {
+                "projectPath": "D:\\PROYECTOS_ESCRITORIO\\ProyectoMoviles\\Movil\\Northwind-Movil\\NorthWind-main\\NorthWind.Sales.Entities\\NorthWind.Sales.Entities.csproj"
               },
-              "D:\\PROYECTOS_ESCRITORIO\\ProyectoMoviles\\Web\\Northwind\\NorthWind-main\\NorthWind.Validation.Entities\\NorthWind.Validation.Entities.csproj": {
-                "projectPath": "D:\\PROYECTOS_ESCRITORIO\\ProyectoMoviles\\Web\\Northwind\\NorthWind-main\\NorthWind.Validation.Entities\\NorthWind.Validation.Entities.csproj"
+              "D:\\PROYECTOS_ESCRITORIO\\ProyectoMoviles\\Movil\\Northwind-Movil\\NorthWind-main\\NorthWind.Validation.Entities\\NorthWind.Validation.Entities.csproj": {
+                "projectPath": "D:\\PROYECTOS_ESCRITORIO\\ProyectoMoviles\\Movil\\Northwind-Movil\\NorthWind-main\\NorthWind.Validation.Entities\\NorthWind.Validation.Entities.csproj"
               }
             }
           }
@@ -1116,14 +1116,14 @@
         }
       }
     },
-    "D:\\PROYECTOS_ESCRITORIO\\ProyectoMoviles\\Web\\Northwind\\NorthWind-main\\Northwind.Sales.WebApi\\Northwind.Sales.WebApi.csproj": {
+    "D:\\PROYECTOS_ESCRITORIO\\ProyectoMoviles\\Movil\\Northwind-Movil\\NorthWind-main\\Northwind.Sales.WebApi\\Northwind.Sales.WebApi.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\PROYECTOS_ESCRITORIO\\ProyectoMoviles\\Web\\Northwind\\NorthWind-main\\Northwind.Sales.WebApi\\Northwind.Sales.WebApi.csproj",
+        "projectUniqueName": "D:\\PROYECTOS_ESCRITORIO\\ProyectoMoviles\\Movil\\Northwind-Movil\\NorthWind-main\\Northwind.Sales.WebApi\\Northwind.Sales.WebApi.csproj",
         "projectName": "Northwind.Sales.WebApi",
-        "projectPath": "D:\\PROYECTOS_ESCRITORIO\\ProyectoMoviles\\Web\\Northwind\\NorthWind-main\\Northwind.Sales.WebApi\\Northwind.Sales.WebApi.csproj",
+        "projectPath": "D:\\PROYECTOS_ESCRITORIO\\ProyectoMoviles\\Movil\\Northwind-Movil\\NorthWind-main\\Northwind.Sales.WebApi\\Northwind.Sales.WebApi.csproj",
         "packagesPath": "C:\\Users\\BAR KARAOKE\\.nuget\\packages\\",
-        "outputPath": "D:\\PROYECTOS_ESCRITORIO\\ProyectoMoviles\\Web\\Northwind\\NorthWind-main\\Northwind.Sales.WebApi\\obj\\",
+        "outputPath": "D:\\PROYECTOS_ESCRITORIO\\ProyectoMoviles\\Movil\\Northwind-Movil\\NorthWind-main\\Northwind.Sales.WebApi\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -1145,8 +1145,8 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "D:\\PROYECTOS_ESCRITORIO\\ProyectoMoviles\\Web\\Northwind\\NorthWind-main\\NorthWind.Sales.Backend.IoC\\NorthWind.Sales.Backend.IoC.csproj": {
-                "projectPath": "D:\\PROYECTOS_ESCRITORIO\\ProyectoMoviles\\Web\\Northwind\\NorthWind-main\\NorthWind.Sales.Backend.IoC\\NorthWind.Sales.Backend.IoC.csproj"
+              "D:\\PROYECTOS_ESCRITORIO\\ProyectoMoviles\\Movil\\Northwind-Movil\\NorthWind-main\\NorthWind.Sales.Backend.IoC\\NorthWind.Sales.Backend.IoC.csproj": {
+                "projectPath": "D:\\PROYECTOS_ESCRITORIO\\ProyectoMoviles\\Movil\\Northwind-Movil\\NorthWind-main\\NorthWind.Sales.Backend.IoC\\NorthWind.Sales.Backend.IoC.csproj"
               }
             }
           }
@@ -1203,14 +1203,14 @@
         }
       }
     },
-    "D:\\PROYECTOS_ESCRITORIO\\ProyectoMoviles\\Web\\Northwind\\NorthWind-main\\NorthWind.Transactions.Entities\\NorthWind.Transactions.Entities.csproj": {
+    "D:\\PROYECTOS_ESCRITORIO\\ProyectoMoviles\\Movil\\Northwind-Movil\\NorthWind-main\\NorthWind.Transactions.Entities\\NorthWind.Transactions.Entities.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\PROYECTOS_ESCRITORIO\\ProyectoMoviles\\Web\\Northwind\\NorthWind-main\\NorthWind.Transactions.Entities\\NorthWind.Transactions.Entities.csproj",
+        "projectUniqueName": "D:\\PROYECTOS_ESCRITORIO\\ProyectoMoviles\\Movil\\Northwind-Movil\\NorthWind-main\\NorthWind.Transactions.Entities\\NorthWind.Transactions.Entities.csproj",
         "projectName": "NorthWind.Transactions.Entities",
-        "projectPath": "D:\\PROYECTOS_ESCRITORIO\\ProyectoMoviles\\Web\\Northwind\\NorthWind-main\\NorthWind.Transactions.Entities\\NorthWind.Transactions.Entities.csproj",
+        "projectPath": "D:\\PROYECTOS_ESCRITORIO\\ProyectoMoviles\\Movil\\Northwind-Movil\\NorthWind-main\\NorthWind.Transactions.Entities\\NorthWind.Transactions.Entities.csproj",
         "packagesPath": "C:\\Users\\BAR KARAOKE\\.nuget\\packages\\",
-        "outputPath": "D:\\PROYECTOS_ESCRITORIO\\ProyectoMoviles\\Web\\Northwind\\NorthWind-main\\NorthWind.Transactions.Entities\\obj\\",
+        "outputPath": "D:\\PROYECTOS_ESCRITORIO\\ProyectoMoviles\\Movil\\Northwind-Movil\\NorthWind-main\\NorthWind.Transactions.Entities\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -1275,14 +1275,14 @@
         }
       }
     },
-    "D:\\PROYECTOS_ESCRITORIO\\ProyectoMoviles\\Web\\Northwind\\NorthWind-main\\NorthWind.UserServices\\NorthWind.UserServices.csproj": {
+    "D:\\PROYECTOS_ESCRITORIO\\ProyectoMoviles\\Movil\\Northwind-Movil\\NorthWind-main\\NorthWind.UserServices\\NorthWind.UserServices.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\PROYECTOS_ESCRITORIO\\ProyectoMoviles\\Web\\Northwind\\NorthWind-main\\NorthWind.UserServices\\NorthWind.UserServices.csproj",
+        "projectUniqueName": "D:\\PROYECTOS_ESCRITORIO\\ProyectoMoviles\\Movil\\Northwind-Movil\\NorthWind-main\\NorthWind.UserServices\\NorthWind.UserServices.csproj",
         "projectName": "NorthWind.UserServices",
-        "projectPath": "D:\\PROYECTOS_ESCRITORIO\\ProyectoMoviles\\Web\\Northwind\\NorthWind-main\\NorthWind.UserServices\\NorthWind.UserServices.csproj",
+        "projectPath": "D:\\PROYECTOS_ESCRITORIO\\ProyectoMoviles\\Movil\\Northwind-Movil\\NorthWind-main\\NorthWind.UserServices\\NorthWind.UserServices.csproj",
         "packagesPath": "C:\\Users\\BAR KARAOKE\\.nuget\\packages\\",
-        "outputPath": "D:\\PROYECTOS_ESCRITORIO\\ProyectoMoviles\\Web\\Northwind\\NorthWind-main\\NorthWind.UserServices\\obj\\",
+        "outputPath": "D:\\PROYECTOS_ESCRITORIO\\ProyectoMoviles\\Movil\\Northwind-Movil\\NorthWind-main\\NorthWind.UserServices\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -1304,8 +1304,8 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "D:\\PROYECTOS_ESCRITORIO\\ProyectoMoviles\\Web\\Northwind\\NorthWind-main\\NorthWind.Entities\\NorthWind.Entities.csproj": {
-                "projectPath": "D:\\PROYECTOS_ESCRITORIO\\ProyectoMoviles\\Web\\Northwind\\NorthWind-main\\NorthWind.Entities\\NorthWind.Entities.csproj"
+              "D:\\PROYECTOS_ESCRITORIO\\ProyectoMoviles\\Movil\\Northwind-Movil\\NorthWind-main\\NorthWind.Entities\\NorthWind.Entities.csproj": {
+                "projectPath": "D:\\PROYECTOS_ESCRITORIO\\ProyectoMoviles\\Movil\\Northwind-Movil\\NorthWind-main\\NorthWind.Entities\\NorthWind.Entities.csproj"
               }
             }
           }
@@ -1348,14 +1348,14 @@
         }
       }
     },
-    "D:\\PROYECTOS_ESCRITORIO\\ProyectoMoviles\\Web\\Northwind\\NorthWind-main\\NorthWind.Validation.Entities\\NorthWind.Validation.Entities.csproj": {
+    "D:\\PROYECTOS_ESCRITORIO\\ProyectoMoviles\\Movil\\Northwind-Movil\\NorthWind-main\\NorthWind.Validation.Entities\\NorthWind.Validation.Entities.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\PROYECTOS_ESCRITORIO\\ProyectoMoviles\\Web\\Northwind\\NorthWind-main\\NorthWind.Validation.Entities\\NorthWind.Validation.Entities.csproj",
+        "projectUniqueName": "D:\\PROYECTOS_ESCRITORIO\\ProyectoMoviles\\Movil\\Northwind-Movil\\NorthWind-main\\NorthWind.Validation.Entities\\NorthWind.Validation.Entities.csproj",
         "projectName": "NorthWind.Validation.Entities",
-        "projectPath": "D:\\PROYECTOS_ESCRITORIO\\ProyectoMoviles\\Web\\Northwind\\NorthWind-main\\NorthWind.Validation.Entities\\NorthWind.Validation.Entities.csproj",
+        "projectPath": "D:\\PROYECTOS_ESCRITORIO\\ProyectoMoviles\\Movil\\Northwind-Movil\\NorthWind-main\\NorthWind.Validation.Entities\\NorthWind.Validation.Entities.csproj",
         "packagesPath": "C:\\Users\\BAR KARAOKE\\.nuget\\packages\\",
-        "outputPath": "D:\\PROYECTOS_ESCRITORIO\\ProyectoMoviles\\Web\\Northwind\\NorthWind-main\\NorthWind.Validation.Entities\\obj\\",
+        "outputPath": "D:\\PROYECTOS_ESCRITORIO\\ProyectoMoviles\\Movil\\Northwind-Movil\\NorthWind-main\\NorthWind.Validation.Entities\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -1420,14 +1420,14 @@
         }
       }
     },
-    "D:\\PROYECTOS_ESCRITORIO\\ProyectoMoviles\\Web\\Northwind\\NorthWind-main\\NorthWind.ValidationService.FluentValidation\\NorthWind.ValidationService.FluentValidation.csproj": {
+    "D:\\PROYECTOS_ESCRITORIO\\ProyectoMoviles\\Movil\\Northwind-Movil\\NorthWind-main\\NorthWind.ValidationService.FluentValidation\\NorthWind.ValidationService.FluentValidation.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\PROYECTOS_ESCRITORIO\\ProyectoMoviles\\Web\\Northwind\\NorthWind-main\\NorthWind.ValidationService.FluentValidation\\NorthWind.ValidationService.FluentValidation.csproj",
+        "projectUniqueName": "D:\\PROYECTOS_ESCRITORIO\\ProyectoMoviles\\Movil\\Northwind-Movil\\NorthWind-main\\NorthWind.ValidationService.FluentValidation\\NorthWind.ValidationService.FluentValidation.csproj",
         "projectName": "NorthWind.ValidationService.FluentValidation",
-        "projectPath": "D:\\PROYECTOS_ESCRITORIO\\ProyectoMoviles\\Web\\Northwind\\NorthWind-main\\NorthWind.ValidationService.FluentValidation\\NorthWind.ValidationService.FluentValidation.csproj",
+        "projectPath": "D:\\PROYECTOS_ESCRITORIO\\ProyectoMoviles\\Movil\\Northwind-Movil\\NorthWind-main\\NorthWind.ValidationService.FluentValidation\\NorthWind.ValidationService.FluentValidation.csproj",
         "packagesPath": "C:\\Users\\BAR KARAOKE\\.nuget\\packages\\",
-        "outputPath": "D:\\PROYECTOS_ESCRITORIO\\ProyectoMoviles\\Web\\Northwind\\NorthWind-main\\NorthWind.ValidationService.FluentValidation\\obj\\",
+        "outputPath": "D:\\PROYECTOS_ESCRITORIO\\ProyectoMoviles\\Movil\\Northwind-Movil\\NorthWind-main\\NorthWind.ValidationService.FluentValidation\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -1449,8 +1449,8 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "D:\\PROYECTOS_ESCRITORIO\\ProyectoMoviles\\Web\\Northwind\\NorthWind-main\\NorthWind.Validation.Entities\\NorthWind.Validation.Entities.csproj": {
-                "projectPath": "D:\\PROYECTOS_ESCRITORIO\\ProyectoMoviles\\Web\\Northwind\\NorthWind-main\\NorthWind.Validation.Entities\\NorthWind.Validation.Entities.csproj"
+              "D:\\PROYECTOS_ESCRITORIO\\ProyectoMoviles\\Movil\\Northwind-Movil\\NorthWind-main\\NorthWind.Validation.Entities\\NorthWind.Validation.Entities.csproj": {
+                "projectPath": "D:\\PROYECTOS_ESCRITORIO\\ProyectoMoviles\\Movil\\Northwind-Movil\\NorthWind-main\\NorthWind.Validation.Entities\\NorthWind.Validation.Entities.csproj"
               }
             }
           }

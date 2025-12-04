@@ -216,11 +216,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\PROYECTOS_ESCRITORIO\\ProyectoMoviles\\Web\\Northwind\\NorthWind-main\\NorthWind.Sales.Backend.Presenters\\NorthWind.Sales.Backend.Presenters.csproj",
+      "projectUniqueName": "D:\\PROYECTOS_ESCRITORIO\\ProyectoMoviles\\Movil\\Northwind-Movil\\NorthWind-main\\NorthWind.Sales.Backend.Presenters\\NorthWind.Sales.Backend.Presenters.csproj",
       "projectName": "NorthWind.Sales.Backend.Presenters",
-      "projectPath": "D:\\PROYECTOS_ESCRITORIO\\ProyectoMoviles\\Web\\Northwind\\NorthWind-main\\NorthWind.Sales.Backend.Presenters\\NorthWind.Sales.Backend.Presenters.csproj",
+      "projectPath": "D:\\PROYECTOS_ESCRITORIO\\ProyectoMoviles\\Movil\\Northwind-Movil\\NorthWind-main\\NorthWind.Sales.Backend.Presenters\\NorthWind.Sales.Backend.Presenters.csproj",
       "packagesPath": "C:\\Users\\BAR KARAOKE\\.nuget\\packages\\",
-      "outputPath": "D:\\PROYECTOS_ESCRITORIO\\ProyectoMoviles\\Web\\Northwind\\NorthWind-main\\NorthWind.Sales.Backend.Presenters\\obj\\",
+      "outputPath": "D:\\PROYECTOS_ESCRITORIO\\ProyectoMoviles\\Movil\\Northwind-Movil\\NorthWind-main\\NorthWind.Sales.Backend.Presenters\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -242,8 +242,8 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "D:\\PROYECTOS_ESCRITORIO\\ProyectoMoviles\\Web\\Northwind\\NorthWind-main\\NorthWind.Sales.Backend.BusinessObjects\\NorthWind.Sales.Backend.BusinessObjects.csproj": {
-              "projectPath": "D:\\PROYECTOS_ESCRITORIO\\ProyectoMoviles\\Web\\Northwind\\NorthWind-main\\NorthWind.Sales.Backend.BusinessObjects\\NorthWind.Sales.Backend.BusinessObjects.csproj"
+            "D:\\PROYECTOS_ESCRITORIO\\ProyectoMoviles\\Movil\\Northwind-Movil\\NorthWind-main\\NorthWind.Sales.Backend.BusinessObjects\\NorthWind.Sales.Backend.BusinessObjects.csproj": {
+              "projectPath": "D:\\PROYECTOS_ESCRITORIO\\ProyectoMoviles\\Movil\\Northwind-Movil\\NorthWind-main\\NorthWind.Sales.Backend.BusinessObjects\\NorthWind.Sales.Backend.BusinessObjects.csproj"
             }
           }
         }

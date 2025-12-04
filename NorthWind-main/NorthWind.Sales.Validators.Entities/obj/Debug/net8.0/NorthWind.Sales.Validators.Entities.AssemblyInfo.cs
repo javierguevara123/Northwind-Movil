@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("NorthWind.Sales.Validators.Entities")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+4ef1f60e99b5581d06ca6b2adb551357e79d0b27")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ed5bc23f16f6e17979d84c092302513d1a5bc95c")]
 [assembly: System.Reflection.AssemblyProductAttribute("NorthWind.Sales.Validators.Entities")]
 [assembly: System.Reflection.AssemblyTitleAttribute("NorthWind.Sales.Validators.Entities")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -33,3 +33,15 @@ D:\PROYECTOS_ESCRITORIO\ProyectoMoviles\Northwind\NorthWind-main\NorthWind.Resul
 D:\PROYECTOS_ESCRITORIO\ProyectoMoviles\Northwind\NorthWind-main\NorthWind.Result.Entities\obj\Debug\net8.0\refint\NorthWind.Result.Entities.dll
 D:\PROYECTOS_ESCRITORIO\ProyectoMoviles\Northwind\NorthWind-main\NorthWind.Result.Entities\obj\Debug\net8.0\NorthWind.Result.Entities.pdb
 D:\PROYECTOS_ESCRITORIO\ProyectoMoviles\Northwind\NorthWind-main\NorthWind.Result.Entities\obj\Debug\net8.0\ref\NorthWind.Result.Entities.dll
+D:\PROYECTOS_ESCRITORIO\ProyectoMoviles\Movil\Northwind-Movil\NorthWind-main\NorthWind.Result.Entities\bin\Debug\net8.0\NorthWind.Result.Entities.deps.json
+D:\PROYECTOS_ESCRITORIO\ProyectoMoviles\Movil\Northwind-Movil\NorthWind-main\NorthWind.Result.Entities\bin\Debug\net8.0\NorthWind.Result.Entities.dll
+D:\PROYECTOS_ESCRITORIO\ProyectoMoviles\Movil\Northwind-Movil\NorthWind-main\NorthWind.Result.Entities\bin\Debug\net8.0\NorthWind.Result.Entities.pdb
+D:\PROYECTOS_ESCRITORIO\ProyectoMoviles\Movil\Northwind-Movil\NorthWind-main\NorthWind.Result.Entities\obj\Debug\net8.0\NorthWind.Result.Entities.GeneratedMSBuildEditorConfig.editorconfig
+D:\PROYECTOS_ESCRITORIO\ProyectoMoviles\Movil\Northwind-Movil\NorthWind-main\NorthWind.Result.Entities\obj\Debug\net8.0\NorthWind.Result.Entities.AssemblyInfoInputs.cache
+D:\PROYECTOS_ESCRITORIO\ProyectoMoviles\Movil\Northwind-Movil\NorthWind-main\NorthWind.Result.Entities\obj\Debug\net8.0\NorthWind.Result.Entities.AssemblyInfo.cs
+D:\PROYECTOS_ESCRITORIO\ProyectoMoviles\Movil\Northwind-Movil\NorthWind-main\NorthWind.Result.Entities\obj\Debug\net8.0\NorthWind.Result.Entities.csproj.CoreCompileInputs.cache
+D:\PROYECTOS_ESCRITORIO\ProyectoMoviles\Movil\Northwind-Movil\NorthWind-main\NorthWind.Result.Entities\obj\Debug\net8.0\NorthWind.Result.Entities.sourcelink.json
+D:\PROYECTOS_ESCRITORIO\ProyectoMoviles\Movil\Northwind-Movil\NorthWind-main\NorthWind.Result.Entities\obj\Debug\net8.0\NorthWind.Result.Entities.dll
+D:\PROYECTOS_ESCRITORIO\ProyectoMoviles\Movil\Northwind-Movil\NorthWind-main\NorthWind.Result.Entities\obj\Debug\net8.0\refint\NorthWind.Result.Entities.dll
+D:\PROYECTOS_ESCRITORIO\ProyectoMoviles\Movil\Northwind-Movil\NorthWind-main\NorthWind.Result.Entities\obj\Debug\net8.0\NorthWind.Result.Entities.pdb
+D:\PROYECTOS_ESCRITORIO\ProyectoMoviles\Movil\Northwind-Movil\NorthWind-main\NorthWind.Result.Entities\obj\Debug\net8.0\ref\NorthWind.Result.Entities.dll
