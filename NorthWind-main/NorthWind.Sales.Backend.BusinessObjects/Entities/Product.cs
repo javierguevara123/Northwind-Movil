@@ -10,5 +10,6 @@
         public string Name { get; set; } = string.Empty;
         public short UnitsInStock { get; set; }
         public decimal UnitPrice { get; set; }
+        public string ImageUrl { get; set; }
     }
 }

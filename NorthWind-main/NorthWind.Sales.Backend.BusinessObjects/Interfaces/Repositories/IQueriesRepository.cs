@@ -1,6 +1,5 @@
-﻿using NorthWind.Sales.Entities.Dtos.Customers.GetCustomerById;
-using NorthWind.Sales.Entities.Dtos.Customers.GetCustomers;
-using NorthWind.Sales.Entities.Dtos.Orders.GetOrderById;  // ← AGREGAR
+﻿using NorthWind.Sales.Backend.BusinessObjects.ValueObjects;
+using NorthWind.Sales.Entities.Dtos.Orders.GetOrderById;
 using NorthWind.Sales.Entities.Dtos.Orders.GetOrders;
 using NorthWind.Sales.Entities.Dtos.Products.GetProducts;
 
@@ -8,9 +7,6 @@ namespace NorthWind.Sales.Backend.BusinessObjects.Interfaces.Repositories
 {
     public interface IQueriesRepository
     {
-
-        Task<OrderPagedResultDto> GetOrdersPaged(GetOrdersQueryDto query);
-
         // ========== PRODUCTS ==========
         Task<IEnumerable<ProductDto>> GetAllProducts();
         Task<ProductDto?> GetProductById(int productId);
@@ -20,19 +16,14 @@ namespace NorthWind.Sales.Backend.BusinessObjects.Interfaces.Repositories
         Task<bool> ProductNameExists(string name, int excludeProductId);
         Task<bool> ProductNameExists(string name);
 
-        // ========== CUSTOMERS ==========
-        Task<decimal?> GetCustomerCurrentBalance(string customerId);
-        Task<bool> CustomerHasPendingOrders(string customerId);
-        Task<CustomerPagedResultDto> GetCustomersPaged(GetCustomersQueryDto query);
-        Task<CustomerDetailDto?> GetCustomerById(string customerId);
-        Task<bool> CustomerExists(string customerId);
-        Task<bool> CustomerNameExists(string name);
-        Task<bool> CustomerNameExists(string name, string excludeCustomerId);
-
-        // ========== PRODUCTS & CUSTOMERS (HELPERS) ==========
+        // ========== HELPERS ==========
         Task<IEnumerable<ProductUnitsInStock>> GetProductsUnitsInStock(IEnumerable<int> productIds);
 
-        // ========== ORDERS ========== ← AGREGAR ESTA SECCIÓN
+        // ========== ORDERS ==========
+
+        // Obtiene las órdenes paginadas (filtradas por UserId dentro del query DTO)
+        Task<OrderPagedResultDto> GetOrdersPaged(GetOrdersQueryDto query);
+
         /// <summary>
         /// Obtiene una orden por ID con todos sus detalles.
         /// </summary>
@@ -42,5 +33,7 @@ namespace NorthWind.Sales.Backend.BusinessObjects.Interfaces.Repositories
         /// Verifica si una orden existe por su ID.
         /// </summary>
         Task<bool> OrderExists(int orderId);
+
+        // ELIMINADO: Task<decimal?> GetCustomerCurrentBalance(string customerId);
     }
 }

@@ -1,5 +1,4 @@
-﻿
-using NorthWind.Sales.Backend.Repositories.Entities;
+﻿using NorthWind.Sales.Backend.Repositories.Entities;
 
 namespace NorthWind.Sales.Backend.DataContexts.EFCore.DataContexts;
 
@@ -7,18 +6,16 @@ internal class NorthWindSalesContext(IOptions<DBOptions> dbOptions) : DbContext
 {
     public DbSet<Order> Orders { get; set; }
     public DbSet<OrderDetail> OrderDetails { get; set; }
-    public DbSet<Customer> Customers { get; set; }
+    // ELIMINADO: public DbSet<Customer> Customers { get; set; } 
     public DbSet<Product> Products { get; set; }
 
-    protected override void OnConfiguring(
-        DbContextOptionsBuilder optionsBuilder)
+    protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
     {
-        optionsBuilder.UseSqlServer(
-        dbOptions.Value.ConnectionString);
+        optionsBuilder.UseSqlServer(dbOptions.Value.ConnectionString);
     }
+
     protected override void OnModelCreating(ModelBuilder modelBuilder)
     {
-        modelBuilder.ApplyConfigurationsFromAssembly(
-        Assembly.GetExecutingAssembly());
+        modelBuilder.ApplyConfigurationsFromAssembly(Assembly.GetExecutingAssembly());
     }
 }

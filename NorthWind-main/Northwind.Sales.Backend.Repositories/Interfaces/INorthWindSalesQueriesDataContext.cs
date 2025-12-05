@@ -5,7 +5,6 @@ namespace NorthWind.Sales.Backend.Repositories.Interfaces
     public interface INorthWindSalesQueriesDataContext
     {
         // ========== DbSets ==========
-        IQueryable<Customer> Customers { get; }
         IQueryable<Product> Products { get; }
         IQueryable<Order> Orders { get; }
         IQueryable<OrderDetail> OrderDetails { get; }

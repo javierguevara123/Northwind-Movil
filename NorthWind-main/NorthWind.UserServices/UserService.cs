@@ -1,23 +1,22 @@
 ﻿using Microsoft.AspNetCore.Http;
 using NorthWind.Entities.Interfaces;
-using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
+using System.Security.Claims;
 
 namespace NorthWind.UserServices
 {
-    internal class UserService(IHttpContextAccessor contextAccesor) : IUserService
+    public class UserService(IHttpContextAccessor context) : IUserService
     {
-        public bool IsAuthenticated =>
-       contextAccesor.HttpContext.User.Identity.IsAuthenticated;
-        public string UserName =>
-       contextAccesor.HttpContext.User.Identity.Name;
-        public string FullName =>
-       contextAccesor.HttpContext.User.Claims
-       .Where(c => c.Type == "FullName")
-       .Select(c => c.Value).FirstOrDefault();
-    }
+        public string UserId =>
+            context.HttpContext?.User?.FindFirst(ClaimTypes.NameIdentifier)?.Value;
 
+        public bool IsAuthenticated =>
+            context.HttpContext?.User?.Identity?.IsAuthenticated ?? false;
+
+        public string UserName =>
+            context.HttpContext?.User?.Identity?.Name;
+
+        // Puedes mapear el nombre completo si lo tienes en los claims, o usar el UserName por defecto
+        public string FullName =>
+            context.HttpContext?.User?.FindFirst(ClaimTypes.GivenName)?.Value ?? UserName;
+    }
 }

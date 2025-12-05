@@ -5,188 +5,6 @@
     "version": "1.0"
   },
   "paths": {
-    "/CreateCustomer": {
-      "post": {
-        "tags": [
-          "CustomersController"
-        ],
-        "requestBody": {
-          "content": {
-            "application/json": {
-              "schema": {
-                "$ref": "#/components/schemas/CreateCustomerDto"
-              }
-            }
-          },
-          "required": true
-        },
-        "responses": {
-          "200": {
-            "description": "OK",
-            "content": {
-              "application/json": {
-                "schema": {
-                  "type": "string"
-                }
-              }
-            }
-          }
-        }
-      }
-    },
-    "/DeleteCustomer/{id}": {
-      "delete": {
-        "tags": [
-          "CustomersController"
-        ],
-        "operationId": "DeleteCustomer",
-        "parameters": [
-          {
-            "name": "id",
-            "in": "path",
-            "required": true,
-            "schema": {
-              "type": "string"
-            }
-          }
-        ],
-        "responses": {
-          "200": {
-            "description": "OK"
-          }
-        }
-      }
-    },
-    "/api/customers": {
-      "get": {
-        "tags": [
-          "CustomersController"
-        ],
-        "operationId": "GetCustomers",
-        "parameters": [
-          {
-            "name": "PageNumber",
-            "in": "query",
-            "required": true,
-            "schema": {
-              "type": "integer",
-              "format": "int32"
-            }
-          },
-          {
-            "name": "PageSize",
-            "in": "query",
-            "required": true,
-            "schema": {
-              "type": "integer",
-              "format": "int32"
-            }
-          },
-          {
-            "name": "SearchTerm",
-            "in": "query",
-            "schema": {
-              "type": "string"
-            }
-          },
-          {
-            "name": "City",
-            "in": "query",
-            "schema": {
-              "type": "string"
-            }
-          },
-          {
-            "name": "Country",
-            "in": "query",
-            "schema": {
-              "type": "string"
-            }
-          },
-          {
-            "name": "OrderBy",
-            "in": "query",
-            "schema": {
-              "type": "string"
-            }
-          },
-          {
-            "name": "OrderDescending",
-            "in": "query",
-            "required": true,
-            "schema": {
-              "type": "boolean"
-            }
-          }
-        ],
-        "responses": {
-          "200": {
-            "description": "OK",
-            "content": {
-              "application/json": {
-                "schema": {
-                  "$ref": "#/components/schemas/CustomerPagedResultDto"
-                }
-              }
-            }
-          }
-        }
-      }
-    },
-    "/GetCustomerById/{id}": {
-      "get": {
-        "tags": [
-          "CustomersController"
-        ],
-        "parameters": [
-          {
-            "name": "id",
-            "in": "path",
-            "required": true,
-            "schema": {
-              "type": "string"
-            }
-          }
-        ],
-        "responses": {
-          "200": {
-            "description": "OK"
-          }
-        }
-      }
-    },
-    "/UpdateCustomer/{id}": {
-      "put": {
-        "tags": [
-          "CustomersController"
-        ],
-        "parameters": [
-          {
-            "name": "id",
-            "in": "path",
-            "required": true,
-            "schema": {
-              "type": "string"
-            }
-          }
-        ],
-        "requestBody": {
-          "content": {
-            "application/json": {
-              "schema": {
-                "$ref": "#/components/schemas/UpdateCustomerDto"
-              }
-            }
-          },
-          "required": true
-        },
-        "responses": {
-          "200": {
-            "description": "OK"
-          }
-        }
-      }
-    },
     "/user/Register": {
       "post": {
         "tags": [
@@ -834,24 +652,6 @@
         },
         "additionalProperties": false
       },
-      "CreateCustomerDto": {
-        "type": "object",
-        "properties": {
-          "id": {
-            "type": "string",
-            "nullable": true
-          },
-          "name": {
-            "type": "string",
-            "nullable": true
-          },
-          "currentBalance": {
-            "type": "number",
-            "format": "double"
-          }
-        },
-        "additionalProperties": false
-      },
       "CreateOrderDetailDto": {
         "type": "object",
         "properties": {
@@ -873,10 +673,6 @@
       "CreateOrderDto": {
         "type": "object",
         "properties": {
-          "customerId": {
-            "type": "string",
-            "nullable": true
-          },
           "shipAddress": {
             "type": "string",
             "nullable": true
@@ -917,41 +713,6 @@
           "unitPrice": {
             "type": "number",
             "format": "double"
-          }
-        },
-        "additionalProperties": false
-      },
-      "CustomerListItemDto": {
-        "type": "object",
-        "properties": {
-          "id": {
-            "type": "string",
-            "nullable": true
-          },
-          "name": {
-            "type": "string",
-            "nullable": true
-          },
-          "currentBalance": {
-            "type": "number",
-            "format": "double"
-          }
-        },
-        "additionalProperties": false
-      },
-      "CustomerPagedResultDto": {
-        "type": "object",
-        "properties": {
-          "customers": {
-            "type": "array",
-            "items": {
-              "$ref": "#/components/schemas/CustomerListItemDto"
-            },
-            "nullable": true
-          },
-          "totalRecords": {
-            "type": "integer",
-            "format": "int32"
           }
         },
         "additionalProperties": false
@@ -1130,6 +891,10 @@
             "type": "number",
             "format": "double"
           },
+          "imageUrl": {
+            "type": "string",
+            "nullable": true
+          },
           "totalValue": {
             "type": "number",
             "format": "double",
@@ -1186,24 +951,6 @@
           "email": {
             "type": "string",
             "nullable": true
-          }
-        },
-        "additionalProperties": false
-      },
-      "UpdateCustomerDto": {
-        "type": "object",
-        "properties": {
-          "customerId": {
-            "type": "string",
-            "nullable": true
-          },
-          "name": {
-            "type": "string",
-            "nullable": true
-          },
-          "currentBalance": {
-            "type": "number",
-            "format": "double"
           }
         },
         "additionalProperties": false

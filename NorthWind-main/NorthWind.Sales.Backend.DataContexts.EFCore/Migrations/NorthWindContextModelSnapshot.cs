@@ -30,12 +30,6 @@ namespace NorthWind.Sales.Backend.DataContexts.EFCore.Migrations
 
                     SqlServerPropertyBuilderExtensions.UseIdentityColumn(b.Property<int>("Id"));
 
-                    b.Property<string>("CustomerId")
-                        .IsRequired()
-                        .HasMaxLength(5)
-                        .HasColumnType("nchar(5)")
-                        .IsFixedLength();
-
                     b.Property<double>("Discount")
                         .HasColumnType("float");
 
@@ -68,52 +62,14 @@ namespace NorthWind.Sales.Backend.DataContexts.EFCore.Migrations
                     b.Property<int>("ShippingType")
                         .HasColumnType("int");
 
-                    b.HasKey("Id");
-
-                    b.HasIndex("CustomerId");
-
-                    b.ToTable("Orders");
-                });
-
-            modelBuilder.Entity("NorthWind.Sales.Backend.Repositories.Entities.Customer", b =>
-                {
-                    b.Property<string>("Id")
-                        .HasMaxLength(5)
-                        .HasColumnType("nchar(5)")
-                        .IsFixedLength();
-
-                    b.Property<decimal>("CurrentBalance")
-                        .HasPrecision(8, 2)
-                        .HasColumnType("decimal(8,2)");
-
-                    b.Property<string>("Name")
+                    b.Property<string>("UserId")
                         .IsRequired()
                         .HasMaxLength(40)
                         .HasColumnType("nvarchar(40)");
 
                     b.HasKey("Id");
 
-                    b.ToTable("Customers");
-
-                    b.HasData(
-                        new
-                        {
-                            Id = "ALFKI",
-                            CurrentBalance = 0m,
-                            Name = "Alfreds Futterkiste"
-                        },
-                        new
-                        {
-                            Id = "ANATR",
-                            CurrentBalance = 0m,
-                            Name = "Ana Trujillo Emparedados y helados"
-                        },
-                        new
-                        {
-                            Id = "ANTON",
-                            CurrentBalance = 100m,
-                            Name = "Antonio Moreno Taquería"
-                        });
+                    b.ToTable("Orders");
                 });
 
             modelBuilder.Entity("NorthWind.Sales.Backend.Repositories.Entities.OrderDetail", b =>
@@ -146,6 +102,11 @@ namespace NorthWind.Sales.Backend.DataContexts.EFCore.Migrations
 
                     SqlServerPropertyBuilderExtensions.UseIdentityColumn(b.Property<int>("Id"));
 
+                    b.Property<string>("ImageUrl")
+                        .IsRequired()
+                        .HasMaxLength(500)
+                        .HasColumnType("nvarchar(500)");
+
                     b.Property<string>("Name")
                         .IsRequired()
                         .HasMaxLength(40)
@@ -166,6 +127,7 @@ namespace NorthWind.Sales.Backend.DataContexts.EFCore.Migrations
                         new
                         {
                             Id = 1,
+                            ImageUrl = "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Masala_Chai.jpg/640px-Masala_Chai.jpg",
                             Name = "Chai",
                             UnitPrice = 35m,
                             UnitsInStock = (short)20
@@ -173,6 +135,7 @@ namespace NorthWind.Sales.Backend.DataContexts.EFCore.Migrations
                         new
                         {
                             Id = 2,
+                            ImageUrl = "https://upload.wikimedia.org/wikipedia/commons/a/a7/Chang_beer_logo.jpg",
                             Name = "Chang",
                             UnitPrice = 55m,
                             UnitsInStock = (short)0
@@ -180,6 +143,7 @@ namespace NorthWind.Sales.Backend.DataContexts.EFCore.Migrations
                         new
                         {
                             Id = 3,
+                            ImageUrl = "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR_u2J8i7qW_XzZ1KqY1w&s",
                             Name = "Aniseed Syrup",
                             UnitPrice = 65m,
                             UnitsInStock = (short)20
@@ -187,6 +151,7 @@ namespace NorthWind.Sales.Backend.DataContexts.EFCore.Migrations
                         new
                         {
                             Id = 4,
+                            ImageUrl = "https://m.media-amazon.com/images/I/81+M+D1+L._AC_SL1500_.jpg",
                             Name = "Chef Anton's Cajun Seasoning",
                             UnitPrice = 75m,
                             UnitsInStock = (short)40
@@ -194,19 +159,11 @@ namespace NorthWind.Sales.Backend.DataContexts.EFCore.Migrations
                         new
                         {
                             Id = 5,
+                            ImageUrl = "https://www.cajungrocer.com/media/catalog/product/cache/1/image/9df78eab33525d08d6e5fb8d27136e95/c/h/chef-antons-gumbo-mix.jpg",
                             Name = "Chef Anton's Gumbo Mix",
                             UnitPrice = 50m,
                             UnitsInStock = (short)20
                         });
-                });
-
-            modelBuilder.Entity("NorthWind.Sales.Backend.BusinessObjects.POCOEntities.Order", b =>
-                {
-                    b.HasOne("NorthWind.Sales.Backend.Repositories.Entities.Customer", null)
-                        .WithMany()
-                        .HasForeignKey("CustomerId")
-                        .OnDelete(DeleteBehavior.Cascade)
-                        .IsRequired();
                 });
 
             modelBuilder.Entity("NorthWind.Sales.Backend.Repositories.Entities.OrderDetail", b =>

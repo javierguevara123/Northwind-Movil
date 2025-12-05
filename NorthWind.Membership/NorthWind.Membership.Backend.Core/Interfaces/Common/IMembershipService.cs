@@ -11,7 +11,9 @@ namespace NorthWind.Membership.Backend.Core.Interfaces.Common
     public interface IMembershipService
     {
         // Registro y Login
-        Task<Result<IEnumerable<ValidationError>>> Register(UserRegistrationDto userData, string role = "Employee");
+        // CAMBIO: 'role' por defecto ahora es "Customer" para el flujo B2C
+        Task<Result<IEnumerable<ValidationError>>> Register(UserRegistrationDto userData, string role = "Customer");
+
         Task<UserDto> GetUserByCredentials(UserCredentialsDto userData);
 
         // Gestión de Bloqueos

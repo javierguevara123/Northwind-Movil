@@ -6,14 +6,9 @@ Update-Database -p NorthWind.Sales.Backend.DataContexts.EFCore -s NorthWind.Sale
 Add-Migration InitialCreate -p NorthWind.Sales.Backend.DataContexts.EFCore -s NorthWind.Sales.Backend.DataContexts.EFCore -c NorthWindDomainLogsContext
 Update-Database -p NorthWind.Sales.Backend.DataContexts.EFCore -s NorthWind.Sales.Backend.DataContexts.EFCore -context NorthWindDomainLogsContext
 
-dotnet pack -o "D:\PROYECTOS_ESCRITORIO\ProyectoMoviles\Web\Northwind\NorthWind.Packages" --include-source
+dotnet pack -o "D:\PROYECTOS_ESCRITORIO\ProyectoMoviles\Movil\Northwind-Movil\NorthWind.Packages" --include-source
 
-Add-Migration CorrectionOrders -p NorthWind.Sales.Backend.DataContexts.EFCore -s NorthWind.Sales.Backend.DataContexts.EFCore -c NorthWindContext
-Update-Database -p NorthWind.Sales.Backend.DataContexts.EFCore -s NorthWind.Sales.Backend.DataContexts.EFCore -context NorthWindContext
 
-Add-Migration  AddRolesAndLockout -s NorthWind.Membership.Backend.AspNetIdentity -p NorthWind.Membership.Backend.AspNetIdentity
-Update-Database -s NorthWind.Membership.Backend.AspNetIdentity -p NorthWind.Membership.Backend.AspNetIdentity
-
-Add-Migration  AddCedulaToUsers -s NorthWind.Membership.Backend.AspNetIdentity -p NorthWind.Membership.Backend.AspNetIdentity
+Add-Migration  InitialCreate -s NorthWind.Membership.Backend.AspNetIdentity -p NorthWind.Membership.Backend.AspNetIdentity
 Update-Database -s NorthWind.Membership.Backend.AspNetIdentity -p NorthWind.Membership.Backend.AspNetIdentity
 

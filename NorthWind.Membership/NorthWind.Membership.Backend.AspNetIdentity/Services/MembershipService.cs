@@ -19,8 +19,8 @@ namespace NorthWind.Membership.Backend.AspNetIdentity.Services
         RoleManager<IdentityRole> roleManager) : IMembershipService
     {
         public async Task<Result<IEnumerable<ValidationError>>> Register(
-    UserRegistrationDto userData,
-    string role = "Employee")
+            UserRegistrationDto userData,
+            string role = "Customer")
         {
             Result<IEnumerable<ValidationError>> Result;
 
@@ -38,13 +38,19 @@ namespace NorthWind.Membership.Backend.AspNetIdentity.Services
                 Email = userData.Email,
                 FirstName = userData.FirstName,
                 LastName = userData.LastName,
-                Cedula = userData.Cedula  // ← NUEVO
+                Cedula = userData.Cedula
             };
 
             var CreateResult = await manager.CreateAsync(User, userData.Password);
 
             if (CreateResult.Succeeded)
             {
+                // Aseguramos que si el rol no existe, se intente crear (o fallará si no se corrió el Seeder)
+                if (!await roleManager.RoleExistsAsync(role))
+                {
+                    await roleManager.CreateAsync(new IdentityRole(role));
+                }
+
                 await manager.AddToRoleAsync(User, role);
                 Result = new Result<IEnumerable<ValidationError>>();
             }
@@ -69,11 +75,13 @@ namespace NorthWind.Membership.Backend.AspNetIdentity.Services
                     await manager.ResetAccessFailedCountAsync(User);
                     var roles = await manager.GetRolesAsync(User);
 
+                    // CAMBIO 2: Pasamos User.Id al DTO para que el JWT lo incluya
                     FoundUser = new UserDto(
+                        User.Id,      // <--- NUEVO
                         User.UserName,
                         User.FirstName,
                         User.LastName,
-                        User.Cedula,  // ← NUEVO
+                        User.Cedula,
                         roles);
                 }
                 else
@@ -253,7 +261,8 @@ namespace NorthWind.Membership.Backend.AspNetIdentity.Services
 
         public async Task InitializeRoles()
         {
-            string[] roles = { "SuperUser", "Administrator", "Employee" };
+            // CAMBIO 3: Agregar "Customer" a los roles del sistema
+            string[] roles = { "SuperUser", "Administrator", "Customer" };
 
             foreach (var role in roles)
             {

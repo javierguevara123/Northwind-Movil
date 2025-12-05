@@ -6,12 +6,12 @@
   "compilationOptions": {},
   "targets": {
     ".NETCoreApp,Version=v8.0": {
-      "NorthWind.Membership.Backend.AspNetIdentity/1.0.9": {
+      "NorthWind.Membership.Backend.AspNetIdentity/1.1.0": {
         "dependencies": {
           "Microsoft.AspNetCore.Identity.EntityFrameworkCore": "8.0.1",
           "Microsoft.EntityFrameworkCore.SqlServer": "9.0.8",
           "Microsoft.EntityFrameworkCore.Tools": "9.0.8",
-          "NorthWind.Membership.Backend.Core": "1.1.1"
+          "NorthWind.Membership.Backend.Core": "1.1.2"
         },
         "runtime": {
           "NorthWind.Membership.Backend.AspNetIdentity.dll": {}
@@ -794,7 +794,7 @@
           }
         }
       },
-      "NorthWind.Membership.Backend.Core/1.1.1": {
+      "NorthWind.Membership.Backend.Core/1.1.2": {
         "dependencies": {
           "Microsoft.IdentityModel.JsonWebTokens": "8.14.0",
           "NorthWind.Membership.Entities": "1.0.9",
@@ -802,8 +802,8 @@
         },
         "runtime": {
           "lib/net8.0/NorthWind.Membership.Backend.Core.dll": {
-            "assemblyVersion": "1.1.1.0",
-            "fileVersion": "1.1.1.0"
+            "assemblyVersion": "1.1.2.0",
+            "fileVersion": "1.1.2.0"
           }
         }
       },
@@ -1123,7 +1123,7 @@
     }
   },
   "libraries": {
-    "NorthWind.Membership.Backend.AspNetIdentity/1.0.9": {
+    "NorthWind.Membership.Backend.AspNetIdentity/1.1.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""
@@ -1457,12 +1457,12 @@
       "path": "mono.texttemplating/3.0.0",
       "hashPath": "mono.texttemplating.3.0.0.nupkg.sha512"
     },
-    "NorthWind.Membership.Backend.Core/1.1.1": {
+    "NorthWind.Membership.Backend.Core/1.1.2": {
       "type": "package",
       "serviceable": true,
-      "sha512": "sha512-owyVkDg/8ZAxVyw6iqE/ySTdZGvqCsuScZKfArYTOOxRFSo1PoXRVT2J9XfdALCouOVvycpU3lew4MFb8scQhA==",
-      "path": "northwind.membership.backend.core/1.1.1",
-      "hashPath": "northwind.membership.backend.core.1.1.1.nupkg.sha512"
+      "sha512": "sha512-5eKHkf8F4xhRii/uD7yld0hWG9QNA3bocqrswKQCH6qmUh7+hcrO5KNq8D41w7TY0Jktzw7k4w5I3Vjg79zvjg==",
+      "path": "northwind.membership.backend.core/1.1.2",
+      "hashPath": "northwind.membership.backend.core.1.1.2.nupkg.sha512"
     },
     "NorthWind.Membership.Entities/1.0.9": {
       "type": "package",

@@ -60,39 +60,28 @@ public class OrderAggregate : Order
     OrderDetailsField.Add(new OrderDetail(productId, unitPrice, quantity));
   }
 
-  //  Del exterior (UI) se recibe un "Dto" con los datos de la orden.
-  //  Este método permite "CONVERTIR" un "Dto" en un aggregate. 
-  //  Esto se puede hacer con un framework como "Automapper".
-  //  Se regresa un "OrderAggregate" a partir de un "CreateOrderDto".
-  public static OrderAggregate From(CreateOrderDto orderDto)
-  {
-    //  Mapear el "Maestro".
-    //  Mapear a partir de un "Dto" hacia un "Aggregate".
-    OrderAggregate OrderAggregate = new OrderAggregate
+    //  Del exterior (UI) se recibe un "Dto" con los datos de la orden.
+    //  Este método permite "CONVERTIR" un "Dto" en un aggregate. 
+    //  Esto se puede hacer con un framework como "Automapper".
+    //  Se regresa un "OrderAggregate" a partir de un "CreateOrderDto".
+    public static OrderAggregate From(CreateOrderDto orderDto, string userId)
     {
-      CustomerId = orderDto.CustomerId,
-      ShipAddress = orderDto.ShipAddress,
-      ShipCity = orderDto.ShipCity,
-      ShipCountry = orderDto.ShipCountry,
-      ShipPostalCode = orderDto.ShipPostalCode
+        OrderAggregate OrderAggregate = new OrderAggregate
+        {
+            // Asignamos el ID del usuario autenticado
+            UserId = userId,
 
+            ShipAddress = orderDto.ShipAddress,
+            ShipCity = orderDto.ShipCity,
+            ShipCountry = orderDto.ShipCountry,
+            ShipPostalCode = orderDto.ShipPostalCode
+        };
 
-      // NOTA: Las siguientes reglas de negocio tambien se pueden poner aqui:
-      //public ShippingType ShippingType { get; set; } = ShippingType.Road;
-      //public DiscountType DiscountType { get; set; } = DiscountType.Percentage;
-      //public double Discount { get; set; } = 10;
-      //public DateTime OrderDate { get; set; } = DateTime.Now;
-    };
+        foreach (var Item in orderDto.OrderDetails)
+        {
+            OrderAggregate.AddDetail(Item.ProductId, Item.UnitPrice, Item.Quantity);
+        }
 
-    //  Mapear el "Detalle".
-    //  Mapear los detalles de la orden.
-    foreach (var Item in orderDto.OrderDetails)
-    {
-      //  Agregar cada item del Dto "orderDto" al detalle del "aggregate".
-      OrderAggregate.AddDetail(Item.ProductId, Item.UnitPrice, Item.Quantity);
+        return OrderAggregate;
     }
-
-    //  Regresar el objeto "mapeado" de Dto a Aggregate.
-    return OrderAggregate;
-  }
 }

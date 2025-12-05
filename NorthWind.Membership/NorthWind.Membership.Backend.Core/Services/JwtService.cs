@@ -21,15 +21,21 @@ namespace NorthWind.Membership.Backend.Core.Services
         {
             var claims = new List<Claim>
             {
+                // CAMBIO CRÍTICO: Agregar el ID del usuario como NameIdentifier
+                new Claim(ClaimTypes.NameIdentifier, userDto.Id),
+
                 new Claim(ClaimTypes.Name, userDto.Email),
                 new Claim("FullName", $"{userDto.FirstName} {userDto.LastName}"),
-                //new Claim("Cedula", userDto.Cedula) OPCIONAL SI LO NECESITO EN EL FRONT
+                new Claim("Cedula", userDto.Cedula ?? "") // Manejo de nulos por seguridad
             };
 
             // Agregar roles como claims
-            foreach (var role in userDto.Roles)
+            if (userDto.Roles != null)
             {
-                claims.Add(new Claim(ClaimTypes.Role, role));
+                foreach (var role in userDto.Roles)
+                {
+                    claims.Add(new Claim(ClaimTypes.Role, role));
+                }
             }
 
             return claims;

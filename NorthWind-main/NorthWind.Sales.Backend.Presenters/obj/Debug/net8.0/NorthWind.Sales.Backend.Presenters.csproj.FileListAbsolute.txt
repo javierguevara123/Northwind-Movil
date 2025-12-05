@@ -140,6 +140,12 @@ D:\PROYECTOS_ESCRITORIO\ProyectoMoviles\Web\Northwind\NorthWind-main\NorthWind.S
 D:\PROYECTOS_ESCRITORIO\ProyectoMoviles\Web\Northwind\NorthWind-main\NorthWind.Sales.Backend.Presenters\obj\Debug\net8.0\refint\NorthWind.Sales.Backend.Presenters.dll
 D:\PROYECTOS_ESCRITORIO\ProyectoMoviles\Web\Northwind\NorthWind-main\NorthWind.Sales.Backend.Presenters\obj\Debug\net8.0\NorthWind.Sales.Backend.Presenters.pdb
 D:\PROYECTOS_ESCRITORIO\ProyectoMoviles\Web\Northwind\NorthWind-main\NorthWind.Sales.Backend.Presenters\obj\Debug\net8.0\ref\NorthWind.Sales.Backend.Presenters.dll
+D:\PROYECTOS_ESCRITORIO\ProyectoMoviles\Movil\Northwind-Movil\NorthWind-main\NorthWind.Sales.Backend.Presenters\obj\Debug\net8.0\NorthWind.Sales.Backend.Presenters.csproj.AssemblyReference.cache
+D:\PROYECTOS_ESCRITORIO\ProyectoMoviles\Movil\Northwind-Movil\NorthWind-main\NorthWind.Sales.Backend.Presenters\obj\Debug\net8.0\NorthWind.Sales.Backend.Presenters.GeneratedMSBuildEditorConfig.editorconfig
+D:\PROYECTOS_ESCRITORIO\ProyectoMoviles\Movil\Northwind-Movil\NorthWind-main\NorthWind.Sales.Backend.Presenters\obj\Debug\net8.0\NorthWind.Sales.Backend.Presenters.AssemblyInfoInputs.cache
+D:\PROYECTOS_ESCRITORIO\ProyectoMoviles\Movil\Northwind-Movil\NorthWind-main\NorthWind.Sales.Backend.Presenters\obj\Debug\net8.0\NorthWind.Sales.Backend.Presenters.AssemblyInfo.cs
+D:\PROYECTOS_ESCRITORIO\ProyectoMoviles\Movil\Northwind-Movil\NorthWind-main\NorthWind.Sales.Backend.Presenters\obj\Debug\net8.0\NorthWind.Sales.Backend.Presenters.csproj.CoreCompileInputs.cache
+D:\PROYECTOS_ESCRITORIO\ProyectoMoviles\Movil\Northwind-Movil\NorthWind-main\NorthWind.Sales.Backend.Presenters\obj\Debug\net8.0\NorthWind.Sales.Backend.Presenters.sourcelink.json
 D:\PROYECTOS_ESCRITORIO\ProyectoMoviles\Movil\Northwind-Movil\NorthWind-main\NorthWind.Sales.Backend.Presenters\bin\Debug\net8.0\NorthWind.Sales.Backend.Presenters.deps.json
 D:\PROYECTOS_ESCRITORIO\ProyectoMoviles\Movil\Northwind-Movil\NorthWind-main\NorthWind.Sales.Backend.Presenters\bin\Debug\net8.0\NorthWind.Sales.Backend.Presenters.dll
 D:\PROYECTOS_ESCRITORIO\ProyectoMoviles\Movil\Northwind-Movil\NorthWind-main\NorthWind.Sales.Backend.Presenters\bin\Debug\net8.0\NorthWind.Sales.Backend.Presenters.pdb
@@ -159,12 +165,6 @@ D:\PROYECTOS_ESCRITORIO\ProyectoMoviles\Movil\Northwind-Movil\NorthWind-main\Nor
 D:\PROYECTOS_ESCRITORIO\ProyectoMoviles\Movil\Northwind-Movil\NorthWind-main\NorthWind.Sales.Backend.Presenters\bin\Debug\net8.0\NorthWind.Sales.Entities.pdb
 D:\PROYECTOS_ESCRITORIO\ProyectoMoviles\Movil\Northwind-Movil\NorthWind-main\NorthWind.Sales.Backend.Presenters\bin\Debug\net8.0\NorthWind.Transactions.Entities.pdb
 D:\PROYECTOS_ESCRITORIO\ProyectoMoviles\Movil\Northwind-Movil\NorthWind-main\NorthWind.Sales.Backend.Presenters\bin\Debug\net8.0\NorthWind.Validation.Entities.pdb
-D:\PROYECTOS_ESCRITORIO\ProyectoMoviles\Movil\Northwind-Movil\NorthWind-main\NorthWind.Sales.Backend.Presenters\obj\Debug\net8.0\NorthWind.Sales.Backend.Presenters.csproj.AssemblyReference.cache
-D:\PROYECTOS_ESCRITORIO\ProyectoMoviles\Movil\Northwind-Movil\NorthWind-main\NorthWind.Sales.Backend.Presenters\obj\Debug\net8.0\NorthWind.Sales.Backend.Presenters.GeneratedMSBuildEditorConfig.editorconfig
-D:\PROYECTOS_ESCRITORIO\ProyectoMoviles\Movil\Northwind-Movil\NorthWind-main\NorthWind.Sales.Backend.Presenters\obj\Debug\net8.0\NorthWind.Sales.Backend.Presenters.AssemblyInfoInputs.cache
-D:\PROYECTOS_ESCRITORIO\ProyectoMoviles\Movil\Northwind-Movil\NorthWind-main\NorthWind.Sales.Backend.Presenters\obj\Debug\net8.0\NorthWind.Sales.Backend.Presenters.AssemblyInfo.cs
-D:\PROYECTOS_ESCRITORIO\ProyectoMoviles\Movil\Northwind-Movil\NorthWind-main\NorthWind.Sales.Backend.Presenters\obj\Debug\net8.0\NorthWind.Sales.Backend.Presenters.csproj.CoreCompileInputs.cache
-D:\PROYECTOS_ESCRITORIO\ProyectoMoviles\Movil\Northwind-Movil\NorthWind-main\NorthWind.Sales.Backend.Presenters\obj\Debug\net8.0\NorthWind.Sales.Backend.Presenters.sourcelink.json
 D:\PROYECTOS_ESCRITORIO\ProyectoMoviles\Movil\Northwind-Movil\NorthWind-main\NorthWind.Sales.Backend.Presenters\obj\Debug\net8.0\NorthWin.A115594D.Up2Date
 D:\PROYECTOS_ESCRITORIO\ProyectoMoviles\Movil\Northwind-Movil\NorthWind-main\NorthWind.Sales.Backend.Presenters\obj\Debug\net8.0\NorthWind.Sales.Backend.Presenters.dll
 D:\PROYECTOS_ESCRITORIO\ProyectoMoviles\Movil\Northwind-Movil\NorthWind-main\NorthWind.Sales.Backend.Presenters\obj\Debug\net8.0\refint\NorthWind.Sales.Backend.Presenters.dll

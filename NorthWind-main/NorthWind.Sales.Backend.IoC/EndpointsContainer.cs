@@ -8,7 +8,6 @@ public static class EndpointsContainer
         app.UseOrdersController();
         app.UseMembershipEndpoints();
         app.UseProductsController();
-        app.UseCustomersController();
 
         return app;
     }

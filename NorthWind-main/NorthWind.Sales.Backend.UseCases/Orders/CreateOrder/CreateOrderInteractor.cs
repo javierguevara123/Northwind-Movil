@@ -66,7 +66,7 @@ internal class CreateOrderInteractor(ICreateOrderOutputPort outputPort,
         await GuardModel.AgainstNotValid(modelValidatorHub, orderDto);
         await domainLogger.LogInformation(new DomainLog(CreateOrderMessages.StartingPurchaseOrderCreation, userService.UserName));
 
-        OrderAggregate Order = OrderAggregate.From(orderDto);
+        OrderAggregate Order = OrderAggregate.From(orderDto, userService.UserId);
 
         try
         {

@@ -12,7 +12,7 @@ namespace NorthWind.Membership.Backend.AspNetIdentity.DataContexts
             Microsoft.Extensions.Options.Options.Create(new MembershipDBOptions()
             {
                 ConnectionString =
-                "Data Source=JAVIER;Initial Catalog=NorthWindUsersDB;Integrated Security=True;Trust Server Certificate=True"
+                "Data Source=JAVIER;Initial Catalog=NorthWindUsersDBM;Integrated Security=True;Trust Server Certificate=True"
             });
             return new NorthWindMembershipContext(DbOptions);
         }

@@ -13,9 +13,4 @@ public class Endpoints
     public const string DeleteProduct = $"/{nameof(DeleteProduct)}/{{id:int}}";
     public const string GetProductById = $"/{nameof(GetProductById)}/{{id:int}}";
 
-    // Customers
-    public const string CreateCustomer = $"/{nameof(CreateCustomer)}";
-    public const string UpdateCustomer = $"/{nameof(UpdateCustomer)}/{{id}}";
-    public const string DeleteCustomer = $"/{nameof(DeleteCustomer)}/{{id}}";
-    public const string GetCustomerById = $"/{nameof(GetCustomerById)}/{{id}}";
 }

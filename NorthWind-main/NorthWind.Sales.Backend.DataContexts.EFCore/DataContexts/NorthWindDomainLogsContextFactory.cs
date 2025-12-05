@@ -10,7 +10,7 @@ internal class NorthWindDomainLogsContextFactory : IDesignTimeDbContextFactory<N
         new DBOptions
         {
             DomainLogsConnectionString =
-        "Data Source=JAVIER;Initial Catalog=NorthWindLogsDB;Integrated Security=True;Trust Server Certificate=True"
+        "Data Source=JAVIER;Initial Catalog=NorthWindLogsDBM;Integrated Security=True;Trust Server Certificate=True"
         });
         return new NorthWindDomainLogsContext(DbOptions);
     }

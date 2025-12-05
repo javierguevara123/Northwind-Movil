@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "T0bS9ByF6LU=",
+  "dgSpecHash": "u/+DGnKGH8Y=",
   "success": true,
-  "projectFilePath": "D:\\PROYECTOS_ESCRITORIO\\ProyectoMoviles\\Web\\Northwind\\NorthWind.Membership\\NorthWind.Membership.Backend.AspNetIdentity\\NorthWind.Membership.Backend.AspNetIdentity.csproj",
+  "projectFilePath": "D:\\PROYECTOS_ESCRITORIO\\ProyectoMoviles\\Movil\\Northwind-Movil\\NorthWind.Membership\\NorthWind.Membership.Backend.AspNetIdentity\\NorthWind.Membership.Backend.AspNetIdentity.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\BAR KARAOKE\\.nuget\\packages\\azure.core\\1.38.0\\azure.core.1.38.0.nupkg.sha512",
     "C:\\Users\\BAR KARAOKE\\.nuget\\packages\\azure.identity\\1.11.4\\azure.identity.1.11.4.nupkg.sha512",
@@ -51,7 +51,7 @@
     "C:\\Users\\BAR KARAOKE\\.nuget\\packages\\microsoft.sqlserver.server\\1.0.0\\microsoft.sqlserver.server.1.0.0.nupkg.sha512",
     "C:\\Users\\BAR KARAOKE\\.nuget\\packages\\microsoft.win32.systemevents\\6.0.0\\microsoft.win32.systemevents.6.0.0.nupkg.sha512",
     "C:\\Users\\BAR KARAOKE\\.nuget\\packages\\mono.texttemplating\\3.0.0\\mono.texttemplating.3.0.0.nupkg.sha512",
-    "C:\\Users\\BAR KARAOKE\\.nuget\\packages\\northwind.membership.backend.core\\1.1.1\\northwind.membership.backend.core.1.1.1.nupkg.sha512",
+    "C:\\Users\\BAR KARAOKE\\.nuget\\packages\\northwind.membership.backend.core\\1.1.2\\northwind.membership.backend.core.1.1.2.nupkg.sha512",
     "C:\\Users\\BAR KARAOKE\\.nuget\\packages\\northwind.membership.entities\\1.0.9\\northwind.membership.entities.1.0.9.nupkg.sha512",
     "C:\\Users\\BAR KARAOKE\\.nuget\\packages\\northwind.result.entities\\1.0.0\\northwind.result.entities.1.0.0.nupkg.sha512",
     "C:\\Users\\BAR KARAOKE\\.nuget\\packages\\northwind.validation.entities\\1.0.0\\northwind.validation.entities.1.0.0.nupkg.sha512",

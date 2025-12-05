@@ -9,41 +9,41 @@ build_property.EnforceExtendedAnalyzerRules =
 build_property._SupportedPlatformList = Linux,macOS,Windows,browser
 build_property.RootNamespace = NorthWind.Membership.Frontend.RazorViews
 build_property.RootNamespace = NorthWind.Membership.Frontend.RazorViews
-build_property.ProjectDir = D:\PROYECTOS_ESCRITORIO\ProyectoMoviles\Web\Northwind\NorthWind.Membership\NorthWind.Membership.Frontend.RazorViews\
+build_property.ProjectDir = D:\PROYECTOS_ESCRITORIO\ProyectoMoviles\Movil\Northwind-Movil\NorthWind.Membership\NorthWind.Membership.Frontend.RazorViews\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
 build_property.RazorLangVersion = 8.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = D:\PROYECTOS_ESCRITORIO\ProyectoMoviles\Web\Northwind\NorthWind.Membership\NorthWind.Membership.Frontend.RazorViews
+build_property.MSBuildProjectDirectory = D:\PROYECTOS_ESCRITORIO\ProyectoMoviles\Movil\Northwind-Movil\NorthWind.Membership\NorthWind.Membership.Frontend.RazorViews
 build_property._RazorSourceGeneratorDebug = 
 build_property.EffectiveAnalysisLevelStyle = 8.0
 build_property.EnableCodeStyleSeverity = 
 
-[D:/PROYECTOS_ESCRITORIO/ProyectoMoviles/Web/Northwind/NorthWind.Membership/NorthWind.Membership.Frontend.RazorViews/Components/UserLoginComponent.razor]
+[D:/PROYECTOS_ESCRITORIO/ProyectoMoviles/Movil/Northwind-Movil/NorthWind.Membership/NorthWind.Membership.Frontend.RazorViews/Components/UserLoginComponent.razor]
 build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xVc2VyTG9naW5Db21wb25lbnQucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/PROYECTOS_ESCRITORIO/ProyectoMoviles/Web/Northwind/NorthWind.Membership/NorthWind.Membership.Frontend.RazorViews/Components/UserRegistrationComponent.razor]
+[D:/PROYECTOS_ESCRITORIO/ProyectoMoviles/Movil/Northwind-Movil/NorthWind.Membership/NorthWind.Membership.Frontend.RazorViews/Components/UserRegistrationComponent.razor]
 build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xVc2VyUmVnaXN0cmF0aW9uQ29tcG9uZW50LnJhem9y
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/PROYECTOS_ESCRITORIO/ProyectoMoviles/Web/Northwind/NorthWind.Membership/NorthWind.Membership.Frontend.RazorViews/Pages/LoginDisplayComponent.razor]
+[D:/PROYECTOS_ESCRITORIO/ProyectoMoviles/Movil/Northwind-Movil/NorthWind.Membership/NorthWind.Membership.Frontend.RazorViews/Pages/LoginDisplayComponent.razor]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcTG9naW5EaXNwbGF5Q29tcG9uZW50LnJhem9y
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/PROYECTOS_ESCRITORIO/ProyectoMoviles/Web/Northwind/NorthWind.Membership/NorthWind.Membership.Frontend.RazorViews/Pages/LogoutPage.razor]
+[D:/PROYECTOS_ESCRITORIO/ProyectoMoviles/Movil/Northwind-Movil/NorthWind.Membership/NorthWind.Membership.Frontend.RazorViews/Pages/LogoutPage.razor]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcTG9nb3V0UGFnZS5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/PROYECTOS_ESCRITORIO/ProyectoMoviles/Web/Northwind/NorthWind.Membership/NorthWind.Membership.Frontend.RazorViews/Pages/UserLoginPage.razor]
+[D:/PROYECTOS_ESCRITORIO/ProyectoMoviles/Movil/Northwind-Movil/NorthWind.Membership/NorthWind.Membership.Frontend.RazorViews/Pages/UserLoginPage.razor]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcVXNlckxvZ2luUGFnZS5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/PROYECTOS_ESCRITORIO/ProyectoMoviles/Web/Northwind/NorthWind.Membership/NorthWind.Membership.Frontend.RazorViews/Pages/UserRegistrationPage.razor]
+[D:/PROYECTOS_ESCRITORIO/ProyectoMoviles/Movil/Northwind-Movil/NorthWind.Membership/NorthWind.Membership.Frontend.RazorViews/Pages/UserRegistrationPage.razor]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcVXNlclJlZ2lzdHJhdGlvblBhZ2UucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/PROYECTOS_ESCRITORIO/ProyectoMoviles/Web/Northwind/NorthWind.Membership/NorthWind.Membership.Frontend.RazorViews/_Imports.razor]
+[D:/PROYECTOS_ESCRITORIO/ProyectoMoviles/Movil/Northwind-Movil/NorthWind.Membership/NorthWind.Membership.Frontend.RazorViews/_Imports.razor]
 build_metadata.AdditionalFiles.TargetPath = X0ltcG9ydHMucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 

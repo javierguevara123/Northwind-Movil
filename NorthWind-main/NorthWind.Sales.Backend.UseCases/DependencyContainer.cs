@@ -22,19 +22,12 @@ public static class DependencyContainer
         services.AddScoped<IGetProductByIdInputPort, GetProductByIdInteractor>();
         services.AddScoped<IGetProductsInputPort, GetProductsInteractor>();
 
-        //CUSTOMERS
-        services.AddScoped<ICreateCustomerInputPort, CreateCustomerInteractor>();
-        services.AddScoped<IUpdateCustomerInputPort, UpdateCustomerInteractor>();
-        services.AddScoped<IDeleteCustomerInputPort, DeleteCustomerInteractor>();
-        services.AddScoped<IGetCustomerByIdInputPort, GetCustomerByIdInteractor>();
-        services.AddScoped<IGetCustomersInputPort, GetCustomersInteractor>();
 
         services.AddScoped<IGetOrderByIdInputPort, GetOrderByIdInteractor>();
         services.AddScoped<IGetOrdersInputPort, GetOrdersInteractor>();
         services.AddScoped<IDeleteOrderInputPort, DeleteOrderInteractor>();
 
 
-        services.AddModelValidator<CreateOrderDto, CreateOrderCustomerValidator>();
         services.AddModelValidator<CreateOrderDto, CreateOrderProductValidator>();
         services.AddModelValidator<CreateProductDto, CreateProductBusinessValidator>();
         services.AddModelValidator<UpdateProductDto, UpdateProductBusinessValidator>();
@@ -44,13 +37,6 @@ public static class DependencyContainer
         services.AddModelValidator<GetOrderByIdDto, GetOrderByIdValidator>();
         services.AddModelValidator<GetOrdersQueryDto, GetOrdersValidator>();
         services.AddModelValidator<DeleteOrderDto, DeleteOrderBusinessValidator>();
-
-        //CUSTOMERS
-
-        services.AddModelValidator<CreateCustomerDto, CreateCustomerBusinessValidator>();
-        services.AddModelValidator<UpdateCustomerDto, UpdateCustomerBusinessValidator>();
-        services.AddModelValidator<DeleteCustomerDto, DeleteCustomerBusinessValidator>();
-        services.AddModelValidator<GetCustomerByIdDto, GetCustomerByIdValidator>();
 
 
         services.AddScoped<IDomainEventHandler<SpecialOrderCreatedEvent>, SendEMailWhenSpecialOrderCreatedEventHandler>();

@@ -3,6 +3,7 @@
     public interface IUserService
     {
         bool IsAuthenticated { get; }
+        string UserId { get; }
         string UserName { get; }
         string FullName { get; }
     }

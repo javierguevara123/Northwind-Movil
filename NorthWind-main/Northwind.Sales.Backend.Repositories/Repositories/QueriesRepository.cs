@@ -1,6 +1,5 @@
-﻿using NorthWind.Sales.Backend.BusinessObjects.ValueObjects;
-using NorthWind.Sales.Entities.Dtos.Customers.GetCustomerById;
-using NorthWind.Sales.Entities.Dtos.Customers.GetCustomers;
+﻿using Microsoft.EntityFrameworkCore; // Necesario para métodos asíncronos de EF Core
+using NorthWind.Sales.Backend.BusinessObjects.ValueObjects;
 using NorthWind.Sales.Entities.Dtos.Orders.GetOrderById;
 using NorthWind.Sales.Entities.Dtos.Orders.GetOrders;
 using NorthWind.Sales.Entities.Dtos.Products.GetProducts;
@@ -9,6 +8,7 @@ namespace NorthWind.Sales.Backend.Repositories.Repositories
 {
     internal class QueriesRepository(INorthWindSalesQueriesDataContext context) : IQueriesRepository
     {
+        // ========== PRODUCTS ==========
 
         public async Task<IEnumerable<ProductDto>> GetAllProducts()
         {
@@ -17,7 +17,8 @@ namespace NorthWind.Sales.Backend.Repositories.Repositories
                     p.Id,
                     p.Name,
                     p.UnitsInStock,
-                    p.UnitPrice
+                    p.UnitPrice,
+                    p.ImageUrl // <--- NUEVO: Mapeo de la imagen
                 ));
 
             return await context.ToListAsync(queryable);
@@ -35,7 +36,7 @@ namespace NorthWind.Sales.Backend.Repositories.Repositories
                 .Where(od => od.ProductId == productId)
                 .Select(od => (int)od.Quantity);
 
-            var committedUnits = await context.SumAsync(queryable); // ⬅️ Llamar a través del context
+            var committedUnits = await context.SumAsync(queryable);
             return (short)committedUnits;
         }
 
@@ -47,7 +48,8 @@ namespace NorthWind.Sales.Backend.Repositories.Repositories
                     p.Id,
                     p.Name,
                     p.UnitsInStock,
-                    p.UnitPrice
+                    p.UnitPrice,
+                    p.ImageUrl // <--- NUEVO: Mapeo de la imagen
                 ));
 
             return await context.FirstOrDefaultAync(queryable);
@@ -73,11 +75,12 @@ namespace NorthWind.Sales.Backend.Repositories.Repositories
             if (query.MaxPrice.HasValue)
                 queryable = queryable.Where(p => p.UnitPrice <= query.MaxPrice.Value);
 
+            // Filtro de stock bajo (opcional, ajustado a lógica B2C si se desea)
             if (query.IsLowStock.HasValue && query.IsLowStock.Value)
                 queryable = queryable.Where(p => p.UnitsInStock < 10);
 
-            // 3. Obtener total de registros (USANDO MÉTODO DEL CONTEXTO)
-            var totalCount = await context.CountAsync(queryable);  // ⬅️ CORREGIDO
+            // 3. Obtener total de registros
+            var totalCount = await context.CountAsync(queryable);
 
             // 4. Aplicar ordenamiento
             queryable = ApplyOrdering(queryable, query.OrderBy, query.OrderDescending);
@@ -90,11 +93,12 @@ namespace NorthWind.Sales.Backend.Repositories.Repositories
                     p.Id,
                     p.Name,
                     p.UnitsInStock,
-                    p.UnitPrice
+                    p.UnitPrice,
+                    p.ImageUrl // <--- NUEVO: Mapeo de la imagen en lista paginada
                 ));
 
-            // 6. Ejecutar query (USANDO MÉTODO DEL CONTEXTO)
-            var items = await context.ToListAsync(pagedQuery);  // ⬅️ YA ESTABA BIEN
+            // 6. Ejecutar query
+            var items = await context.ToListAsync(pagedQuery);
 
             // 7. Retornar resultado paginado
             return new PagedResultDto<ProductDto>
@@ -106,8 +110,8 @@ namespace NorthWind.Sales.Backend.Repositories.Repositories
             };
         }
 
-        private IQueryable<Entities.Product> ApplyOrdering(
-            IQueryable<Entities.Product> queryable,
+        private IQueryable<Backend.Repositories.Entities.Product> ApplyOrdering(
+            IQueryable<Backend.Repositories.Entities.Product> queryable,
             string? orderBy,
             bool descending)
         {
@@ -143,17 +147,9 @@ namespace NorthWind.Sales.Backend.Repositories.Repositories
             return await context.AnyAsync(queryable);
         }
 
-        public async Task<decimal?> GetCustomerCurrentBalance(
-       string customerId)
-        {
-            var Queryable = context.Customers
-            .Where(c => c.Id == customerId)
-            .Select(c => new { c.CurrentBalance });
-            var Result = await context.FirstOrDefaultAync(Queryable);
-            return Result?.CurrentBalance;
-        }
-        public async Task<IEnumerable<ProductUnitsInStock>>
-       GetProductsUnitsInStock(IEnumerable<int> productIds)
+        // [ELIMINADO] GetCustomerCurrentBalance se borra porque Customer ya no existe.
+
+        public async Task<IEnumerable<ProductUnitsInStock>> GetProductsUnitsInStock(IEnumerable<int> productIds)
         {
             var Queryable = context.Products
             .Where(p => productIds.Contains(p.Id))
@@ -162,92 +158,23 @@ namespace NorthWind.Sales.Backend.Repositories.Repositories
             return await context.ToListAsync(Queryable);
         }
 
-        // ========== CUSTOMERS ==========
-
-        public async Task<bool> CustomerExists(string customerId)
-        {
-            var queryable = context.Customers.Where(c => c.Id == customerId);
-            return await context.AnyAsync(queryable);
-        }
-
-        public async Task<bool> CustomerHasPendingOrders(string customerId)
-        {
-            var balance = await GetCustomerCurrentBalance(customerId);
-            return balance.HasValue && balance.Value > 0;
-        }
-
-        public async Task<CustomerDetailDto?> GetCustomerById(string customerId)
-        {
-            var queryable =
-                from c in context.Customers
-                where c.Id == customerId
-                select new CustomerDetailDto(
-                    c.Id,
-                    c.Name,
-                    c.CurrentBalance
-                );
-
-            return await context.FirstOrDefaultAync(queryable);
-        }
-
-        public async Task<CustomerPagedResultDto> GetCustomersPaged(GetCustomersQueryDto query)
-        {
-            var baseQuery = context.Customers.AsQueryable();
-
-            // filtro opcional por nombre
-            if (!string.IsNullOrWhiteSpace(query.SearchTerm))
-            {
-                var term = query.SearchTerm.ToLower();
-                baseQuery = baseQuery.Where(c => c.Name.ToLower().Contains(term));
-            }
-
-            var totalRecords = await context.CountAsync(baseQuery);
-
-            var ordered = query.OrderDescending
-                ? baseQuery.OrderByDescending(c => c.Name)
-                : baseQuery.OrderBy(c => c.Name);
-
-            var pagedQuery = ordered
-                .Skip((query.PageNumber - 1) * query.PageSize)
-                .Take(query.PageSize)
-                .Select(c => new CustomerListItemDto(
-                    c.Id,
-                    c.Name,
-                    c.CurrentBalance
-                ));
-
-            var customers = await context.ToListAsync(pagedQuery);
-
-            return new CustomerPagedResultDto(customers, totalRecords);
-        }
-
-        public async Task<bool> CustomerNameExists(string name)
-        {
-            var queryable = context.Customers
-                                   .Where(c => c.Name.ToLower() == name.ToLower());
-            return await context.AnyAsync(queryable);
-        }
-
-        public async Task<bool> CustomerNameExists(string name, string excludeCustomerId)
-        {
-            var queryable = context.Customers
-                                   .Where(c => c.Name.ToLower() == name.ToLower() &&
-                                               c.Id != excludeCustomerId);
-            return await context.AnyAsync(queryable);
-        }
+        // ========== ORDERS ==========
 
         public async Task<OrderWithDetailsDto?> GetOrderById(int orderId)
         {
             // 1. Query principal - obtener datos de la orden
+            // NOTA: Se eliminó el JOIN con Customer.
             var queryable =
                 from order in context.Orders
                 where order.Id == orderId
-                join customer in context.Customers on order.CustomerId equals customer.Id
                 select new
                 {
                     order.Id,
-                    order.CustomerId,
-                    CustomerName = customer.Name,
+                    order.UserId, // <--- CAMBIO: Usamos UserId
+                    // CustomerName ya no existe en la tabla Customers.
+                    // Podrías devolver el email del usuario si lo tienes, o dejarlo vacío
+                    // y que el frontend muestre "Mi Pedido".
+                    CustomerName = "Usuario Registrado",
                     order.OrderDate,
                     order.ShipAddress,
                     order.ShipCity,
@@ -260,17 +187,17 @@ namespace NorthWind.Sales.Backend.Repositories.Repositories
             if (orderData == null)
                 return null;
 
-            // 2. Obtener los detalles (SIN od.Id porque no existe)
+            // 2. Obtener los detalles
             var detailsQuery =
                 from od in context.OrderDetails
                 where od.OrderId == orderId
                 join product in context.Products on od.ProductId equals product.Id
                 select new OrderDetailItemDto(
-                    od.ProductId,                      // ✅ 1
-                    product.Name,                      // ✅ 2
-                    od.Quantity,                       // ✅ 3
-                    od.UnitPrice,                      // ✅ 4
-                    od.Quantity * od.UnitPrice         // ✅ 5 - Subtotal
+                    od.ProductId,
+                    product.Name,
+                    od.Quantity,
+                    od.UnitPrice,
+                    od.Quantity * od.UnitPrice
                 );
 
             var details = await context.ToListAsync(detailsQuery);
@@ -282,7 +209,7 @@ namespace NorthWind.Sales.Backend.Repositories.Repositories
             // 4. Construir DTO final
             return new OrderWithDetailsDto(
                 orderData.Id,
-                orderData.CustomerId,
+                orderData.UserId, // <--- UserId
                 orderData.CustomerName,
                 orderData.OrderDate,
                 orderData.ShipAddress,
@@ -304,9 +231,10 @@ namespace NorthWind.Sales.Backend.Repositories.Repositories
         public async Task<OrderPagedResultDto> GetOrdersPaged(GetOrdersQueryDto query)
         {
             // 1. Query base con totales calculados
+            // NOTA: Se eliminó el JOIN con Customer.
             var baseQuery =
                 from order in context.Orders
-                join customer in context.Customers on order.CustomerId equals customer.Id
+                    // join customer ... [ELIMINADO]
                 let totalAmount = context.OrderDetails
                     .Where(od => od.OrderId == order.Id)
                     .Sum(od => od.Quantity * od.UnitPrice)
@@ -316,8 +244,8 @@ namespace NorthWind.Sales.Backend.Repositories.Repositories
                 select new
                 {
                     order.Id,
-                    order.CustomerId,
-                    CustomerName = customer.Name,
+                    order.UserId, // <--- Usamos UserId
+                    CustomerName = "Usuario", // Valor por defecto ya que no hay tabla Customers
                     order.OrderDate,
                     order.ShipCity,
                     order.ShipCountry,
@@ -326,9 +254,14 @@ namespace NorthWind.Sales.Backend.Repositories.Repositories
                 };
 
             // 2. Aplicar filtros
+
+            // IMPORTANTE: Filtrar por el Usuario Logueado (UserId)
+            // Asumimos que el DTO GetOrdersQueryDto ahora tiene una propiedad UserId
+            // o reutilizamos CustomerId para pasar el GUID del usuario.
             if (!string.IsNullOrWhiteSpace(query.CustomerId))
             {
-                baseQuery = baseQuery.Where(x => x.CustomerId == query.CustomerId);
+                // Aquí query.CustomerId en realidad contiene el UserId del token
+                baseQuery = baseQuery.Where(x => x.UserId == query.CustomerId);
             }
 
             if (query.FromDate.HasValue)
@@ -341,25 +274,17 @@ namespace NorthWind.Sales.Backend.Repositories.Repositories
                 baseQuery = baseQuery.Where(x => x.OrderDate <= query.ToDate.Value);
             }
 
-            if (query.MinAmount.HasValue)
-            {
-                baseQuery = baseQuery.Where(x => x.TotalAmount >= query.MinAmount.Value);
-            }
-
-            if (query.MaxAmount.HasValue)
-            {
-                baseQuery = baseQuery.Where(x => x.TotalAmount <= query.MaxAmount.Value);
-            }
-
             // 3. Contar total
             var totalCount = await context.CountAsync(baseQuery);
 
             // 4. Aplicar ordenamiento
             baseQuery = query.OrderBy?.ToLower() switch
             {
+                // Ordenar por cliente ya no tiene mucho sentido en B2C para el usuario final,
+                // pero si el admin lo usa, sería por UserId.
                 "customer" => query.OrderDescending
-                    ? baseQuery.OrderByDescending(x => x.CustomerName)
-                    : baseQuery.OrderBy(x => x.CustomerName),
+                    ? baseQuery.OrderByDescending(x => x.UserId)
+                    : baseQuery.OrderBy(x => x.UserId),
                 "amount" => query.OrderDescending
                     ? baseQuery.OrderByDescending(x => x.TotalAmount)
                     : baseQuery.OrderBy(x => x.TotalAmount),
@@ -378,7 +303,7 @@ namespace NorthWind.Sales.Backend.Repositories.Repositories
 
             var items = ordersData.Select(o => new OrderListItemDto(
                 o.Id,
-                o.CustomerId,
+                o.UserId, // <--- UserId
                 o.CustomerName,
                 o.OrderDate,
                 o.ShipCity,
@@ -396,5 +321,4 @@ namespace NorthWind.Sales.Backend.Repositories.Repositories
             };
         }
     }
-
 }

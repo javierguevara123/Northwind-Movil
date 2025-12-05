@@ -13,7 +13,6 @@ internal class NorthWindSalesQueriesDataContext :
     }
 
     // ========== DbSets ==========
-    public new IQueryable<Customer> Customers => base.Customers;
     public new IQueryable<Product> Products => base.Products;
     public new IQueryable<Order> Orders => base.Orders;
     public new IQueryable<OrderDetail> OrderDetails => base.OrderDetails;

@@ -13,9 +13,6 @@ AbstractModelValidator<CreateOrderDto>
    IModelValidator<CreateOrderDetailDto> detailValidator) :
    base(validationService)
     {
-        AddRuleFor(c => c.CustomerId)
-        .NotEmpty(CreateOrderMessages.CustomerIdRequired)
-        .Length(5, CreateOrderMessages.CustomerIdRequiredLength);
         AddRuleFor(c => c.ShipAddress)
         .NotEmpty(CreateOrderMessages.ShipAddressRequired)
         .MaximumLength(60, CreateOrderMessages.ShipAddressMaximumLength);

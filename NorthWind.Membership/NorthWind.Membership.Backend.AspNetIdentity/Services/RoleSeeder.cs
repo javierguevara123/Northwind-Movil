@@ -11,8 +11,8 @@ namespace NorthWind.Membership.Backend.AspNetIdentity.Services
             var roleManager = serviceProvider.GetRequiredService<RoleManager<IdentityRole>>();
             var userManager = serviceProvider.GetRequiredService<UserManager<NorthWindUser>>();
 
-            // Crear roles
-            string[] roles = { "SuperUser", "Administrator", "Employee" };
+            // CAMBIO: Agregamos "Customer" aquí también para asegurar consistencia
+            string[] roles = { "SuperUser", "Administrator", "Customer" };
 
             foreach (var role in roles)
             {
@@ -34,7 +34,7 @@ namespace NorthWind.Membership.Backend.AspNetIdentity.Services
                     Email = superUserEmail,
                     FirstName = "Super",
                     LastName = "User",
-                    Cedula = "1234567890",  // ← NUEVO (cédula válida de ejemplo)
+                    Cedula = "1234567890",
                     EmailConfirmed = true
                 };
 

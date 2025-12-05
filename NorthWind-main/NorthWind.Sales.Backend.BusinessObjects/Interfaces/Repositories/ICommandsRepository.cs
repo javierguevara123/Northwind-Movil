@@ -50,9 +50,6 @@ public interface ICommandsRepository : IUnitOfWork
     Task CreateOrder(OrderAggregate order);
     Task UpdateProduct(Product product);
     Task DeleteProduct(int productId);
-    Task<string> CreateCustomer(Customer customer);
-    Task UpdateCustomer(Customer customer);
-    Task DeleteCustomer(string customerId);
     Task DeleteOrder(int orderId);
     Task<List<Product>> GetProductsWithLock(List<int> productIds);
     Task UpdateProductStock(int productId, short newStock);

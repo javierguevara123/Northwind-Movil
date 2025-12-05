@@ -9,11 +9,10 @@ internal class NorthWindContext : DbContext
    DbContextOptionsBuilder optionsBuilder)
     {
         optionsBuilder.UseSqlServer(
-        "Data Source=JAVIER;Initial Catalog=NorthWindDB;Integrated Security=True;Trust Server Certificate=True");
+        "Data Source=JAVIER;Initial Catalog=NorthWindDBM;Integrated Security=True;Trust Server Certificate=True");
     }
     public DbSet<Order> Orders { get; set; }
     public DbSet<OrderDetail> OrderDetails { get; set; }
-    public DbSet<Customer> Customers { get; set; }
     public DbSet<Product> Products { get; set; }
 
     protected override void OnModelCreating(ModelBuilder modelBuilder)
