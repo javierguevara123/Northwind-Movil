@@ -5,6 +5,7 @@ using NorthWind.Membership.Backend.AspNetIdentity.Options;
 using NorthWind.Membership.Backend.AspNetIdentity.Services;
 using NorthWind.Membership.Backend.Core.Middleware;
 using NorthWind.Membership.Backend.Core.Options;
+using NorthWind.Sales.Backend.Controllers.Logs;
 using NorthWind.Sales.Backend.DataContexts.EFCore.Options;
 using NorthWind.Sales.Backend.IoC;
 using NorthWind.Sales.Backend.SmtpGateways.Options;
@@ -21,21 +22,15 @@ internal static class Startup
     //  Agregar soporte para documentación Swagger.
     public static WebApplication CreateWebApplication(this WebApplicationBuilder builder)
     {
-
-        // Esto registra los servicios necesarios para generar la documentación automática Swagger de la API.
-        // Configurar APIExplorer para descubrir y exponer los metadatos de los endpoints de la aplicación.    
         builder.Services.AddEndpointsApiExplorer();
-
-        //  Habilita la documentación de la API.
         builder.Services.AddSwaggerGenBearer();
 
-        //  Registrar servicios con Inyección de Dependencias.
-        //  Registrar los servicios de la aplicación.
-        //  Esto utiliza el contenedor de IoC (DependencyContainer) para registrar todas las dependencias
-        //  del dominio NorthWind Sales, incluyendo:
-        //  Use Cases, Repositories, Data Contexts, Presenters.
-        //  Aquí "DBOptions" representa un objeto que contiene el "ConnectionString" y se carga
-        //  desde "appsettings.json".
+        // --- AGREGAR ESTE BLOQUE ---
+        // Esto es OBLIGATORIO para que Swagger encuentre los controladores en otro proyecto
+        builder.Services.AddControllers()
+               .AddApplicationPart(typeof(LogsController).Assembly);
+        // ---------------------------
+
         builder.Services.AddNorthWindSalesServices(dbObtions =>
             builder.Configuration.GetSection(DBOptions.SectionKey).Bind(dbObtions),
             smtpOptions => builder.Configuration.GetSection(SmtpOptions.SectionKey).Bind(smtpOptions),
@@ -43,10 +38,6 @@ internal static class Startup
             jwtOptions => builder.Configuration.GetSection(JwtOptions.SectionKey).Bind(jwtOptions)
         );
 
-        //  Configurar CORS.
-        //  Esto permite que cualquier cliente (como un frontend en Angular, React o Blazor WebAssembly)
-        //  pueda consumir la API sin restricciones de origen, método o cabecera.
-        //  Habilita el acceso desde otros dominios (útil para frontend).
         builder.Services.AddCors(options =>
         {
             options.AddDefaultPolicy(config =>
@@ -58,22 +49,18 @@ internal static class Startup
         });
 
         builder.Services.AddAuthentication(JwtBearerDefaults.AuthenticationScheme).AddJwtBearer(options =>
-       {
-     // Establecer la configuración del Token.
-     builder.Configuration.GetSection(JwtOptions.SectionKey)
-     .Bind(options.TokenValidationParameters);
-     // Establecer la llave para validación de la firma.
-     string SecurityKey = builder.Configuration
-     .GetSection(JwtOptions.SectionKey)[nameof(JwtOptions.SecurityKey)];
-     byte[] SecurityKeyBytes = Encoding.UTF8.GetBytes(SecurityKey);
-     options.TokenValidationParameters.IssuerSigningKey =
-     new SymmetricSecurityKey(SecurityKeyBytes);
- });
+        {
+            builder.Configuration.GetSection(JwtOptions.SectionKey)
+            .Bind(options.TokenValidationParameters);
+            string SecurityKey = builder.Configuration
+            .GetSection(JwtOptions.SectionKey)[nameof(JwtOptions.SecurityKey)];
+            byte[] SecurityKeyBytes = Encoding.UTF8.GetBytes(SecurityKey);
+            options.TokenValidationParameters.IssuerSigningKey =
+            new SymmetricSecurityKey(SecurityKeyBytes);
+        });
 
         builder.Services.AddAuthorization();
 
-
-        //  Construye la instancia "WebApplication" con todos los servicios configurados.
         return builder.Build();
     }
 

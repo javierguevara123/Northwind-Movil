@@ -2,15 +2,25 @@
 
 namespace NorthWind.Sales.Backend.DataContexts.EFCore.DataContexts
 {
-    internal class NorthWindDomainLogsContext(IOptions<DBOptions> dbOptions)
- : DbContext
+    internal class NorthWindDomainLogsContext : DbContext
     {
+        // Constructor existente...
+        public NorthWindDomainLogsContext(DbContextOptions<NorthWindDomainLogsContext> options) : base(options) { }
+
         public DbSet<DomainLog> DomainLogs { get; set; }
-        protected override void OnConfiguring(
-       DbContextOptionsBuilder optionsBuilder)
+
+        // NUEVO DBSET
+        public DbSet<ErrorLog> ErrorLogs { get; set; }
+
+        protected override void OnModelCreating(ModelBuilder modelBuilder)
         {
-            optionsBuilder.UseSqlServer(
-            dbOptions.Value.DomainLogsConnectionString);
+            // Esto aplicará automáticamente la configuración de ErrorLogConfiguration 
+            // si está en el mismo ensamblado.
+            modelBuilder.ApplyConfigurationsFromAssembly(Assembly.GetExecutingAssembly());
+
+            // Opcional: Si quieres forzar solo las de logs aquí, puedes instanciarlas manualmente:
+            // modelBuilder.ApplyConfiguration(new Configurations.DomainLogConfiguration());
+            // modelBuilder.ApplyConfiguration(new Configurations.ErrorLogConfiguration());
         }
     }
 

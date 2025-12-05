@@ -16,6 +16,68 @@
     ]
   },
   {
+    "ContainingType": "NorthWind.Sales.Backend.Controllers.Logs.LogsController",
+    "Method": "GetDomainLogs",
+    "RelativePath": "api/Logs/domain",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "page",
+        "Type": "System.Int32",
+        "IsRequired": false
+      },
+      {
+        "Name": "take",
+        "Type": "System.Int32",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "NorthWind.DomainLogs.Entities.Dtos.PaginatedLogsDto\u00601[[NorthWind.DomainLogs.Entities.Dtos.DomainLogDto, NorthWind.DomainLogs.Entities, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "NorthWind.Sales.Backend.Controllers.Logs.LogsController",
+    "Method": "GetErrorLogs",
+    "RelativePath": "api/Logs/errors",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "page",
+        "Type": "System.Int32",
+        "IsRequired": false
+      },
+      {
+        "Name": "take",
+        "Type": "System.Int32",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "NorthWind.DomainLogs.Entities.Dtos.PaginatedLogsDto\u00601[[NorthWind.DomainLogs.Entities.Dtos.ErrorLogDto, NorthWind.DomainLogs.Entities, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
     "ContainingType": "Microsoft.AspNetCore.Builder.OrdersController",
     "Method": "GetOrders",
     "RelativePath": "api/orders",

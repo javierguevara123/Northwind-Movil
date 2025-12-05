@@ -4,13 +4,18 @@ using NorthWind.Sales.Backend.Repositories.Entities;
 namespace NorthWind.Sales.Backend.DataContexts.EFCore.Services
 {
     internal class NorthWindDomainLogsDataContext(IOptions<DBOptions> dbOptions) :
- NorthWindDomainLogsContext(dbOptions),
- INorthWindDomainLogsDataContext
+        NorthWindDomainLogsContext(
+            // SOLUCIÓN: Construimos las opciones manualmente aquí para pasarlas al padre
+            new DbContextOptionsBuilder<NorthWindDomainLogsContext>()
+                .UseSqlServer(dbOptions.Value.DomainLogsConnectionString)
+                .Options
+        ),
+        INorthWindDomainLogsDataContext
     {
         public async Task AddLogAsync(DomainLog log) =>
-       await AddAsync(log);
-        public async Task SaveChangesAsync() =>
-       await GuardDBContext.AgainstSaveChangesErrorAsync(this);
-    }
+            await AddAsync(log);
 
+        public async Task SaveChangesAsync() =>
+            await GuardDBContext.AgainstSaveChangesErrorAsync(this);
+    }
 }
