@@ -8,5 +8,6 @@
         public string Cedula { get; set; }
         public string NewPassword { get; set; } // Opcional: null si no se cambia
         public string CurrentUserEmail { get; set; } // Email del usuario que ejecuta la acción
+        public byte[]? ProfilePicture { get; set; }
     }
 }

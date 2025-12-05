@@ -16,6 +16,7 @@ namespace NorthWind.Membership.Backend.Core.UseCases.UserManagement
                 updateData.LastName,
                 updateData.Cedula,
                 updateData.NewPassword,
+                updateData.ProfilePicture,
                 updateData.CurrentUserEmail);
 
             await presenter.Handle(result);

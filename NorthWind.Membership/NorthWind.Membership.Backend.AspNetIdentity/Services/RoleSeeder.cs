@@ -1,6 +1,7 @@
 ﻿using Microsoft.AspNetCore.Identity;
 using Microsoft.Extensions.DependencyInjection;
 using NorthWind.Membership.Backend.AspNetIdentity.Entities;
+using System.IO; // Necesario para manejar archivos
 
 namespace NorthWind.Membership.Backend.AspNetIdentity.Services
 {
@@ -11,7 +12,7 @@ namespace NorthWind.Membership.Backend.AspNetIdentity.Services
             var roleManager = serviceProvider.GetRequiredService<RoleManager<IdentityRole>>();
             var userManager = serviceProvider.GetRequiredService<UserManager<NorthWindUser>>();
 
-            // CAMBIO: Agregamos "Customer" aquí también para asegurar consistencia
+            // CAMBIO: Roles del sistema
             string[] roles = { "SuperUser", "Administrator", "Customer" };
 
             foreach (var role in roles)
@@ -28,6 +29,27 @@ namespace NorthWind.Membership.Backend.AspNetIdentity.Services
 
             if (superUser == null)
             {
+                // --- NUEVO: Lógica para cargar foto por defecto ---
+                byte[]? defaultProfilePicture = null;
+
+                // Define la ruta donde guardas la imagen por defecto. 
+                // Asegúrate de que el archivo 'default-avatar.png' exista y se copie al directorio de salida (Copy to Output Directory).
+                string imagePath = Path.Combine(AppDomain.CurrentDomain.BaseDirectory, "Assets", "default-avatar.png");
+
+                try
+                {
+                    if (File.Exists(imagePath))
+                    {
+                        defaultProfilePicture = await File.ReadAllBytesAsync(imagePath);
+                    }
+                }
+                catch
+                {
+                    // Si falla la lectura, simplemente se crea sin foto para no detener el despliegue
+                    defaultProfilePicture = null;
+                }
+                // ------------------------------------------------
+
                 superUser = new NorthWindUser
                 {
                     UserName = superUserEmail,
@@ -35,7 +57,9 @@ namespace NorthWind.Membership.Backend.AspNetIdentity.Services
                     FirstName = "Super",
                     LastName = "User",
                     Cedula = "1234567890",
-                    EmailConfirmed = true
+                    EmailConfirmed = true,
+                    // ASIGNACIÓN DE LA FOTO
+                    ProfilePicture = defaultProfilePicture
                 };
 
                 var result = await userManager.CreateAsync(superUser, "SuperUser123!");

@@ -1,0 +1,37 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>NorthWind.Membership.Backend.AspNetIdentity</id>
+    <version>1.1.1</version>
+    <authors>NorthWind.Membership.Backend.AspNetIdentity</authors>
+    <description>Package Description</description>
+    <repository type="git" commit="3425f97159d367a5900ef369d61f400c416d1df2" />
+    <dependencies>
+      <group targetFramework="net8.0">
+        <dependency id="Microsoft.AspNetCore.Identity.EntityFrameworkCore" version="8.0.1" exclude="Build,Analyzers" />
+        <dependency id="Microsoft.EntityFrameworkCore.SqlServer" version="9.0.8" exclude="Build,Analyzers" />
+        <dependency id="NorthWind.Membership.Backend.Core" version="1.1.3" exclude="Build,Analyzers" />
+      </group>
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="D:\PROYECTOS_ESCRITORIO\ProyectoMoviles\Movil\Northwind-Movil\NorthWind.Membership\NorthWind.Membership.Backend.AspNetIdentity\bin\Release\net8.0\NorthWind.Membership.Backend.AspNetIdentity.pdb" target="lib\net8.0\NorthWind.Membership.Backend.AspNetIdentity.pdb" />
+    <file src="D:\PROYECTOS_ESCRITORIO\ProyectoMoviles\Movil\Northwind-Movil\NorthWind.Membership\NorthWind.Membership.Backend.AspNetIdentity\bin\Release\net8.0\NorthWind.Membership.Backend.AspNetIdentity.runtimeconfig.json" target="lib\net8.0\NorthWind.Membership.Backend.AspNetIdentity.runtimeconfig.json" />
+    <file src="D:\PROYECTOS_ESCRITORIO\ProyectoMoviles\Movil\Northwind-Movil\NorthWind.Membership\NorthWind.Membership.Backend.AspNetIdentity\bin\Release\net8.0\NorthWind.Membership.Backend.AspNetIdentity.dll" target="lib\net8.0\NorthWind.Membership.Backend.AspNetIdentity.dll" />
+    <file src="D:\PROYECTOS_ESCRITORIO\ProyectoMoviles\Movil\Northwind-Movil\NorthWind.Membership\NorthWind.Membership.Backend.AspNetIdentity\DataContexts\NorthWindMembershipContext.cs" target="src\NorthWind.Membership.Backend.AspNetIdentity\DataContexts\NorthWindMembershipContext.cs" />
+    <file src="D:\PROYECTOS_ESCRITORIO\ProyectoMoviles\Movil\Northwind-Movil\NorthWind.Membership\NorthWind.Membership.Backend.AspNetIdentity\DataContexts\NorthWindMembershipContextFactory.cs" target="src\NorthWind.Membership.Backend.AspNetIdentity\DataContexts\NorthWindMembershipContextFactory.cs" />
+    <file src="D:\PROYECTOS_ESCRITORIO\ProyectoMoviles\Movil\Northwind-Movil\NorthWind.Membership\NorthWind.Membership.Backend.AspNetIdentity\DependencyContainer.cs" target="src\NorthWind.Membership.Backend.AspNetIdentity\DependencyContainer.cs" />
+    <file src="D:\PROYECTOS_ESCRITORIO\ProyectoMoviles\Movil\Northwind-Movil\NorthWind.Membership\NorthWind.Membership.Backend.AspNetIdentity\Entities\NorthWindUser.cs" target="src\NorthWind.Membership.Backend.AspNetIdentity\Entities\NorthWindUser.cs" />
+    <file src="D:\PROYECTOS_ESCRITORIO\ProyectoMoviles\Movil\Northwind-Movil\NorthWind.Membership\NorthWind.Membership.Backend.AspNetIdentity\Extensions\IdentityErrorExtensions.cs" target="src\NorthWind.Membership.Backend.AspNetIdentity\Extensions\IdentityErrorExtensions.cs" />
+    <file src="D:\PROYECTOS_ESCRITORIO\ProyectoMoviles\Movil\Northwind-Movil\NorthWind.Membership\NorthWind.Membership.Backend.AspNetIdentity\Migrations\20251205035758_InitialCreate.cs" target="src\NorthWind.Membership.Backend.AspNetIdentity\Migrations\20251205035758_InitialCreate.cs" />
+    <file src="D:\PROYECTOS_ESCRITORIO\ProyectoMoviles\Movil\Northwind-Movil\NorthWind.Membership\NorthWind.Membership.Backend.AspNetIdentity\Migrations\20251205035758_InitialCreate.Designer.cs" target="src\NorthWind.Membership.Backend.AspNetIdentity\Migrations\20251205035758_InitialCreate.Designer.cs" />
+    <file src="D:\PROYECTOS_ESCRITORIO\ProyectoMoviles\Movil\Northwind-Movil\NorthWind.Membership\NorthWind.Membership.Backend.AspNetIdentity\Migrations\NorthWindMembershipContextModelSnapshot.cs" target="src\NorthWind.Membership.Backend.AspNetIdentity\Migrations\NorthWindMembershipContextModelSnapshot.cs" />
+    <file src="D:\PROYECTOS_ESCRITORIO\ProyectoMoviles\Movil\Northwind-Movil\NorthWind.Membership\NorthWind.Membership.Backend.AspNetIdentity\Options\MembershipDBOptions.cs" target="src\NorthWind.Membership.Backend.AspNetIdentity\Options\MembershipDBOptions.cs" />
+    <file src="D:\PROYECTOS_ESCRITORIO\ProyectoMoviles\Movil\Northwind-Movil\NorthWind.Membership\NorthWind.Membership.Backend.AspNetIdentity\Resources\Messages.Designer.cs" target="src\NorthWind.Membership.Backend.AspNetIdentity\Resources\Messages.Designer.cs" />
+    <file src="D:\PROYECTOS_ESCRITORIO\ProyectoMoviles\Movil\Northwind-Movil\NorthWind.Membership\NorthWind.Membership.Backend.AspNetIdentity\Services\MembershipService.cs" target="src\NorthWind.Membership.Backend.AspNetIdentity\Services\MembershipService.cs" />
+    <file src="D:\PROYECTOS_ESCRITORIO\ProyectoMoviles\Movil\Northwind-Movil\NorthWind.Membership\NorthWind.Membership.Backend.AspNetIdentity\Services\RoleSeeder.cs" target="src\NorthWind.Membership.Backend.AspNetIdentity\Services\RoleSeeder.cs" />
+    <file src="D:\PROYECTOS_ESCRITORIO\ProyectoMoviles\Movil\Northwind-Movil\NorthWind.Membership\NorthWind.Membership.Backend.AspNetIdentity\obj\Release\net8.0\NorthWind.Membership.Backend.AspNetIdentity.GlobalUsings.g.cs" target="src\NorthWind.Membership.Backend.AspNetIdentity\obj\Release\net8.0\NorthWind.Membership.Backend.AspNetIdentity.GlobalUsings.g.cs" />
+    <file src="D:\PROYECTOS_ESCRITORIO\ProyectoMoviles\Movil\Northwind-Movil\NorthWind.Membership\NorthWind.Membership.Backend.AspNetIdentity\Resources\Messages.resx" target="src\NorthWind.Membership.Backend.AspNetIdentity\Resources\Messages.resx" />
+    <file src="D:\PROYECTOS_ESCRITORIO\ProyectoMoviles\Movil\Northwind-Movil\NorthWind.Membership\NorthWind.Membership.Backend.AspNetIdentity\NorthWind.Membership.Backend.AspNetIdentity.csproj" target="src\NorthWind.Membership.Backend.AspNetIdentity\NorthWind.Membership.Backend.AspNetIdentity.csproj" />
+  </files>
+</package>

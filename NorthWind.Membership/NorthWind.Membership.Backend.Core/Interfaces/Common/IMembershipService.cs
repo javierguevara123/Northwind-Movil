@@ -32,6 +32,7 @@ namespace NorthWind.Membership.Backend.Core.Interfaces.Common
             string lastName,
             string cedula,
             string newPassword,
+            byte[]? profilePicture,
             string currentUserEmail);
         Task<Result<IEnumerable<ValidationError>>> DeleteUser(string email, string currentUserEmail);
         Task<UserInfoDto> GetUserById(string userId);

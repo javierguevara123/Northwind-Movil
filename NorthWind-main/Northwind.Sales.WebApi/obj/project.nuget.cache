@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "D8LTbPvBFk4=",
+  "dgSpecHash": "sZH/M+Nm+bs=",
   "success": true,
   "projectFilePath": "D:\\PROYECTOS_ESCRITORIO\\ProyectoMoviles\\Movil\\Northwind-Movil\\NorthWind-main\\Northwind.Sales.WebApi\\Northwind.Sales.WebApi.csproj",
   "expectedPackageFiles": [
@@ -43,9 +43,9 @@
     "C:\\Users\\BAR KARAOKE\\.nuget\\packages\\microsoft.identitymodel.tokens\\8.14.0\\microsoft.identitymodel.tokens.8.14.0.nupkg.sha512",
     "C:\\Users\\BAR KARAOKE\\.nuget\\packages\\microsoft.openapi\\1.6.23\\microsoft.openapi.1.6.23.nupkg.sha512",
     "C:\\Users\\BAR KARAOKE\\.nuget\\packages\\microsoft.sqlserver.server\\1.0.0\\microsoft.sqlserver.server.1.0.0.nupkg.sha512",
-    "C:\\Users\\BAR KARAOKE\\.nuget\\packages\\northwind.membership.backend.aspnetidentity\\1.1.0\\northwind.membership.backend.aspnetidentity.1.1.0.nupkg.sha512",
-    "C:\\Users\\BAR KARAOKE\\.nuget\\packages\\northwind.membership.backend.core\\1.1.2\\northwind.membership.backend.core.1.1.2.nupkg.sha512",
-    "C:\\Users\\BAR KARAOKE\\.nuget\\packages\\northwind.membership.entities\\1.0.9\\northwind.membership.entities.1.0.9.nupkg.sha512",
+    "C:\\Users\\BAR KARAOKE\\.nuget\\packages\\northwind.membership.backend.aspnetidentity\\1.1.1\\northwind.membership.backend.aspnetidentity.1.1.1.nupkg.sha512",
+    "C:\\Users\\BAR KARAOKE\\.nuget\\packages\\northwind.membership.backend.core\\1.1.3\\northwind.membership.backend.core.1.1.3.nupkg.sha512",
+    "C:\\Users\\BAR KARAOKE\\.nuget\\packages\\northwind.membership.entities\\1.1.0\\northwind.membership.entities.1.1.0.nupkg.sha512",
     "C:\\Users\\BAR KARAOKE\\.nuget\\packages\\northwind.result.entities\\1.0.0\\northwind.result.entities.1.0.0.nupkg.sha512",
     "C:\\Users\\BAR KARAOKE\\.nuget\\packages\\swashbuckle.aspnetcore\\8.1.2\\swashbuckle.aspnetcore.8.1.2.nupkg.sha512",
     "C:\\Users\\BAR KARAOKE\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\8.1.2\\swashbuckle.aspnetcore.swagger.8.1.2.nupkg.sha512",

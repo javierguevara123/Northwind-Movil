@@ -38,7 +38,8 @@ namespace NorthWind.Membership.Backend.AspNetIdentity.Services
                 Email = userData.Email,
                 FirstName = userData.FirstName,
                 LastName = userData.LastName,
-                Cedula = userData.Cedula
+                Cedula = userData.Cedula,
+                ProfilePicture = userData.ProfilePicture
             };
 
             var CreateResult = await manager.CreateAsync(User, userData.Password);
@@ -283,6 +284,7 @@ namespace NorthWind.Membership.Backend.AspNetIdentity.Services
             string lastName,
             string cedula,
             string newPassword,
+            byte[]? profilePicture,
             string currentUserEmail)
         {
             var userToUpdate = await manager.FindByNameAsync(email);
@@ -340,6 +342,11 @@ namespace NorthWind.Membership.Backend.AspNetIdentity.Services
             userToUpdate.FirstName = firstName;
             userToUpdate.LastName = lastName;
             userToUpdate.Cedula = cedula;
+
+            if (profilePicture != null && profilePicture.Length > 0)
+            {
+                userToUpdate.ProfilePicture = profilePicture;
+            }
 
             var updateResult = await manager.UpdateAsync(userToUpdate);
 

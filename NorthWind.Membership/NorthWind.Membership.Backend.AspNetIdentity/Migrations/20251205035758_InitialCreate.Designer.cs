@@ -12,7 +12,7 @@ using NorthWind.Membership.Backend.AspNetIdentity.DataContexts;
 namespace NorthWind.Membership.Backend.AspNetIdentity.Migrations
 {
     [DbContext(typeof(NorthWindMembershipContext))]
-    [Migration("20251204195045_InitialCreate")]
+    [Migration("20251205035758_InitialCreate")]
     partial class InitialCreate
     {
         /// <inheritdoc />
@@ -211,6 +211,9 @@ namespace NorthWind.Membership.Backend.AspNetIdentity.Migrations
 
                     b.Property<bool>("PhoneNumberConfirmed")
                         .HasColumnType("bit");
+
+                    b.Property<byte[]>("ProfilePicture")
+                        .HasColumnType("varbinary(max)");
 
                     b.Property<string>("SecurityStamp")
                         .HasColumnType("nvarchar(max)");

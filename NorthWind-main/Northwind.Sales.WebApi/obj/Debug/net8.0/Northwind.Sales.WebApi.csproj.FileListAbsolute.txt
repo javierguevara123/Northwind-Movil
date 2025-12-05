@@ -866,3 +866,4 @@ D:\PROYECTOS_ESCRITORIO\ProyectoMoviles\Movil\Northwind-Movil\NorthWind-main\Nor
 D:\PROYECTOS_ESCRITORIO\ProyectoMoviles\Movil\Northwind-Movil\NorthWind-main\Northwind.Sales.WebApi\obj\Debug\net8.0\Northwind.Sales.WebApi.pdb
 D:\PROYECTOS_ESCRITORIO\ProyectoMoviles\Movil\Northwind-Movil\NorthWind-main\Northwind.Sales.WebApi\obj\Debug\net8.0\Northwind.Sales.WebApi.genruntimeconfig.cache
 D:\PROYECTOS_ESCRITORIO\ProyectoMoviles\Movil\Northwind-Movil\NorthWind-main\Northwind.Sales.WebApi\obj\Debug\net8.0\ref\Northwind.Sales.WebApi.dll
+D:\PROYECTOS_ESCRITORIO\ProyectoMoviles\Movil\Northwind-Movil\NorthWind-main\Northwind.Sales.WebApi\bin\Debug\net8.0\Assets\default-avatar.png

@@ -1,5 +1,6 @@
 ﻿using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Http;
+using Microsoft.AspNetCore.Mvc;
 using NorthWind.Membership.Backend.Core.Interfaces.UserManagement;
 using NorthWind.Membership.Entities.Dtos.UserManagement;
 using NorthWind.Membership.Entities.ValueObjects;
@@ -87,18 +88,45 @@ internal static class UserManagementController
         // PUT: Actualizar usuario
         app.MapPut(Endpoints.UpdateUser,
             [Authorize]
-        async (UpdateUserDto updateData,
+        async (
+            [FromForm] string email,
+            [FromForm] string firstName,
+            [FromForm] string lastName,
+            [FromForm] string cedula,
+            [FromForm] string? newPassword, // Puede ser nulo o vacío
+            IFormFile? profilePicture,      // El archivo de imagen
             HttpContext httpContext,
             IUpdateUserInputPort inputPort,
             IUpdateUserOutputPort presenter) =>
             {
-                // Obtener el email del usuario autenticado desde el token JWT
+                // 1. Procesar la imagen si existe
+                byte[]? pictureBytes = null;
+                if (profilePicture != null && profilePicture.Length > 0)
+                {
+                    using var memoryStream = new MemoryStream();
+                    await profilePicture.CopyToAsync(memoryStream);
+                    pictureBytes = memoryStream.ToArray();
+                }
+
+                // 2. Obtener el email del usuario autenticado
                 var currentUserEmail = httpContext.User.FindFirst(ClaimTypes.Name)?.Value;
-                updateData.CurrentUserEmail = currentUserEmail;
+
+                // 3. Construir el DTO manualmente
+                var updateData = new UpdateUserDto
+                {
+                    Email = email,
+                    FirstName = firstName,
+                    LastName = lastName,
+                    Cedula = cedula,
+                    NewPassword = newPassword,
+                    ProfilePicture = pictureBytes,
+                    CurrentUserEmail = currentUserEmail
+                };
 
                 await inputPort.Handle(updateData);
                 return presenter.Result;
             })
+            .DisableAntiforgery() // Necesario a veces para subida de archivos en Minimal APIs simples
             .RequireAuthorization();
 
         // DELETE: Eliminar usuario

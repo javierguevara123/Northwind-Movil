@@ -7,5 +7,6 @@ namespace NorthWind.Membership.Backend.AspNetIdentity.Entities
         public string FirstName { get; set; }
         public string LastName { get; set; }
         public string Cedula { get; set; }
+        public byte[]? ProfilePicture { get; set; }
     }
 }

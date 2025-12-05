@@ -596,9 +596,34 @@
     "Order": 0,
     "Parameters": [
       {
-        "Name": "updateData",
-        "Type": "NorthWind.Membership.Entities.Dtos.UserManagement.UpdateUserDto",
+        "Name": "email",
+        "Type": "System.String",
         "IsRequired": true
+      },
+      {
+        "Name": "firstName",
+        "Type": "System.String",
+        "IsRequired": true
+      },
+      {
+        "Name": "lastName",
+        "Type": "System.String",
+        "IsRequired": true
+      },
+      {
+        "Name": "cedula",
+        "Type": "System.String",
+        "IsRequired": true
+      },
+      {
+        "Name": "newPassword",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "profilePicture",
+        "Type": "Microsoft.AspNetCore.Http.IFormFile",
+        "IsRequired": false
       }
     ],
     "ReturnTypes": [

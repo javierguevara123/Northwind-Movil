@@ -7,7 +7,7 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <PackageReference Include="NorthWind.Membership.Backend.AspNetIdentity" Version="1.1.0" />
+    <PackageReference Include="NorthWind.Membership.Backend.AspNetIdentity" Version="1.1.1" />
   </ItemGroup>
 
   <ItemGroup>
